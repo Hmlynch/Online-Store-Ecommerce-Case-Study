@@ -30,6 +30,6 @@ Once a key hypothesis was determined, then comes the data analysis process. This
 ## Credit
 
 <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study">Case Study: Online Store Data</a>
-* Dataset: <a href"https://www.kaggle.com/datasets/mountboy/online-store-customer-data">Online Store Customer Data</a>
-
+* Dataset: 
+<a href"https://www.kaggle.com/datasets/mountboy/online-store-customer-data">Online Store Customer Data</a>
 * Author: Noro Chalise
