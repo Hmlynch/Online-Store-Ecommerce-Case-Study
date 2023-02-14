@@ -1,0 +1,4 @@
+Payment_method,AVG_Amount_Spent_per_Transaction,Total_Amount_Spent_per_Payment_Method,Total_People_per_Payment_Method
+Card,1426.0,725668.0,509
+Other,1476.0,619988.0,420
+PayPal,1400.0,1139638.0,814

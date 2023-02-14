@@ -1,0 +1,1744 @@
+Transaction_date,Transaction_year,Transaction_month,Transaction_ID,Gender,Age,Age_group,Marital_status,State_names,Segment,Employees_status,Payment_method,Referral,Amount_spent
+1/1/2019,2019,January,151200,Female,19,(15-24),Single,Kansas,Basic,Unemployment,Other,Referred,"$2,051.36"
+1/1/2019,2019,January,151201,Male,49,(40-54),Single,Illinois,Basic,Self-employed,Card,No Referral,$544.04
+1/1/2019,2019,January,151202,Male,63,(55+),Married,New Mexico,Basic,Workers,PayPal,Referred,"$1,572.60"
+1/3/2019,2019,January,151205,Male,71,(55+),Single,Hawaii,Basic,Employees,PayPal,Referred,"$2,922.66"
+1/3/2019,2019,January,151206,Female,34,(25-39),Married,New Mexico,Platinum,Employees,PayPal,Referred,"$1,481.42"
+1/3/2019,2019,January,151207,Male,37,(25-39),Married,Connecticut,Basic,Workers,PayPal,Referred,"$1,149.55"
+1/4/2019,2019,January,151208,Male,75,(55+),Married,Florida,Silver,Employees,Card,No Referral,"$1,046.20"
+1/4/2019,2019,January,151209,Female,41,(40-54),Married,Vermont,Gold,Unemployment,Card,Referred,"$2,730.60"
+1/4/2019,2019,January,151210,Female,56,(55+),Married,California,Basic,Employees,PayPal,No Referral,"$1,712.82"
+1/5/2019,2019,January,151211,Female,63,(55+),Married,Colorado,Basic,Workers,Other,Referred,$154.31
+1/5/2019,2019,January,151212,Female,60,(55+),Married,Iowa,Basic,Self-employed,Card,Referred,$819.08
+1/5/2019,2019,January,151213,Male,47,(40-54),Single,South Carolina,Basic,Employees,PayPal,Referred,"$1,719.83"
+1/5/2019,2019,January,151214,Male,24,(15-24),Married,Colorado,Platinum,Self-employed,Other,Referred,$954.12
+1/6/2019,2019,January,151215,Male,16,(15-24),Single,New York,Platinum,Workers,Other,Referred,"$1,005.92"
+1/6/2019,2019,January,151216,Female,72,(55+),Married,Maine,Silver,Self-employed,PayPal,Referred,"$2,882.77"
+1/7/2019,2019,January,151217,Female,77,(55+),Married,New Mexico,Platinum,Workers,Card,No Referral,"$2,999.98"
+1/7/2019,2019,January,151218,Male,42,(40-54),Married,Maryland,Basic,Self-employed,Other,No Referral,"$1,902.73"
+1/8/2019,2019,January,151219,Female,46,(40-54),Married,Missouri,Basic,Employees,Card,Referred,"$2,968.95"
+1/8/2019,2019,January,151221,Male,42,(40-54),Married,North Dakota,Silver,Workers,PayPal,No Referral,$995.77
+1/8/2019,2019,January,151222,Female,50,(40-54),Married,Ohio,Missing,Workers,Card,No Referral,$719.13
+1/9/2019,2019,January,151223,Male,47,(40-54),Single,Nebraska,Basic,Self-employed,PayPal,Referred,"$2,407.36"
+1/10/2019,2019,January,151224,Female,32,(25-39),Single,Montana,Basic,Employees,PayPal,No Referral,"$2,737.41"
+1/11/2019,2019,January,151225,Male,25,(25-39),Married,Indiana,Basic,Self-employed,Other,Referred,"$1,514.75"
+1/12/2019,2019,January,151226,Male,33,(25-39),Married,Wisconsin,Basic,Self-employed,Card,Referred,$293.58
+1/12/2019,2019,January,151227,Male,61,(55+),Married,Alabama,Platinum,Workers,Card,Referred,"$1,094.67"
+1/12/2019,2019,January,151228,Male,75,(55+),Married,Alabama,Basic,Self-employed,PayPal,Referred,$233.05
+1/13/2019,2019,January,151231,Female,21,(15-24),Single,Montana,Basic,Employees,Card,No Referral,"$2,035.07"
+1/13/2019,2019,January,151232,Male,39,(25-39),Single,Arkansas,Basic,Employees,Other,No Referral,$128.29
+1/14/2019,2019,January,151233,Male,15,(15-24),Married,Missouri,Gold,Self-employed,Card,Referred,$628.93
+1/14/2019,2019,January,151234,Female,59,(55+),Married,Pennsylvania,Basic,Employees,Card,No Referral,"$1,729.36"
+1/14/2019,2019,January,151235,Male,70,(55+),Married,New Hampshire,Silver,Workers,Other,Referred,"$2,040.29"
+1/14/2019,2019,January,151236,Male,75,(55+),Married,Washington,Platinum,Employees,PayPal,Referred,"$2,744.88"
+1/16/2019,2019,January,151237,Male,64,(55+),Married,Texas,Missing,Employees,PayPal,Referred,$351.88
+1/16/2019,2019,January,151238,Female,64,(55+),Married,Ohio,Silver,Unemployment,Other,No Referral,$692.14
+1/17/2019,2019,January,151239,Male,64,(55+),Married,New York,Silver,Unemployment,PayPal,Referred,"$2,418.62"
+1/17/2019,2019,January,151240,Female,21,(15-24),Married,Kentucky,Basic,Workers,Card,No Referral,"$2,734.15"
+1/17/2019,2019,January,151241,Female,46,(40-54),Married,New Mexico,Silver,Workers,PayPal,Referred,"$2,851.83"
+1/17/2019,2019,January,151242,Female,16,(15-24),Single,Texas,Gold,Self-employed,PayPal,Referred,$938.16
+1/18/2019,2019,January,151243,Female,63,(55+),Married,Maine,Gold,Workers,PayPal,Referred,$281.92
+1/19/2019,2019,January,151244,Male,75,(55+),Single,Massachusetts,Basic,Employees,PayPal,Referred,$747.68
+1/20/2019,2019,January,151245,Male,70,(55+),Married,Wyoming,Basic,Unemployment,Card,Referred,"$1,784.15"
+1/20/2019,2019,January,151246,Male,41,(40-54),Single,Kentucky,Missing,Employees,PayPal,Referred,"$1,115.90"
+1/21/2019,2019,January,151247,Male,33,(25-39),Married,Florida,Silver,Employees,Other,No Referral,"$1,902.47"
+1/21/2019,2019,January,151248,Female,64,(55+),Single,Massachusetts,Platinum,Self-employed,Card,Referred,"$1,949.92"
+1/22/2019,2019,January,151250,Female,16,(15-24),Married,Maryland,Silver,Employees,PayPal,Referred,$583.72
+1/22/2019,2019,January,151251,Male,56,(55+),Single,Louisiana,Basic,Self-employed,Card,No Referral,"$2,445.03"
+1/22/2019,2019,January,151252,Male,35,(25-39),Married,North Carolina,Basic,Unemployment,PayPal,Referred,"$1,107.96"
+1/23/2019,2019,January,151253,Male,51,(40-54),Single,Kentucky,Basic,Self-employed,PayPal,Referred,"$1,312.78"
+1/23/2019,2019,January,151254,Male,15,(15-24),Married,Illinois,Basic,Employees,Card,Referred,"$2,690.18"
+1/24/2019,2019,January,151255,Male,26,(25-39),Single,Rhode Island,Basic,Workers,PayPal,Referred,"$2,603.22"
+1/25/2019,2019,January,151256,Female,67,(55+),Single,Iowa,Gold,Employees,PayPal,Referred,$611.70
+1/25/2019,2019,January,151257,Male,71,(55+),Single,Massachusetts,Gold,Employees,PayPal,Referred,"$2,569.67"
+1/25/2019,2019,January,151259,Male,73,(55+),Married,West Virginia,Basic,Employees,PayPal,No Referral,"$1,397.09"
+1/26/2019,2019,January,151260,Male,55,(55+),Married,Kansas,Basic,Employees,Other,Referred,"$1,277.64"
+1/26/2019,2019,January,151262,Male,15,(15-24),Married,South Carolina,Basic,Self-employed,Other,Referred,$790.10
+1/27/2019,2019,January,151263,Female,63,(55+),Single,Texas,Gold,Employees,Card,Referred,"$1,218.56"
+1/25/2019,2019,January,151259,Male,73,(55+),Married,West Virginia,Basic,Employees,PayPal,No Referral,"$1,397.09"
+1/26/2019,2019,January,151260,Male,55,(55+),Married,Kansas,Basic,Employees,Other,Referred,"$1,277.64"
+1/26/2019,2019,January,151262,Male,15,(15-24),Married,South Carolina,Basic,Self-employed,Other,Referred,$790.10
+1/27/2019,2019,January,151263,Female,63,(55+),Single,Texas,Gold,Employees,Card,Referred,"$1,218.56"
+1/27/2019,2019,January,151264,Male,52,(40-54),Married,Tennessee,Basic,Self-employed,PayPal,Referred,"$2,850.48"
+1/27/2019,2019,January,151265,Female,30,(25-39),Single,California,Silver,Workers,Card,No Referral,"$1,947.20"
+1/29/2019,2019,January,151266,Male,24,(15-24),Married,Colorado,Platinum,Workers,PayPal,No Referral,"$1,731.54"
+1/29/2019,2019,January,151270,Male,24,(15-24),Married,Oregon,Silver,Workers,Other,Referred,"$1,663.72"
+1/30/2019,2019,January,151273,Female,73,(55+),Married,Alaska,Platinum,Self-employed,PayPal,No Referral,"$1,364.31"
+1/30/2019,2019,January,151274,Male,50,(40-54),Single,Oklahoma,Missing,Employees,Card,Referred,"$2,943.46"
+1/30/2019,2019,January,151275,Male,28,(25-39),Single,Connecticut,Basic,Unemployment,Card,Referred,"$2,768.15"
+1/31/2019,2019,January,151276,Female,49,(40-54),Married,Vermont,Basic,Workers,PayPal,Referred,"$2,439.65"
+1/31/2019,2019,January,151277,Female,70,(55+),Married,Ohio,Silver,Workers,Other,Referred,$574.10
+2/1/2019,2019,February,151278,Female,61,(55+),Single,Oklahoma,Basic,Self-employed,Card,No Referral,$206.79
+2/2/2019,2019,February,151280,Male,34,(25-39),Single,Illinois,Silver,Workers,PayPal,Referred,"$1,933.66"
+2/2/2019,2019,February,151281,Female,58,(55+),Married,Nevada,Gold,Workers,Card,No Referral,"$2,640.72"
+2/2/2019,2019,February,151282,Male,70,(55+),Single,New Jersey,Basic,Workers,PayPal,No Referral,"$2,969.24"
+2/2/2019,2019,February,151283,Female,48,(40-54),Married,Louisiana,Silver,Employees,Other,No Referral,"$1,144.28"
+2/3/2019,2019,February,151285,Female,51,(40-54),Married,Indiana,Platinum,Workers,PayPal,Referred,"$2,722.37"
+2/3/2019,2019,February,151286,Male,45,(40-54),Single,New York,Basic,Employees,Other,No Referral,"$2,823.89"
+2/4/2019,2019,February,151287,Female,45,(40-54),Single,New York,Silver,Workers,PayPal,No Referral,"$1,955.43"
+2/4/2019,2019,February,151288,Male,60,(55+),Married,Rhode Island,Silver,Employees,Card,Referred,$841.26
+2/5/2019,2019,February,151290,Female,51,(40-54),Single,Arkansas,Platinum,Workers,Card,Referred,"$2,547.96"
+2/5/2019,2019,February,151291,Female,15,(15-24),Single,Virginia,Basic,Unemployment,Card,Referred,"$2,922.97"
+2/5/2019,2019,February,151292,Male,55,(55+),Married,Michigan,Basic,Employees,PayPal,No Referral,$803.50
+2/6/2019,2019,February,151293,Male,75,(55+),Married,Maryland,Basic,Employees,Card,Referred,"$1,612.63"
+2/6/2019,2019,February,151294,Female,77,(55+),Single,Nebraska,Platinum,Employees,PayPal,Referred,"$1,608.27"
+2/6/2019,2019,February,151295,Female,22,(15-24),Married,Kansas,Missing,Workers,Card,No Referral,"$2,061.14"
+2/6/2019,2019,February,151296,Female,33,(25-39),Married,Virginia,Platinum,Employees,PayPal,No Referral,"$2,989.33"
+2/6/2019,2019,February,151297,Male,60,(55+),Married,Utah,Silver,Unemployment,Other,Referred,$433.20
+2/7/2019,2019,February,151298,Female,45,(40-54),Married,Missouri,Platinum,Workers,Other,Referred,$929.89
+2/8/2019,2019,February,151299,Male,33,(25-39),Single,Arizona,Silver,Workers,PayPal,No Referral,"$2,560.26"
+2/8/2019,2019,February,151301,Female,53,(40-54),Single,Colorado,Basic,Self-employed,Other,Referred,"$1,888.69"
+2/8/2019,2019,February,151302,Female,70,(55+),Married,New Hampshire,Missing,Employees,Card,Referred,$685.49
+2/8/2019,2019,February,151303,Male,16,(15-24),Married,Nebraska,Basic,Workers,PayPal,Referred,"$1,264.73"
+2/6/2019,2019,February,151297,Male,60,(55+),Married,Utah,Silver,Unemployment,Other,Referred,$433.20
+2/7/2019,2019,February,151298,Female,45,(40-54),Married,Missouri,Platinum,Workers,Other,Referred,$929.89
+2/8/2019,2019,February,151299,Male,33,(25-39),Single,Arizona,Silver,Workers,PayPal,No Referral,"$2,560.26"
+2/8/2019,2019,February,151301,Female,53,(40-54),Single,Colorado,Basic,Self-employed,Other,Referred,"$1,888.69"
+2/8/2019,2019,February,151302,Female,70,(55+),Married,New Hampshire,Missing,Employees,Card,Referred,$685.49
+2/8/2019,2019,February,151303,Male,16,(15-24),Married,Nebraska,Basic,Workers,PayPal,Referred,"$1,264.73"
+2/10/2019,2019,February,151305,Female,25,(25-39),Married,Wyoming,Silver,Workers,Other,Referred,$309.82
+2/10/2019,2019,February,151306,Female,76,(55+),Single,Ohio,Basic,Self-employed,PayPal,Referred,"$1,331.62"
+2/11/2019,2019,February,151307,Female,43,(40-54),Married,Wyoming,Basic,Employees,Card,Referred,$914.94
+2/11/2019,2019,February,151308,Female,32,(25-39),Single,Oregon,Basic,Workers,PayPal,Referred,"$2,922.53"
+2/11/2019,2019,February,151309,Male,43,(40-54),Married,Tennessee,Silver,Self-employed,PayPal,No Referral,"$2,434.81"
+2/12/2019,2019,February,151310,Female,19,(15-24),Single,Louisiana,Platinum,Workers,Card,No Referral,"$1,711.60"
+2/12/2019,2019,February,151311,Female,41,(40-54),Married,Utah,Basic,Self-employed,Other,No Referral,"$1,178.02"
+2/12/2019,2019,February,151312,Male,32,(25-39),Married,Florida,Silver,Employees,PayPal,Referred,$15.37
+2/12/2019,2019,February,151313,Male,76,(55+),Single,Michigan,Silver,Unemployment,PayPal,Referred,$764.34
+2/12/2019,2019,February,151314,Female,55,(55+),Married,Kansas,Platinum,Employees,PayPal,Referred,$329.18
+2/13/2019,2019,February,151315,Female,72,(55+),Single,South Dakota,Basic,Unemployment,Other,No Referral,"$1,380.00"
+2/13/2019,2019,February,151316,Male,56,(55+),Single,Virginia,Platinum,Self-employed,PayPal,Referred,$46.72
+2/13/2019,2019,February,151317,Male,74,(55+),Single,Connecticut,Basic,Workers,Other,Referred,$560.13
+2/14/2019,2019,February,151320,Female,31,(25-39),Married,Washington,Missing,Self-employed,Card,Referred,"$2,508.55"
+2/14/2019,2019,February,151321,Female,69,(55+),Single,Montana,Basic,Self-employed,PayPal,Referred,"$2,906.08"
+2/15/2019,2019,February,151322,Male,52,(40-54),Single,Michigan,Gold,Unemployment,PayPal,Referred,"$1,093.33"
+2/15/2019,2019,February,151323,Female,15,(15-24),Married,Alaska,Basic,Self-employed,Other,No Referral,"$1,408.10"
+2/16/2019,2019,February,151324,Male,74,(55+),Single,Wisconsin,Basic,Workers,Card,No Referral,$490.37
+2/17/2019,2019,February,151326,Male,24,(15-24),Married,Louisiana,Missing,Employees,Other,No Referral,"$1,204.03"
+2/17/2019,2019,February,151327,Female,77,(55+),Single,Kansas,Platinum,Self-employed,PayPal,No Referral,$200.58
+2/18/2019,2019,February,151328,Female,16,(15-24),Married,Georgia,Basic,Workers,PayPal,No Referral,"$1,253.32"
+2/19/2019,2019,February,151329,Female,33,(25-39),Single,Kentucky,Basic,Employees,Card,No Referral,"$1,486.32"
+2/19/2019,2019,February,151330,Male,26,(25-39),Married,Idaho,Basic,Unemployment,PayPal,No Referral,"$1,461.49"
+2/20/2019,2019,February,151331,Male,28,(25-39),Single,West Virginia,Platinum,Workers,Card,Referred,"$1,893.16"
+2/20/2019,2019,February,151332,Female,49,(40-54),Married,Nebraska,Basic,Employees,PayPal,Referred,"$1,321.70"
+2/20/2019,2019,February,151333,Male,52,(40-54),Married,New Mexico,Basic,Workers,Other,No Referral,$861.26
+2/21/2019,2019,February,151334,Male,18,(15-24),Single,Alabama,Silver,Employees,Other,No Referral,$459.47
+2/21/2019,2019,February,151335,Male,71,(55+),Single,Oregon,Basic,Workers,PayPal,No Referral,$685.01
+2/21/2019,2019,February,151336,Male,22,(15-24),Married,New Mexico,Gold,Workers,PayPal,No Referral,"$1,862.93"
+2/21/2019,2019,February,151337,Female,54,(40-54),Married,Michigan,Basic,Unemployment,PayPal,Referred,"$2,831.72"
+2/21/2019,2019,February,151338,Female,77,(55+),Married,Montana,Basic,Workers,Other,Referred,$875.44
+2/21/2019,2019,February,151339,Male,59,(55+),Married,Ohio,Basic,Employees,Other,Referred,$435.79
+2/22/2019,2019,February,151340,Male,61,(55+),Married,California,Basic,Self-employed,PayPal,Referred,$670.59
+2/23/2019,2019,February,151341,Female,45,(40-54),Married,Montana,Basic,Employees,PayPal,No Referral,"$2,497.39"
+2/23/2019,2019,February,151342,Male,39,(25-39),Married,Pennsylvania,Silver,Workers,Other,Referred,$93.11
+2/24/2019,2019,February,151343,Male,16,(15-24),Married,Oklahoma,Gold,Employees,Card,Referred,"$2,497.12"
+2/25/2019,2019,February,151344,Female,28,(25-39),Single,North Dakota,Silver,Employees,Card,Referred,"$1,733.65"
+2/26/2019,2019,February,151345,Male,25,(25-39),Married,West Virginia,Basic,Employees,PayPal,Referred,"$2,746.61"
+2/26/2019,2019,February,151346,Female,42,(40-54),Married,Arkansas,Silver,Employees,Card,Referred,"$2,789.59"
+2/26/2019,2019,February,151347,Female,28,(25-39),Married,California,Basic,Employees,PayPal,Referred,"$1,287.31"
+2/27/2019,2019,February,151348,Male,63,(55+),Married,Arizona,Gold,Employees,PayPal,Referred,"$1,747.91"
+2/28/2019,2019,February,151350,Female,78,(55+),Single,Michigan,Basic,Employees,PayPal,No Referral,"$2,555.05"
+3/1/2019,2019,March,151351,Female,75,(55+),Married,Oklahoma,Basic,Self-employed,Other,Referred,"$1,319.12"
+3/1/2019,2019,March,151352,Female,64,(55+),Married,New York,Basic,Employees,PayPal,Referred,"$1,581.77"
+3/2/2019,2019,March,151353,Female,28,(25-39),Single,Vermont,Silver,Workers,Other,Referred,"$2,422.79"
+3/2/2019,2019,March,151354,Female,42,(40-54),Single,Illinois,Silver,Employees,Card,Referred,$971.01
+3/2/2019,2019,March,151355,Female,66,(55+),Married,Georgia,Basic,Employees,PayPal,Referred,$783.89
+3/3/2019,2019,March,151356,Female,62,(55+),Married,Mississippi,Silver,Unemployment,Other,Referred,$503.49
+3/3/2019,2019,March,151357,Male,15,(15-24),Married,Florida,Gold,Employees,Other,Referred,"$1,790.90"
+3/3/2019,2019,March,151358,Male,76,(55+),Married,Georgia,Missing,Workers,Other,Referred,"$1,832.59"
+3/4/2019,2019,March,151359,Female,53,(40-54),Married,Nevada,Platinum,Self-employed,PayPal,No Referral,$71.73
+3/4/2019,2019,March,151360,Male,39,(25-39),Married,Idaho,Basic,Employees,PayPal,Referred,"$2,486.94"
+3/4/2019,2019,March,151361,Female,58,(55+),Married,North Carolina,Silver,Employees,PayPal,Referred,$520.69
+3/5/2019,2019,March,151362,Female,30,(25-39),Married,New Jersey,Gold,Employees,Card,Referred,$918.51
+3/5/2019,2019,March,151363,Female,17,(15-24),Single,West Virginia,Basic,Self-employed,PayPal,Referred,"$1,070.97"
+3/6/2019,2019,March,151365,Female,20,(15-24),Married,Georgia,Silver,Self-employed,PayPal,Referred,"$1,618.44"
+3/6/2019,2019,March,151366,Male,46,(40-54),Married,Alaska,Platinum,Unemployment,Other,Referred,"$2,417.73"
+3/7/2019,2019,March,151369,Female,20,(15-24),Single,Minnesota,Basic,Employees,PayPal,No Referral,$922.31
+3/7/2019,2019,March,151370,Female,30,(25-39),Married,Maryland,Platinum,Workers,PayPal,Referred,$350.68
+3/7/2019,2019,March,151371,Male,40,(40-54),Married,Rhode Island,Silver,Workers,Card,Referred,"$1,152.11"
+3/7/2019,2019,March,151372,Male,45,(40-54),Single,Ohio,Basic,Employees,Other,Referred,"$1,742.52"
+3/8/2019,2019,March,151373,Female,17,(15-24),Single,Hawaii,Silver,Employees,Card,Referred,$655.42
+3/8/2019,2019,March,151374,Female,40,(40-54),Married,Idaho,Silver,Workers,Other,No Referral,"$1,977.22"
+3/9/2019,2019,March,151375,Female,47,(40-54),Married,West Virginia,Basic,Workers,Other,No Referral,"$1,829.32"
+3/10/2019,2019,March,151378,Female,25,(25-39),Single,Wyoming,Platinum,Unemployment,Card,Referred,"$2,740.57"
+3/10/2019,2019,March,151380,Female,17,(15-24),Married,Mississippi,Basic,Unemployment,Card,Referred,"$1,277.84"
+3/12/2019,2019,March,151382,Female,62,(55+),Married,New Mexico,Platinum,Employees,Card,No Referral,$103.59
+3/12/2019,2019,March,151383,Male,33,(25-39),Married,Delaware,Basic,Employees,Other,Referred,"$1,064.87"
+3/13/2019,2019,March,151385,Male,43,(40-54),Married,Missouri,Silver,Employees,Card,No Referral,"$2,903.96"
+3/13/2019,2019,March,151386,Female,34,(25-39),Married,Alaska,Missing,Workers,Card,No Referral,"$1,493.10"
+3/14/2019,2019,March,151387,Female,49,(40-54),Married,Oklahoma,Missing,Employees,PayPal,No Referral,"$2,562.52"
+3/14/2019,2019,March,151390,Male,47,(40-54),Single,Wyoming,Gold,Unemployment,Other,Referred,$234.19
+3/14/2019,2019,March,151391,Female,15,(15-24),Married,Wyoming,Basic,Employees,PayPal,Referred,"$2,089.53"
+3/15/2019,2019,March,151392,Male,66,(55+),Married,Massachusetts,Silver,Workers,PayPal,Referred,"$2,698.50"
+3/15/2019,2019,March,151394,Male,62,(55+),Single,Texas,Silver,Employees,Card,No Referral,$69.84
+3/16/2019,2019,March,151396,Male,21,(15-24),Single,Minnesota,Platinum,Workers,PayPal,Referred,"$2,635.13"
+3/17/2019,2019,March,151398,Male,17,(15-24),Married,Nevada,Silver,Employees,Other,Referred,"$1,092.95"
+3/18/2019,2019,March,151401,Male,64,(55+),Single,North Carolina,Platinum,Unemployment,Card,Referred,"$2,590.51"
+3/19/2019,2019,March,151402,Male,54,(40-54),Single,North Dakota,Basic,Employees,Card,Referred,"$1,659.73"
+3/20/2019,2019,March,151403,Female,45,(40-54),Single,Montana,Platinum,Employees,PayPal,Referred,$968.41
+3/20/2019,2019,March,151404,Female,43,(40-54),Married,Maine,Silver,Workers,PayPal,No Referral,$705.68
+3/20/2019,2019,March,151405,Male,26,(25-39),Married,Minnesota,Basic,Employees,Card,No Referral,$982.40
+3/21/2019,2019,March,151406,Male,17,(15-24),Single,North Carolina,Basic,Self-employed,Other,Referred,"$1,390.46"
+3/21/2019,2019,March,151407,Male,78,(55+),Married,Idaho,Silver,Workers,Card,No Referral,$378.43
+3/21/2019,2019,March,151408,Female,65,(55+),Married,Vermont,Platinum,Employees,Card,Referred,$61.35
+3/21/2019,2019,March,151409,Male,19,(15-24),Single,Massachusetts,Basic,Unemployment,PayPal,Referred,"$1,081.90"
+3/21/2019,2019,March,151411,Female,35,(25-39),Single,New Mexico,Basic,Workers,PayPal,No Referral,"$2,878.76"
+3/22/2019,2019,March,151412,Female,41,(40-54),Married,Michigan,Silver,Employees,PayPal,Referred,$225.14
+3/22/2019,2019,March,151413,Male,59,(55+),Single,Missouri,Platinum,Workers,Other,Referred,"$2,452.97"
+3/22/2019,2019,March,151414,Female,64,(55+),Married,Vermont,Platinum,Workers,Other,Referred,"$2,054.68"
+3/23/2019,2019,March,151415,Female,15,(15-24),Single,New York,Basic,Self-employed,PayPal,Referred,"$1,690.62"
+3/23/2019,2019,March,151417,Male,62,(55+),Married,Vermont,Basic,Employees,Card,Referred,"$2,875.62"
+3/23/2019,2019,March,151418,Male,41,(40-54),Single,Virginia,Basic,Employees,Card,Referred,"$1,326.62"
+3/24/2019,2019,March,151420,Female,18,(15-24),Single,Florida,Silver,Workers,PayPal,Referred,"$2,493.01"
+3/24/2019,2019,March,151421,Male,63,(55+),Married,Indiana,Gold,Self-employed,Card,Referred,$414.51
+3/25/2019,2019,March,151422,Female,71,(55+),Married,Oklahoma,Gold,Workers,PayPal,Referred,"$1,865.09"
+3/25/2019,2019,March,151424,Female,51,(40-54),Married,Oklahoma,Platinum,Workers,PayPal,Referred,"$1,165.53"
+3/25/2019,2019,March,151426,Female,78,(55+),Single,Indiana,Basic,Employees,PayPal,Referred,"$1,264.81"
+3/26/2019,2019,March,151427,Male,70,(55+),Married,South Dakota,Platinum,Employees,PayPal,Referred,"$1,989.96"
+3/27/2019,2019,March,151429,Male,16,(15-24),Married,Idaho,Basic,Self-employed,PayPal,Referred,$387.77
+3/28/2019,2019,March,151430,Female,18,(15-24),Single,Illinois,Basic,Unemployment,PayPal,Referred,"$2,589.36"
+3/29/2019,2019,March,151431,Female,53,(40-54),Single,Virginia,Platinum,Workers,PayPal,No Referral,"$1,494.10"
+3/29/2019,2019,March,151432,Female,47,(40-54),Single,South Carolina,Silver,Workers,Card,Referred,"$2,779.66"
+3/29/2019,2019,March,151433,Male,57,(55+),Married,New Jersey,Platinum,Unemployment,Other,Referred,$841.23
+3/29/2019,2019,March,151435,Male,19,(15-24),Married,Massachusetts,Gold,Workers,Other,Referred,"$2,694.54"
+3/29/2019,2019,March,151436,Male,64,(55+),Single,Mississippi,Basic,Employees,Card,No Referral,"$2,432.67"
+3/29/2019,2019,March,151437,Male,57,(55+),Single,Nevada,Basic,Self-employed,PayPal,Referred,$80.64
+3/30/2019,2019,March,151438,Female,67,(55+),Married,South Carolina,Basic,Workers,PayPal,Referred,"$2,960.41"
+3/30/2019,2019,March,151439,Female,53,(40-54),Married,New Hampshire,Basic,Workers,Other,No Referral,"$2,600.69"
+3/30/2019,2019,March,151440,Female,68,(55+),Married,Ohio,Basic,Employees,PayPal,Referred,$550.44
+3/31/2019,2019,March,151443,Female,76,(55+),Single,Vermont,Platinum,Employees,Other,Referred,"$1,672.01"
+3/31/2019,2019,March,151444,Female,60,(55+),Single,New Jersey,Basic,Self-employed,Card,Referred,"$1,891.16"
+3/31/2019,2019,March,151445,Female,45,(40-54),Married,Arizona,Basic,Workers,Card,Referred,"$1,692.07"
+4/1/2019,2019,April,151446,Male,54,(40-54),Single,West Virginia,Gold,Self-employed,PayPal,Referred,$485.43
+4/1/2019,2019,April,151447,Female,57,(55+),Single,Georgia,Basic,Unemployment,PayPal,Referred,$625.29
+4/1/2019,2019,April,151448,Male,48,(40-54),Single,Wisconsin,Basic,Self-employed,PayPal,Referred,"$1,471.54"
+4/2/2019,2019,April,151450,Male,27,(25-39),Single,California,Basic,Employees,PayPal,Referred,"$1,929.33"
+4/2/2019,2019,April,151452,Male,57,(55+),Married,Texas,Silver,Employees,PayPal,Referred,"$2,670.72"
+4/3/2019,2019,April,151454,Male,34,(25-39),Married,Texas,Basic,Self-employed,Card,No Referral,"$1,901.16"
+4/4/2019,2019,April,151455,Female,48,(40-54),Married,Alaska,Gold,Workers,Card,No Referral,"$1,728.06"
+4/4/2019,2019,April,151457,Female,49,(40-54),Single,Hawaii,Basic,Workers,PayPal,Referred,"$1,822.31"
+4/4/2019,2019,April,151458,Female,77,(55+),Single,Arizona,Basic,Self-employed,Card,No Referral,$711.52
+4/6/2019,2019,April,151461,Female,15,(15-24),Married,Arizona,Basic,Self-employed,PayPal,Referred,$198.48
+4/6/2019,2019,April,151462,Female,58,(55+),Married,Mississippi,Basic,Workers,PayPal,Referred,$418.28
+4/6/2019,2019,April,151463,Male,27,(25-39),Single,Oregon,Silver,Workers,PayPal,No Referral,$913.81
+4/7/2019,2019,April,151465,Female,36,(25-39),Married,Texas,Platinum,Employees,Card,No Referral,"$1,608.01"
+4/7/2019,2019,April,151466,Male,43,(40-54),Married,Montana,Basic,Unemployment,PayPal,Referred,"$2,681.13"
+4/7/2019,2019,April,151468,Female,59,(55+),Married,Iowa,Gold,Employees,PayPal,No Referral,"$2,410.23"
+4/8/2019,2019,April,151469,Female,73,(55+),Married,Texas,Basic,Workers,PayPal,Referred,$63.20
+4/8/2019,2019,April,151471,Female,51,(40-54),Married,South Dakota,Silver,Workers,PayPal,Referred,"$2,558.27"
+4/8/2019,2019,April,151472,Female,51,(40-54),Married,Vermont,Basic,Self-employed,Other,Referred,$603.47
+4/9/2019,2019,April,151473,Female,45,(40-54),Single,Colorado,Silver,Employees,Card,No Referral,"$2,790.30"
+4/10/2019,2019,April,151474,Female,50,(40-54),Married,South Carolina,Platinum,Employees,PayPal,Referred,$801.07
+4/10/2019,2019,April,151475,Female,56,(55+),Married,Wyoming,Basic,Employees,PayPal,Referred,$250.81
+4/10/2019,2019,April,151476,Female,74,(55+),Married,Florida,Basic,Workers,Other,Referred,"$2,076.39"
+4/10/2019,2019,April,151478,Male,22,(15-24),Single,Pennsylvania,Basic,Employees,PayPal,Referred,"$2,928.57"
+4/11/2019,2019,April,151479,Female,71,(55+),Single,Vermont,Platinum,Employees,PayPal,Referred,"$1,707.96"
+4/11/2019,2019,April,151480,Male,59,(55+),Married,Mississippi,Basic,Self-employed,Card,Referred,"$2,501.05"
+4/11/2019,2019,April,151481,Female,46,(40-54),Married,Oklahoma,Basic,Employees,Card,Referred,"$1,757.27"
+4/11/2019,2019,April,151482,Male,47,(40-54),Single,Georgia,Platinum,Workers,PayPal,Referred,"$1,994.46"
+4/11/2019,2019,April,151484,Male,56,(55+),Single,Florida,Missing,Workers,Other,Referred,"$1,600.96"
+4/12/2019,2019,April,151485,Female,55,(55+),Married,Arizona,Basic,Self-employed,Other,Referred,"$2,773.68"
+4/12/2019,2019,April,151486,Male,43,(40-54),Single,Nebraska,Silver,Self-employed,PayPal,Referred,"$2,749.66"
+4/13/2019,2019,April,151488,Female,37,(25-39),Single,Arizona,Silver,Workers,Other,Referred,"$1,733.91"
+4/13/2019,2019,April,151490,Female,73,(55+),Married,Wisconsin,Basic,Unemployment,PayPal,Referred,"$2,787.95"
+4/14/2019,2019,April,151491,Male,48,(40-54),Married,California,Platinum,Workers,PayPal,Referred,$910.97
+4/14/2019,2019,April,151492,Female,78,(55+),Single,Oregon,Silver,Workers,PayPal,No Referral,$7.44
+4/14/2019,2019,April,151493,Male,53,(40-54),Single,Colorado,Basic,Employees,Card,Referred,"$1,342.22"
+4/15/2019,2019,April,151495,Female,55,(55+),Married,North Dakota,Basic,Employees,PayPal,Referred,"$2,084.64"
+4/16/2019,2019,April,151496,Female,63,(55+),Single,Hawaii,Silver,Workers,PayPal,No Referral,$945.70
+4/16/2019,2019,April,151497,Female,15,(15-24),Single,South Dakota,Missing,Employees,PayPal,No Referral,"$1,380.20"
+4/17/2019,2019,April,151498,Male,57,(55+),Single,Kentucky,Basic,Unemployment,PayPal,No Referral,$663.43
+4/17/2019,2019,April,151501,Male,28,(25-39),Single,Alaska,Platinum,Employees,PayPal,No Referral,"$1,834.95"
+4/17/2019,2019,April,151502,Male,18,(15-24),Married,Arizona,Basic,Unemployment,Card,Referred,"$1,835.84"
+4/17/2019,2019,April,151503,Female,35,(25-39),Single,Illinois,Gold,Workers,Card,Referred,"$1,884.42"
+4/18/2019,2019,April,151504,Female,70,(55+),Married,Nevada,Basic,Employees,PayPal,Referred,"$1,176.71"
+4/19/2019,2019,April,151505,Female,50,(40-54),Married,Vermont,Basic,Employees,PayPal,No Referral,$53.82
+4/19/2019,2019,April,151506,Female,54,(40-54),Married,Maine,Platinum,Workers,PayPal,No Referral,$982.39
+4/19/2019,2019,April,151507,Female,48,(40-54),Married,Kentucky,Basic,Workers,PayPal,Referred,"$1,690.70"
+4/20/2019,2019,April,151509,Female,30,(25-39),Married,Michigan,Platinum,Employees,PayPal,Referred,"$2,703.18"
+4/20/2019,2019,April,151510,Female,38,(25-39),Married,Texas,Basic,Employees,PayPal,No Referral,$281.95
+4/20/2019,2019,April,151511,Male,32,(25-39),Married,Hawaii,Basic,Self-employed,Other,Referred,$338.98
+4/21/2019,2019,April,151512,Male,67,(55+),Married,Pennsylvania,Silver,Workers,PayPal,No Referral,$883.97
+4/21/2019,2019,April,151513,Female,58,(55+),Married,Vermont,Silver,Employees,PayPal,Referred,"$2,861.87"
+4/21/2019,2019,April,151514,Male,31,(25-39),Married,Oregon,Basic,Unemployment,Other,Referred,$975.49
+4/21/2019,2019,April,151515,Male,42,(40-54),Single,Ohio,Basic,Workers,Other,Referred,$421.83
+4/21/2019,2019,April,151516,Male,62,(55+),Married,Alaska,Basic,Employees,Other,Referred,$588.88
+4/21/2019,2019,April,151517,Male,54,(40-54),Single,New York,Platinum,Employees,Other,No Referral,"$2,463.70"
+4/21/2019,2019,April,151518,Male,66,(55+),Single,Connecticut,Silver,Workers,PayPal,No Referral,$639.44
+4/21/2019,2019,April,151519,Female,43,(40-54),Single,Oklahoma,Basic,Workers,PayPal,No Referral,$52.20
+4/22/2019,2019,April,151523,Female,42,(40-54),Married,Michigan,Basic,Employees,Other,Referred,"$2,969.97"
+4/22/2019,2019,April,151524,Male,70,(55+),Married,Kansas,Basic,Self-employed,PayPal,No Referral,$492.40
+4/23/2019,2019,April,151525,Female,42,(40-54),Married,Pennsylvania,Basic,Workers,PayPal,Referred,$131.92
+4/23/2019,2019,April,151526,Male,22,(15-24),Married,New Hampshire,Silver,Employees,Other,Referred,"$2,621.53"
+4/24/2019,2019,April,151527,Female,17,(15-24),Married,Kentucky,Basic,Employees,Card,No Referral,"$2,062.18"
+4/25/2019,2019,April,151529,Male,54,(40-54),Married,Florida,Missing,Employees,Card,Referred,$877.61
+4/25/2019,2019,April,151530,Female,55,(55+),Married,California,Basic,Employees,PayPal,No Referral,"$2,491.79"
+4/26/2019,2019,April,151531,Female,30,(25-39),Married,North Carolina,Missing,Self-employed,Card,Referred,"$2,660.45"
+4/26/2019,2019,April,151532,Male,61,(55+),Single,New York,Silver,Employees,Other,No Referral,"$2,910.02"
+4/26/2019,2019,April,151533,Male,48,(40-54),Married,Oklahoma,Basic,Self-employed,PayPal,Referred,"$2,929.12"
+4/26/2019,2019,April,151534,Female,42,(40-54),Married,New Jersey,Basic,Unemployment,PayPal,No Referral,"$1,095.86"
+4/27/2019,2019,April,151536,Male,31,(25-39),Single,New York,Gold,Unemployment,PayPal,Referred,$138.00
+4/27/2019,2019,April,151537,Female,78,(55+),Married,Massachusetts,Basic,Employees,Other,No Referral,"$2,557.47"
+4/28/2019,2019,April,151539,Female,37,(25-39),Single,Oklahoma,Missing,Unemployment,Card,Referred,"$1,888.32"
+4/29/2019,2019,April,151540,Female,49,(40-54),Single,Pennsylvania,Silver,Unemployment,Other,No Referral,"$1,664.69"
+4/29/2019,2019,April,151541,Male,72,(55+),Married,Alabama,Basic,Workers,PayPal,Referred,$118.72
+4/29/2019,2019,April,151542,Female,74,(55+),Married,Indiana,Silver,Employees,Card,Referred,"$2,679.12"
+4/30/2019,2019,April,151544,Female,18,(15-24),Single,Idaho,Basic,Employees,PayPal,Referred,"$1,725.46"
+4/30/2019,2019,April,151545,Male,65,(55+),Married,Maine,Basic,Self-employed,Card,Referred,$977.77
+4/30/2019,2019,April,151546,Female,56,(55+),Single,West Virginia,Missing,Self-employed,Card,Referred,"$2,585.48"
+5/1/2019,2019,May,151547,Male,50,(40-54),Married,Washington,Silver,Employees,PayPal,Referred,"$2,000.87"
+5/1/2019,2019,May,151548,Female,70,(55+),Married,Alaska,Platinum,Self-employed,Other,Referred,$692.48
+5/1/2019,2019,May,151550,Female,54,(40-54),Married,Indiana,Basic,Employees,Card,Referred,"$1,465.74"
+5/1/2019,2019,May,151551,Male,31,(25-39),Married,Arkansas,Basic,Workers,Card,No Referral,$417.24
+5/2/2019,2019,May,151552,Male,63,(55+),Single,Maine,Basic,Employees,Other,Referred,"$2,707.84"
+5/2/2019,2019,May,151553,Female,26,(25-39),Single,Virginia,Basic,Employees,PayPal,Referred,"$2,043.82"
+5/3/2019,2019,May,151555,Female,50,(40-54),Single,Rhode Island,Silver,Employees,Card,No Referral,$140.97
+5/3/2019,2019,May,151556,Male,70,(55+),Single,Kansas,Basic,Employees,Other,Referred,"$1,559.00"
+5/3/2019,2019,May,151557,Male,75,(55+),Married,New Mexico,Gold,Workers,PayPal,No Referral,"$2,935.68"
+5/4/2019,2019,May,151558,Male,25,(25-39),Single,Texas,Basic,Employees,Other,Referred,"$1,432.66"
+5/4/2019,2019,May,151559,Female,57,(55+),Married,Oregon,Platinum,Self-employed,Other,No Referral,$151.83
+5/4/2019,2019,May,151560,Male,42,(40-54),Single,Pennsylvania,Gold,Workers,PayPal,Referred,$446.72
+5/6/2019,2019,May,151561,Male,54,(40-54),Married,Alabama,Basic,Unemployment,PayPal,Referred,"$1,264.38"
+5/6/2019,2019,May,151562,Male,50,(40-54),Married,Georgia,Platinum,Workers,PayPal,No Referral,"$1,935.65"
+5/7/2019,2019,May,151563,Female,39,(25-39),Single,Arkansas,Platinum,Employees,PayPal,No Referral,"$1,795.28"
+5/7/2019,2019,May,151564,Male,52,(40-54),Single,Nebraska,Gold,Self-employed,PayPal,Referred,$993.37
+5/7/2019,2019,May,151565,Female,53,(40-54),Married,Alabama,Basic,Employees,Card,No Referral,"$1,317.05"
+5/8/2019,2019,May,151566,Male,44,(40-54),Single,Missouri,Gold,Employees,Other,Referred,"$1,557.57"
+5/9/2019,2019,May,151571,Female,64,(55+),Single,Illinois,Silver,Unemployment,Card,Referred,$788.82
+5/9/2019,2019,May,151572,Male,47,(40-54),Married,Hawaii,Missing,Workers,PayPal,Referred,"$1,239.29"
+5/9/2019,2019,May,151573,Male,43,(40-54),Single,Hawaii,Silver,Employees,Card,No Referral,"$2,450.00"
+5/10/2019,2019,May,151574,Female,40,(40-54),Married,Wyoming,Basic,Employees,Card,Referred,"$1,787.80"
+5/10/2019,2019,May,151575,Female,31,(25-39),Single,Maryland,Silver,Employees,Other,Referred,"$2,870.80"
+5/10/2019,2019,May,151576,Female,51,(40-54),Single,Oklahoma,Silver,Self-employed,Card,Referred,$979.14
+5/10/2019,2019,May,151577,Male,26,(25-39),Single,Missouri,Silver,Employees,PayPal,Referred,"$1,521.48"
+5/10/2019,2019,May,151578,Male,28,(25-39),Married,Colorado,Platinum,Employees,PayPal,Referred,"$2,673.29"
+5/11/2019,2019,May,151579,Male,67,(55+),Married,Ohio,Basic,Workers,PayPal,Referred,$198.04
+5/11/2019,2019,May,151580,Male,56,(55+),Married,Oregon,Gold,Workers,PayPal,Referred,$288.93
+5/11/2019,2019,May,151581,Female,65,(55+),Married,Maine,Basic,Self-employed,PayPal,Referred,"$2,564.80"
+5/12/2019,2019,May,151582,Female,24,(15-24),Married,New Jersey,Missing,Workers,Card,Referred,$147.79
+5/12/2019,2019,May,151584,Female,26,(25-39),Married,Pennsylvania,Missing,Unemployment,Card,Referred,$376.84
+5/12/2019,2019,May,151585,Male,68,(55+),Married,Louisiana,Silver,Self-employed,Other,No Referral,"$2,437.16"
+5/12/2019,2019,May,151586,Male,61,(55+),Single,Nebraska,Silver,Employees,PayPal,Referred,"$2,966.93"
+5/12/2019,2019,May,151589,Female,51,(40-54),Single,Arkansas,Platinum,Employees,PayPal,No Referral,"$1,160.61"
+5/13/2019,2019,May,151590,Male,32,(25-39),Single,Maine,Basic,Workers,PayPal,Referred,$408.35
+5/13/2019,2019,May,151592,Male,60,(55+),Married,Michigan,Basic,Workers,Other,No Referral,"$1,675.80"
+5/14/2019,2019,May,151593,Male,42,(40-54),Married,Utah,Basic,Workers,Other,Referred,"$2,618.52"
+5/14/2019,2019,May,151594,Male,48,(40-54),Married,New Hampshire,Gold,Unemployment,Other,Referred,"$2,656.04"
+5/15/2019,2019,May,151595,Female,27,(25-39),Married,Utah,Basic,Employees,Card,Referred,$861.86
+5/15/2019,2019,May,151596,Male,36,(25-39),Married,South Carolina,Silver,Employees,PayPal,Referred,"$1,447.65"
+5/15/2019,2019,May,151597,Male,54,(40-54),Single,North Carolina,Platinum,Employees,Card,Referred,"$2,936.96"
+5/16/2019,2019,May,151598,Female,61,(55+),Married,Rhode Island,Silver,Employees,Other,No Referral,$70.00
+5/16/2019,2019,May,151599,Female,28,(25-39),Married,Nebraska,Platinum,Unemployment,Card,Referred,"$1,575.98"
+5/16/2019,2019,May,151600,Male,30,(25-39),Married,West Virginia,Platinum,Employees,Card,No Referral,"$2,825.66"
+5/17/2019,2019,May,151603,Male,70,(55+),Single,Iowa,Basic,Self-employed,Card,No Referral,$672.20
+5/18/2019,2019,May,151604,Male,65,(55+),Married,Georgia,Platinum,Unemployment,Other,No Referral,"$1,556.90"
+5/19/2019,2019,May,151605,Male,46,(40-54),Single,Georgia,Basic,Workers,Other,Referred,$858.76
+5/19/2019,2019,May,151606,Female,46,(40-54),Married,Minnesota,Gold,Employees,Card,Referred,"$2,035.45"
+5/19/2019,2019,May,151607,Female,24,(15-24),Single,Georgia,Basic,Employees,Card,Referred,"$2,899.42"
+5/20/2019,2019,May,151609,Female,72,(55+),Single,Michigan,Basic,Workers,Card,No Referral,"$1,680.73"
+5/20/2019,2019,May,151610,Male,19,(15-24),Single,New Jersey,Basic,Self-employed,PayPal,Referred,"$1,401.18"
+5/20/2019,2019,May,151612,Female,30,(25-39),Married,Connecticut,Platinum,Employees,PayPal,Referred,$28.27
+5/20/2019,2019,May,151613,Female,20,(15-24),Married,Wisconsin,Basic,Self-employed,PayPal,No Referral,"$1,350.76"
+5/21/2019,2019,May,151614,Male,64,(55+),Single,Illinois,Silver,Unemployment,PayPal,Referred,$889.38
+5/21/2019,2019,May,151615,Female,71,(55+),Married,Arkansas,Basic,Employees,Card,Referred,"$2,883.69"
+5/22/2019,2019,May,151616,Male,50,(40-54),Married,Mississippi,Silver,Workers,PayPal,Referred,"$1,623.72"
+5/23/2019,2019,May,151617,Female,63,(55+),Single,North Dakota,Silver,Workers,PayPal,Referred,"$2,619.18"
+5/23/2019,2019,May,151618,Female,32,(25-39),Married,Maine,Basic,Self-employed,Card,No Referral,"$1,233.36"
+5/24/2019,2019,May,151620,Female,65,(55+),Married,California,Basic,Employees,PayPal,Referred,"$1,134.46"
+5/24/2019,2019,May,151621,Female,63,(55+),Single,Louisiana,Basic,Employees,Other,Referred,$958.83
+5/24/2019,2019,May,151622,Male,38,(25-39),Single,Alaska,Basic,Unemployment,PayPal,Referred,"$1,526.24"
+5/24/2019,2019,May,151623,Female,48,(40-54),Married,Vermont,Platinum,Employees,Card,No Referral,"$1,310.51"
+5/24/2019,2019,May,151624,Male,55,(55+),Married,New York,Basic,Workers,PayPal,Referred,$392.63
+5/24/2019,2019,May,151625,Female,44,(40-54),Married,Vermont,Basic,Employees,Card,Referred,"$1,217.31"
+5/25/2019,2019,May,151627,Male,65,(55+),Single,Arizona,Basic,Self-employed,Other,Referred,"$2,469.58"
+5/26/2019,2019,May,151628,Male,72,(55+),Married,Michigan,Basic,Employees,Card,No Referral,$602.97
+5/26/2019,2019,May,151629,Male,50,(40-54),Married,New Jersey,Basic,Employees,Card,Referred,"$2,083.16"
+5/27/2019,2019,May,151630,Female,42,(40-54),Single,Georgia,Platinum,Workers,PayPal,No Referral,"$1,582.94"
+5/27/2019,2019,May,151631,Male,44,(40-54),Married,Minnesota,Platinum,Workers,Card,No Referral,$575.17
+5/27/2019,2019,May,151632,Female,39,(25-39),Married,Florida,Gold,Workers,Card,Referred,"$1,913.57"
+5/28/2019,2019,May,151633,Female,42,(40-54),Single,Arizona,Basic,Employees,Other,No Referral,"$1,519.64"
+5/28/2019,2019,May,151634,Female,52,(40-54),Single,Maryland,Basic,Employees,PayPal,Referred,$809.64
+5/28/2019,2019,May,151636,Male,49,(40-54),Married,Pennsylvania,Basic,Employees,PayPal,Referred,"$1,154.13"
+5/28/2019,2019,May,151637,Female,41,(40-54),Single,Oregon,Basic,Employees,PayPal,Referred,$218.64
+5/29/2019,2019,May,151640,Male,54,(40-54),Married,Nebraska,Basic,Employees,Card,Referred,$682.48
+5/29/2019,2019,May,151642,Female,65,(55+),Single,Alabama,Silver,Workers,PayPal,No Referral,"$2,520.85"
+5/30/2019,2019,May,151643,Male,44,(40-54),Single,California,Basic,Employees,PayPal,Referred,$977.74
+5/31/2019,2019,May,151645,Female,29,(25-39),Married,Arkansas,Silver,Self-employed,Card,Referred,"$2,966.21"
+5/31/2019,2019,May,151646,Male,68,(55+),Married,Connecticut,Missing,Employees,Other,No Referral,$141.03
+6/1/2019,2019,June,151647,Female,66,(55+),Married,Georgia,Platinum,Employees,Card,No Referral,$502.91
+6/1/2019,2019,June,151648,Male,31,(25-39),Married,Alaska,Silver,Workers,PayPal,Referred,"$1,371.52"
+6/1/2019,2019,June,151649,Male,77,(55+),Single,Minnesota,Missing,Self-employed,PayPal,Referred,$853.19
+6/2/2019,2019,June,151651,Male,20,(15-24),Married,Florida,Basic,Employees,PayPal,Referred,"$2,862.92"
+6/2/2019,2019,June,151652,Female,36,(25-39),Single,New Jersey,Gold,Employees,PayPal,Referred,"$2,558.00"
+6/2/2019,2019,June,151653,Female,18,(15-24),Married,Arizona,Missing,Workers,PayPal,No Referral,"$1,440.43"
+6/2/2019,2019,June,151654,Female,53,(40-54),Married,Missouri,Gold,Employees,Other,Referred,$895.47
+6/3/2019,2019,June,151655,Male,17,(15-24),Single,Oklahoma,Platinum,Unemployment,PayPal,No Referral,"$2,061.81"
+6/4/2019,2019,June,151657,Female,32,(25-39),Married,Maine,Basic,Employees,Card,Referred,$333.86
+6/4/2019,2019,June,151659,Male,43,(40-54),Married,North Carolina,Missing,Self-employed,Card,No Referral,"$1,734.30"
+6/4/2019,2019,June,151660,Female,60,(55+),Single,Wyoming,Silver,Workers,PayPal,No Referral,"$1,870.31"
+6/5/2019,2019,June,151661,Female,42,(40-54),Single,Indiana,Platinum,Self-employed,PayPal,Referred,"$2,763.73"
+6/5/2019,2019,June,151662,Male,24,(15-24),Married,Alaska,Basic,Employees,PayPal,Referred,$904.22
+6/5/2019,2019,June,151663,Female,71,(55+),Single,Georgia,Basic,Employees,Card,Referred,$838.78
+6/5/2019,2019,June,151664,Female,22,(15-24),Single,Vermont,Basic,Workers,Other,Referred,"$2,656.59"
+6/5/2019,2019,June,151665,Male,42,(40-54),Married,Minnesota,Silver,Self-employed,Card,Referred,$717.16
+6/5/2019,2019,June,151666,Male,71,(55+),Single,West Virginia,Gold,Self-employed,Card,Referred,$187.04
+6/5/2019,2019,June,151667,Male,38,(25-39),Married,Virginia,Silver,Unemployment,PayPal,No Referral,"$1,124.36"
+6/7/2019,2019,June,151668,Female,64,(55+),Single,South Dakota,Silver,Workers,PayPal,Referred,$35.65
+6/7/2019,2019,June,151669,Male,71,(55+),Married,Wisconsin,Silver,Workers,PayPal,Referred,"$2,526.89"
+6/7/2019,2019,June,151670,Male,40,(40-54),Single,Kentucky,Platinum,Workers,PayPal,Referred,"$2,544.75"
+6/7/2019,2019,June,151671,Male,43,(40-54),Single,Vermont,Basic,Workers,PayPal,No Referral,"$1,430.28"
+6/7/2019,2019,June,151672,Female,36,(25-39),Married,Maryland,Silver,Workers,Other,No Referral,"$1,648.55"
+6/7/2019,2019,June,151673,Male,65,(55+),Married,Arizona,Gold,Self-employed,PayPal,Referred,"$2,998.62"
+6/8/2019,2019,June,151674,Female,76,(55+),Married,Massachusetts,Gold,Employees,Other,No Referral,"$1,455.74"
+6/8/2019,2019,June,151675,Female,15,(15-24),Married,Pennsylvania,Basic,Employees,PayPal,No Referral,"$1,194.19"
+6/8/2019,2019,June,151676,Female,37,(25-39),Married,Virginia,Basic,Workers,Other,Referred,"$2,455.62"
+6/8/2019,2019,June,151677,Male,52,(40-54),Married,New Mexico,Basic,Self-employed,Card,No Referral,"$2,559.47"
+6/9/2019,2019,June,151678,Male,30,(25-39),Single,New York,Basic,Workers,Card,Referred,$832.12
+6/10/2019,2019,June,151682,Male,37,(25-39),Married,North Dakota,Platinum,Self-employed,Card,Referred,"$1,701.43"
+6/11/2019,2019,June,151683,Female,70,(55+),Married,Delaware,Basic,Workers,PayPal,Referred,"$2,910.99"
+6/12/2019,2019,June,151684,Male,26,(25-39),Married,New York,Silver,Workers,Other,No Referral,"$2,091.42"
+6/12/2019,2019,June,151685,Male,16,(15-24),Married,Virginia,Platinum,Workers,PayPal,Referred,"$2,879.28"
+6/14/2019,2019,June,151688,Female,30,(25-39),Married,Louisiana,Silver,Employees,PayPal,No Referral,$400.91
+6/14/2019,2019,June,151689,Male,38,(25-39),Married,Montana,Basic,Workers,PayPal,Referred,"$2,978.21"
+6/15/2019,2019,June,151690,Male,33,(25-39),Married,Rhode Island,Platinum,Self-employed,Other,Referred,"$1,544.59"
+6/15/2019,2019,June,151691,Female,26,(25-39),Single,Idaho,Platinum,Self-employed,Card,Referred,"$1,134.36"
+6/15/2019,2019,June,151692,Female,49,(40-54),Single,Nebraska,Silver,Employees,PayPal,Referred,"$2,946.34"
+6/15/2019,2019,June,151693,Female,30,(25-39),Married,California,Basic,Employees,Other,Referred,$603.13
+6/15/2019,2019,June,151694,Female,76,(55+),Married,California,Silver,Workers,Other,Referred,$623.83
+6/16/2019,2019,June,151695,Female,26,(25-39),Single,Kentucky,Missing,Unemployment,PayPal,No Referral,$880.27
+6/17/2019,2019,June,151698,Female,60,(55+),Single,North Dakota,Basic,Workers,Card,Referred,$374.63
+6/17/2019,2019,June,151700,Male,30,(25-39),Married,Arizona,Basic,Workers,PayPal,Referred,$20.77
+6/18/2019,2019,June,151702,Female,72,(55+),Married,Maine,Basic,Self-employed,PayPal,Referred,$600.17
+6/19/2019,2019,June,151703,Female,41,(40-54),Married,California,Silver,Employees,PayPal,Referred,$867.63
+6/19/2019,2019,June,151704,Female,34,(25-39),Married,Pennsylvania,Basic,Employees,PayPal,Referred,$962.60
+6/19/2019,2019,June,151705,Male,26,(25-39),Married,Pennsylvania,Missing,Employees,Card,Referred,"$1,949.59"
+6/19/2019,2019,June,151707,Female,69,(55+),Married,West Virginia,Gold,Employees,PayPal,Referred,"$1,377.65"
+6/20/2019,2019,June,151708,Female,45,(40-54),Married,Minnesota,Basic,Workers,PayPal,Referred,$25.60
+6/20/2019,2019,June,151709,Female,76,(55+),Single,Kansas,Silver,Employees,PayPal,Referred,$82.27
+6/20/2019,2019,June,151710,Male,50,(40-54),Married,Mississippi,Basic,Workers,PayPal,Referred,"$1,586.92"
+6/21/2019,2019,June,151711,Male,51,(40-54),Single,Florida,Basic,Workers,PayPal,No Referral,"$2,857.30"
+6/21/2019,2019,June,151712,Female,49,(40-54),Married,South Dakota,Basic,Employees,Card,No Referral,"$1,282.76"
+6/21/2019,2019,June,151713,Male,55,(55+),Married,West Virginia,Basic,Employees,Other,Referred,"$2,473.97"
+6/21/2019,2019,June,151714,Female,65,(55+),Single,West Virginia,Basic,Workers,Card,No Referral,$311.71
+6/21/2019,2019,June,151715,Female,62,(55+),Married,Illinois,Basic,Employees,PayPal,No Referral,"$1,109.49"
+6/22/2019,2019,June,151718,Female,44,(40-54),Single,Hawaii,Silver,Employees,PayPal,Referred,"$1,719.40"
+6/22/2019,2019,June,151719,Male,24,(15-24),Single,California,Missing,Self-employed,PayPal,No Referral,"$2,774.37"
+6/23/2019,2019,June,151720,Male,43,(40-54),Married,Massachusetts,Basic,Employees,Card,Referred,$890.60
+6/24/2019,2019,June,151722,Male,46,(40-54),Married,Wisconsin,Silver,Workers,PayPal,No Referral,"$1,964.04"
+6/24/2019,2019,June,151723,Female,29,(25-39),Married,Nevada,Basic,Workers,Card,Referred,"$2,612.34"
+6/24/2019,2019,June,151725,Female,72,(55+),Married,Colorado,Silver,Employees,PayPal,Referred,$380.86
+6/24/2019,2019,June,151726,Female,24,(15-24),Single,Minnesota,Basic,Self-employed,Other,No Referral,$939.50
+6/24/2019,2019,June,151727,Male,72,(55+),Single,Nevada,Basic,Self-employed,PayPal,Referred,$545.20
+6/25/2019,2019,June,151729,Male,69,(55+),Single,Arizona,Basic,Workers,Other,Referred,"$2,030.73"
+6/26/2019,2019,June,151731,Female,44,(40-54),Single,Florida,Silver,Employees,Card,No Referral,"$2,485.69"
+6/26/2019,2019,June,151732,Female,59,(55+),Single,Montana,Basic,Employees,PayPal,Referred,$317.10
+6/27/2019,2019,June,151733,Female,66,(55+),Married,New Jersey,Platinum,Workers,Card,No Referral,$429.48
+6/27/2019,2019,June,151734,Male,72,(55+),Single,Utah,Basic,Workers,PayPal,Referred,"$2,729.61"
+6/27/2019,2019,June,151736,Male,47,(40-54),Single,New York,Basic,Employees,PayPal,Referred,"$2,060.59"
+6/28/2019,2019,June,151737,Male,33,(25-39),Married,Wyoming,Basic,Workers,Other,Referred,$675.92
+6/28/2019,2019,June,151738,Female,69,(55+),Single,Oregon,Gold,Workers,Other,Referred,$837.71
+6/29/2019,2019,June,151741,Female,17,(15-24),Married,Maryland,Basic,Employees,Card,Referred,$660.88
+6/30/2019,2019,June,151742,Female,39,(25-39),Single,California,Silver,Employees,Card,No Referral,$328.67
+6/30/2019,2019,June,151743,Male,52,(40-54),Married,Arkansas,Basic,Workers,Card,Referred,$692.80
+6/30/2019,2019,June,151744,Male,51,(40-54),Married,Oklahoma,Basic,Unemployment,Other,No Referral,$430.27
+6/30/2019,2019,June,151746,Male,48,(40-54),Married,Kansas,Basic,Workers,Card,Referred,"$1,062.23"
+7/1/2019,2019,July,151747,Male,71,(55+),Married,North Carolina,Basic,Employees,Card,Referred,"$2,886.21"
+7/1/2019,2019,July,151748,Female,52,(40-54),Married,Washington,Missing,Workers,PayPal,Referred,"$1,799.67"
+7/1/2019,2019,July,151750,Female,17,(15-24),Married,Vermont,Basic,Workers,Card,Referred,$246.28
+7/2/2019,2019,July,151751,Female,42,(40-54),Single,Delaware,Basic,Unemployment,Card,No Referral,$977.80
+7/3/2019,2019,July,151752,Male,43,(40-54),Single,Virginia,Basic,Self-employed,PayPal,No Referral,"$1,070.56"
+7/3/2019,2019,July,151753,Male,49,(40-54),Married,Missouri,Missing,Unemployment,PayPal,Referred,"$1,414.92"
+7/4/2019,2019,July,151754,Male,50,(40-54),Married,Louisiana,Basic,Workers,PayPal,Referred,$834.24
+7/4/2019,2019,July,151756,Male,46,(40-54),Single,South Carolina,Gold,Workers,PayPal,No Referral,$2.16
+7/5/2019,2019,July,151758,Female,41,(40-54),Single,Texas,Basic,Employees,Card,Referred,"$1,608.42"
+7/5/2019,2019,July,151759,Male,36,(25-39),Single,West Virginia,Silver,Employees,Card,No Referral,"$1,642.21"
+7/5/2019,2019,July,151760,Female,61,(55+),Married,Kansas,Basic,Self-employed,Other,Referred,"$1,699.31"
+7/5/2019,2019,July,151761,Male,47,(40-54),Single,Vermont,Gold,Self-employed,PayPal,No Referral,"$2,923.63"
+7/6/2019,2019,July,151762,Female,37,(25-39),Married,Maryland,Basic,Workers,Card,No Referral,$614.83
+7/6/2019,2019,July,151763,Male,64,(55+),Married,Washington,Silver,Employees,Other,Referred,"$2,757.65"
+7/6/2019,2019,July,151764,Male,38,(25-39),Married,Delaware,Basic,Workers,Card,No Referral,$926.55
+7/7/2019,2019,July,151766,Female,20,(15-24),Single,Oregon,Missing,Employees,PayPal,Referred,"$1,535.36"
+7/8/2019,2019,July,151768,Male,49,(40-54),Single,Indiana,Silver,Workers,PayPal,Referred,$789.08
+7/9/2019,2019,July,151769,Female,47,(40-54),Married,Alaska,Basic,Workers,Card,Referred,"$1,988.38"
+7/10/2019,2019,July,151772,Male,50,(40-54),Married,New Hampshire,Basic,Employees,PayPal,Referred,"$1,775.72"
+7/11/2019,2019,July,151773,Male,43,(40-54),Single,Maryland,Platinum,Self-employed,PayPal,Referred,"$1,720.85"
+7/12/2019,2019,July,151774,Male,66,(55+),Single,Montana,Basic,Employees,Card,Referred,"$2,549.44"
+7/12/2019,2019,July,151775,Male,19,(15-24),Married,Wisconsin,Basic,Workers,Other,No Referral,"$2,909.20"
+7/13/2019,2019,July,151777,Male,51,(40-54),Single,North Carolina,Missing,Employees,PayPal,Referred,"$2,997.15"
+7/13/2019,2019,July,151778,Male,24,(15-24),Single,Washington,Platinum,Workers,PayPal,No Referral,"$2,042.64"
+7/14/2019,2019,July,151779,Male,32,(25-39),Single,Massachusetts,Gold,Workers,PayPal,Referred,"$2,453.04"
+7/15/2019,2019,July,151781,Male,46,(40-54),Married,Nevada,Basic,Self-employed,Other,Referred,$681.71
+7/16/2019,2019,July,151782,Female,60,(55+),Married,Hawaii,Basic,Employees,Card,No Referral,"$1,601.24"
+7/16/2019,2019,July,151783,Female,43,(40-54),Single,Hawaii,Gold,Self-employed,Card,No Referral,"$1,450.98"
+7/17/2019,2019,July,151785,Female,62,(55+),Married,Wisconsin,Basic,Employees,Card,Referred,$84.67
+7/17/2019,2019,July,151786,Male,39,(25-39),Married,Colorado,Basic,Employees,PayPal,Referred,"$2,917.66"
+7/17/2019,2019,July,151787,Female,73,(55+),Single,Oregon,Basic,Employees,Card,No Referral,"$2,041.54"
+7/17/2019,2019,July,151788,Male,38,(25-39),Married,Arizona,Basic,Workers,PayPal,Referred,"$1,710.21"
+7/17/2019,2019,July,151789,Male,71,(55+),Married,Louisiana,Silver,Employees,Card,Referred,"$2,548.20"
+7/17/2019,2019,July,151790,Male,54,(40-54),Married,Nevada,Basic,Self-employed,PayPal,No Referral,"$1,115.13"
+7/17/2019,2019,July,151792,Female,42,(40-54),Married,Michigan,Basic,Employees,Card,Referred,"$2,775.69"
+7/18/2019,2019,July,151794,Female,25,(25-39),Single,Georgia,Basic,Self-employed,Card,Referred,"$1,381.78"
+7/18/2019,2019,July,151796,Male,34,(25-39),Single,Oregon,Basic,Workers,Other,No Referral,$581.83
+7/19/2019,2019,July,151797,Male,71,(55+),Single,Kentucky,Basic,Workers,PayPal,No Referral,"$2,037.59"
+7/19/2019,2019,July,151798,Female,75,(55+),Single,Colorado,Basic,Self-employed,Card,Referred,$836.55
+7/19/2019,2019,July,151801,Female,56,(55+),Single,Nebraska,Silver,Workers,PayPal,Referred,"$1,234.26"
+7/20/2019,2019,July,151802,Male,32,(25-39),Single,Florida,Gold,Employees,PayPal,No Referral,"$1,504.25"
+7/20/2019,2019,July,151803,Male,24,(15-24),Married,New Hampshire,Platinum,Workers,Card,No Referral,$897.10
+7/21/2019,2019,July,151804,Female,46,(40-54),Married,Oregon,Platinum,Employees,Card,Referred,"$1,746.47"
+7/21/2019,2019,July,151805,Male,43,(40-54),Married,Alabama,Silver,Employees,PayPal,Referred,$87.88
+7/21/2019,2019,July,151806,Male,18,(15-24),Single,Illinois,Platinum,Employees,Other,No Referral,"$1,650.69"
+7/21/2019,2019,July,151807,Male,21,(15-24),Married,Georgia,Basic,Workers,PayPal,Referred,"$2,611.18"
+7/21/2019,2019,July,151808,Male,64,(55+),Married,Arkansas,Silver,Workers,Card,Referred,"$1,760.23"
+7/22/2019,2019,July,151809,Male,54,(40-54),Single,Arizona,Platinum,Self-employed,Other,No Referral,"$1,860.03"
+7/22/2019,2019,July,151810,Female,15,(15-24),Single,Montana,Platinum,Unemployment,Card,No Referral,"$2,754.90"
+7/23/2019,2019,July,151811,Female,24,(15-24),Married,Alabama,Basic,Workers,PayPal,No Referral,$270.93
+7/23/2019,2019,July,151813,Female,67,(55+),Single,Utah,Basic,Self-employed,Card,No Referral,"$1,364.98"
+7/23/2019,2019,July,151815,Female,68,(55+),Single,Michigan,Basic,Workers,PayPal,Referred,$104.54
+7/23/2019,2019,July,151816,Female,43,(40-54),Married,South Dakota,Basic,Self-employed,Other,Referred,"$2,527.24"
+7/24/2019,2019,July,151817,Male,64,(55+),Married,Idaho,Silver,Workers,PayPal,Referred,"$1,935.35"
+7/25/2019,2019,July,151818,Female,46,(40-54),Single,Missouri,Basic,Unemployment,Card,No Referral,$129.95
+7/25/2019,2019,July,151820,Female,41,(40-54),Single,Hawaii,Basic,Self-employed,PayPal,Referred,"$2,623.07"
+7/25/2019,2019,July,151821,Female,77,(55+),Single,Utah,Gold,Workers,Other,Referred,"$1,902.46"
+7/25/2019,2019,July,151822,Female,38,(25-39),Single,New Hampshire,Gold,Self-employed,PayPal,Referred,"$1,873.51"
+7/26/2019,2019,July,151823,Female,50,(40-54),Married,Vermont,Gold,Workers,Other,Referred,"$1,349.31"
+7/26/2019,2019,July,151824,Female,46,(40-54),Married,Ohio,Platinum,Workers,Card,Referred,"$2,081.86"
+7/27/2019,2019,July,151825,Male,64,(55+),Married,Louisiana,Platinum,Workers,Card,No Referral,$841.44
+7/28/2019,2019,July,151828,Male,69,(55+),Married,Oregon,Basic,Employees,Other,Referred,$306.16
+7/28/2019,2019,July,151829,Male,59,(55+),Married,Maryland,Basic,Self-employed,PayPal,No Referral,$533.64
+7/29/2019,2019,July,151831,Female,40,(40-54),Married,Florida,Platinum,Workers,PayPal,Referred,$696.84
+7/29/2019,2019,July,151832,Female,75,(55+),Single,Michigan,Basic,Workers,PayPal,No Referral,$169.82
+7/29/2019,2019,July,151835,Male,45,(40-54),Married,Tennessee,Missing,Employees,PayPal,Referred,$117.56
+7/29/2019,2019,July,151836,Male,36,(25-39),Married,Washington,Silver,Workers,Card,Referred,"$2,055.39"
+7/30/2019,2019,July,151837,Female,40,(40-54),Single,Illinois,Basic,Unemployment,PayPal,Referred,"$1,160.65"
+7/30/2019,2019,July,151838,Female,68,(55+),Married,Arkansas,Silver,Workers,PayPal,Referred,"$1,044.78"
+7/30/2019,2019,July,151839,Female,55,(55+),Single,Connecticut,Gold,Workers,Other,Referred,"$2,776.96"
+7/31/2019,2019,July,151840,Male,32,(25-39),Single,Arizona,Silver,Unemployment,PayPal,No Referral,$762.74
+7/31/2019,2019,July,151841,Female,72,(55+),Single,New Mexico,Basic,Self-employed,PayPal,Referred,"$1,717.11"
+8/1/2019,2019,August,151842,Female,62,(55+),Single,Minnesota,Platinum,Unemployment,Other,Referred,"$1,650.65"
+8/1/2019,2019,August,151843,Female,55,(55+),Married,Pennsylvania,Basic,Unemployment,Other,Referred,"$2,917.55"
+8/2/2019,2019,August,151844,Female,18,(15-24),Single,Michigan,Missing,Self-employed,PayPal,No Referral,"$1,689.33"
+8/2/2019,2019,August,151846,Female,53,(40-54),Married,Oklahoma,Silver,Employees,PayPal,No Referral,$279.19
+8/3/2019,2019,August,151847,Male,61,(55+),Single,Hawaii,Basic,Workers,Other,Referred,"$2,863.09"
+8/5/2019,2019,August,151849,Male,24,(15-24),Married,Rhode Island,Basic,Workers,Card,Referred,"$1,157.79"
+8/5/2019,2019,August,151851,Male,24,(15-24),Married,North Dakota,Silver,Employees,PayPal,No Referral,"$1,802.33"
+8/5/2019,2019,August,151852,Female,35,(25-39),Married,Connecticut,Gold,Employees,PayPal,No Referral,$702.87
+8/5/2019,2019,August,151853,Female,65,(55+),Married,Arizona,Platinum,Workers,PayPal,No Referral,"$1,534.10"
+8/5/2019,2019,August,151854,Male,35,(25-39),Single,Indiana,Missing,Unemployment,PayPal,Referred,"$1,357.68"
+8/6/2019,2019,August,151855,Female,22,(15-24),Married,Michigan,Gold,Employees,PayPal,No Referral,"$2,960.52"
+8/6/2019,2019,August,151856,Female,15,(15-24),Married,Florida,Basic,Employees,Other,Referred,$756.95
+8/6/2019,2019,August,151857,Female,65,(55+),Married,West Virginia,Basic,Workers,PayPal,Referred,$264.74
+8/7/2019,2019,August,151859,Female,63,(55+),Married,Massachusetts,Gold,Self-employed,PayPal,Referred,"$2,487.49"
+8/8/2019,2019,August,151860,Male,47,(40-54),Single,Arizona,Basic,Employees,Card,Referred,$677.54
+8/8/2019,2019,August,151861,Female,38,(25-39),Married,South Dakota,Platinum,Employees,PayPal,Referred,$501.86
+8/8/2019,2019,August,151863,Male,16,(15-24),Single,New York,Silver,Employees,PayPal,Referred,"$1,297.29"
+8/8/2019,2019,August,151864,Male,57,(55+),Single,Massachusetts,Basic,Employees,PayPal,No Referral,$697.55
+8/8/2019,2019,August,151865,Male,55,(55+),Married,New Mexico,Basic,Workers,Other,Referred,"$1,121.06"
+8/8/2019,2019,August,151866,Female,55,(55+),Single,North Carolina,Missing,Workers,Other,Referred,$391.88
+8/9/2019,2019,August,151867,Female,28,(25-39),Single,Utah,Platinum,Unemployment,PayPal,Referred,$945.26
+8/10/2019,2019,August,151868,Female,37,(25-39),Married,Montana,Basic,Employees,Other,Referred,$397.91
+8/10/2019,2019,August,151869,Male,35,(25-39),Married,Texas,Basic,Unemployment,Card,No Referral,"$2,917.04"
+8/10/2019,2019,August,151871,Female,63,(55+),Married,South Dakota,Gold,Workers,Other,Referred,$675.06
+8/11/2019,2019,August,151872,Male,78,(55+),Married,New Mexico,Basic,Employees,Card,No Referral,"$1,020.20"
+8/12/2019,2019,August,151873,Male,56,(55+),Single,Nebraska,Basic,Self-employed,Other,Referred,$158.60
+8/12/2019,2019,August,151874,Female,53,(40-54),Married,Washington,Platinum,Workers,PayPal,Referred,$218.06
+8/12/2019,2019,August,151875,Female,34,(25-39),Married,Wisconsin,Basic,Workers,Card,No Referral,"$2,814.33"
+8/13/2019,2019,August,151877,Female,30,(25-39),Single,Alaska,Basic,Employees,Card,No Referral,"$1,875.29"
+8/14/2019,2019,August,151878,Female,31,(25-39),Single,Kansas,Platinum,Self-employed,PayPal,No Referral,$875.04
+8/14/2019,2019,August,151879,Female,57,(55+),Married,West Virginia,Platinum,Employees,PayPal,No Referral,$148.88
+8/14/2019,2019,August,151882,Male,31,(25-39),Single,Maine,Basic,Self-employed,Other,No Referral,$216.26
+8/14/2019,2019,August,151883,Male,33,(25-39),Single,Georgia,Platinum,Employees,PayPal,Referred,$191.01
+8/14/2019,2019,August,151885,Female,50,(40-54),Single,Wyoming,Gold,Employees,Card,Referred,$159.32
+8/15/2019,2019,August,151886,Male,26,(25-39),Single,Montana,Gold,Workers,PayPal,No Referral,"$1,150.77"
+8/15/2019,2019,August,151887,Male,31,(25-39),Single,South Dakota,Platinum,Workers,PayPal,Referred,"$1,124.26"
+8/15/2019,2019,August,151889,Male,67,(55+),Single,Mississippi,Basic,Workers,Other,Referred,$947.92
+8/15/2019,2019,August,151890,Male,34,(25-39),Married,South Dakota,Missing,Self-employed,Other,Referred,$182.09
+8/16/2019,2019,August,151891,Female,56,(55+),Married,Idaho,Basic,Employees,Other,No Referral,$408.06
+8/16/2019,2019,August,151892,Female,34,(25-39),Married,New Mexico,Platinum,Self-employed,Card,Referred,"$1,589.97"
+8/16/2019,2019,August,151893,Female,48,(40-54),Married,Missouri,Gold,Workers,Card,Referred,"$2,971.30"
+8/17/2019,2019,August,151894,Male,40,(40-54),Married,North Carolina,Silver,Workers,Other,Referred,"$1,651.40"
+8/17/2019,2019,August,151896,Female,75,(55+),Married,Alaska,Gold,Employees,PayPal,No Referral,"$2,615.89"
+8/17/2019,2019,August,151897,Female,57,(55+),Married,Oregon,Silver,Employees,Card,Referred,"$1,872.97"
+8/18/2019,2019,August,151899,Female,40,(40-54),Married,Massachusetts,Gold,Unemployment,PayPal,Referred,"$2,705.93"
+8/18/2019,2019,August,151900,Male,43,(40-54),Married,Texas,Silver,Unemployment,Card,Referred,$604.11
+8/19/2019,2019,August,151901,Male,72,(55+),Single,New York,Silver,Unemployment,Card,No Referral,"$1,488.16"
+8/20/2019,2019,August,151903,Male,35,(25-39),Married,Rhode Island,Gold,Employees,Other,Referred,"$2,032.63"
+8/20/2019,2019,August,151904,Female,37,(25-39),Married,Arkansas,Gold,Unemployment,PayPal,Referred,$887.97
+8/21/2019,2019,August,151905,Female,19,(15-24),Married,Oklahoma,Silver,Employees,PayPal,Referred,$725.91
+8/22/2019,2019,August,151907,Male,43,(40-54),Married,Virginia,Silver,Self-employed,Card,Referred,$42.98
+8/23/2019,2019,August,151908,Female,19,(15-24),Married,Nevada,Gold,Employees,Other,Referred,"$1,895.93"
+8/23/2019,2019,August,151910,Female,31,(25-39),Single,Illinois,Silver,Workers,PayPal,Referred,"$1,322.08"
+8/23/2019,2019,August,151911,Female,40,(40-54),Single,Washington,Silver,Workers,PayPal,Referred,$182.35
+8/24/2019,2019,August,151912,Female,37,(25-39),Married,New Mexico,Basic,Unemployment,Other,Referred,$287.77
+8/24/2019,2019,August,151913,Female,73,(55+),Married,Iowa,Basic,Workers,PayPal,Referred,"$1,106.89"
+8/24/2019,2019,August,151914,Female,29,(25-39),Married,Maine,Basic,Self-employed,Card,No Referral,"$1,295.42"
+8/25/2019,2019,August,151915,Male,42,(40-54),Single,West Virginia,Gold,Self-employed,Card,No Referral,$608.33
+8/25/2019,2019,August,151916,Female,53,(40-54),Married,Oregon,Basic,Workers,PayPal,Referred,$639.25
+8/25/2019,2019,August,151917,Female,15,(15-24),Single,New Jersey,Silver,Self-employed,PayPal,Referred,"$1,417.01"
+8/25/2019,2019,August,151918,Female,58,(55+),Married,Maine,Basic,Self-employed,Other,Referred,"$2,536.59"
+8/25/2019,2019,August,151919,Female,74,(55+),Married,Georgia,Basic,Workers,PayPal,Referred,$861.93
+8/26/2019,2019,August,151922,Female,45,(40-54),Single,Ohio,Basic,Employees,Other,No Referral,"$1,954.97"
+8/27/2019,2019,August,151924,Male,63,(55+),Married,Minnesota,Silver,Employees,Card,Referred,"$1,142.52"
+8/27/2019,2019,August,151925,Male,56,(55+),Single,Georgia,Basic,Workers,PayPal,Referred,"$1,567.64"
+8/28/2019,2019,August,151926,Female,62,(55+),Married,Kentucky,Platinum,Self-employed,PayPal,Referred,"$1,326.95"
+8/28/2019,2019,August,151928,Male,35,(25-39),Married,Nevada,Gold,Self-employed,PayPal,No Referral,"$1,935.00"
+8/29/2019,2019,August,151929,Male,25,(25-39),Married,Idaho,Silver,Self-employed,Other,Referred,"$2,568.34"
+8/30/2019,2019,August,151930,Male,25,(25-39),Single,Colorado,Platinum,Workers,PayPal,Referred,"$1,198.81"
+8/30/2019,2019,August,151931,Male,44,(40-54),Single,Illinois,Basic,Employees,Card,Referred,"$2,996.82"
+8/30/2019,2019,August,151932,Female,22,(15-24),Married,California,Basic,Workers,PayPal,Referred,"$1,510.28"
+8/30/2019,2019,August,151933,Male,49,(40-54),Single,Connecticut,Silver,Self-employed,PayPal,No Referral,$896.07
+8/30/2019,2019,August,151934,Male,54,(40-54),Single,Minnesota,Basic,Self-employed,PayPal,No Referral,$227.66
+9/1/2019,2019,September,151936,Male,54,(40-54),Single,Kentucky,Basic,Workers,PayPal,Referred,"$2,654.79"
+9/1/2019,2019,September,151937,Female,39,(25-39),Single,New York,Missing,Workers,PayPal,Referred,"$1,426.26"
+9/1/2019,2019,September,151939,Female,56,(55+),Single,New Hampshire,Basic,Employees,Card,Referred,"$1,049.31"
+9/2/2019,2019,September,151941,Male,63,(55+),Married,Louisiana,Basic,Self-employed,PayPal,No Referral,$383.85
+9/2/2019,2019,September,151942,Female,72,(55+),Single,Arizona,Missing,Workers,Card,Referred,$540.38
+9/3/2019,2019,September,151944,Female,78,(55+),Married,New Hampshire,Basic,Self-employed,PayPal,Referred,"$2,966.31"
+9/4/2019,2019,September,151946,Female,40,(40-54),Married,Louisiana,Basic,Workers,Other,Referred,$326.44
+9/5/2019,2019,September,151948,Male,24,(15-24),Married,Arizona,Platinum,Workers,PayPal,Referred,"$1,486.56"
+9/5/2019,2019,September,151949,Male,78,(55+),Married,California,Basic,Workers,PayPal,Referred,"$1,106.53"
+9/6/2019,2019,September,151950,Male,36,(25-39),Married,West Virginia,Basic,Employees,PayPal,No Referral,"$2,540.97"
+9/6/2019,2019,September,151951,Female,66,(55+),Married,South Carolina,Silver,Employees,Other,Referred,$696.50
+9/7/2019,2019,September,151952,Male,59,(55+),Married,New Mexico,Basic,Employees,Other,Referred,"$1,062.47"
+9/8/2019,2019,September,151953,Female,44,(40-54),Single,Wyoming,Basic,Self-employed,PayPal,No Referral,"$2,960.98"
+9/8/2019,2019,September,151954,Male,66,(55+),Single,Nebraska,Basic,Workers,PayPal,Referred,$81.37
+9/8/2019,2019,September,151955,Male,18,(15-24),Married,Vermont,Gold,Workers,PayPal,No Referral,"$1,521.84"
+9/8/2019,2019,September,151956,Male,53,(40-54),Married,Indiana,Basic,Self-employed,Other,Referred,"$2,070.51"
+9/10/2019,2019,September,151959,Male,62,(55+),Married,New York,Missing,Workers,PayPal,Referred,"$1,804.60"
+9/12/2019,2019,September,151961,Male,18,(15-24),Married,Ohio,Basic,Employees,PayPal,No Referral,"$1,733.78"
+9/12/2019,2019,September,151963,Female,59,(55+),Married,California,Missing,Workers,Card,No Referral,$880.28
+9/13/2019,2019,September,151964,Male,36,(25-39),Married,Colorado,Silver,Employees,PayPal,Referred,"$1,276.20"
+9/13/2019,2019,September,151966,Male,50,(40-54),Married,Arkansas,Silver,Employees,PayPal,Referred,$393.80
+9/14/2019,2019,September,151967,Female,24,(15-24),Single,North Dakota,Basic,Workers,PayPal,Referred,"$2,902.97"
+9/14/2019,2019,September,151968,Female,71,(55+),Married,Idaho,Basic,Workers,Card,Referred,"$1,657.33"
+9/14/2019,2019,September,151970,Female,46,(40-54),Single,Maine,Basic,Employees,Card,Referred,"$1,031.63"
+9/15/2019,2019,September,151971,Female,55,(55+),Single,Missouri,Platinum,Workers,PayPal,Referred,$779.96
+9/15/2019,2019,September,151972,Male,52,(40-54),Single,Colorado,Basic,Employees,Other,Referred,"$1,868.24"
+9/15/2019,2019,September,151973,Female,29,(25-39),Married,Rhode Island,Missing,Self-employed,PayPal,Referred,"$2,513.36"
+9/16/2019,2019,September,151974,Male,32,(25-39),Single,Arkansas,Basic,Employees,PayPal,Referred,"$2,733.00"
+9/16/2019,2019,September,151975,Male,66,(55+),Single,Indiana,Basic,Workers,PayPal,Referred,$435.30
+9/17/2019,2019,September,151977,Female,17,(15-24),Married,West Virginia,Basic,Self-employed,PayPal,Referred,"$1,746.63"
+9/18/2019,2019,September,151978,Male,37,(25-39),Single,Wyoming,Silver,Self-employed,PayPal,No Referral,"$1,833.14"
+9/19/2019,2019,September,151980,Male,48,(40-54),Married,Connecticut,Basic,Workers,PayPal,Referred,"$1,068.90"
+9/19/2019,2019,September,151981,Female,56,(55+),Single,Maine,Gold,Employees,PayPal,Referred,"$2,687.66"
+9/19/2019,2019,September,151982,Female,61,(55+),Married,Missouri,Basic,Workers,PayPal,Referred,$623.55
+9/20/2019,2019,September,151983,Female,28,(25-39),Married,Virginia,Platinum,Self-employed,PayPal,Referred,$498.27
+9/20/2019,2019,September,151985,Female,76,(55+),Married,Michigan,Gold,Employees,Card,Referred,$539.10
+9/20/2019,2019,September,151986,Female,75,(55+),Married,Tennessee,Missing,Self-employed,Other,No Referral,$333.90
+9/21/2019,2019,September,151987,Female,74,(55+),Married,Massachusetts,Basic,Employees,Other,Referred,$68.46
+9/22/2019,2019,September,151988,Male,69,(55+),Single,Georgia,Missing,Employees,PayPal,Referred,$294.04
+9/22/2019,2019,September,151989,Male,52,(40-54),Married,Indiana,Silver,Employees,PayPal,No Referral,$675.01
+9/23/2019,2019,September,151990,Female,33,(25-39),Single,Wisconsin,Platinum,Self-employed,PayPal,Referred,"$1,809.60"
+9/23/2019,2019,September,151991,Female,33,(25-39),Married,Wisconsin,Gold,Workers,Card,No Referral,"$1,085.15"
+9/23/2019,2019,September,151992,Female,35,(25-39),Married,California,Basic,Unemployment,Card,No Referral,$564.27
+9/23/2019,2019,September,151993,Female,60,(55+),Married,California,Silver,Employees,Card,Referred,"$2,407.99"
+9/24/2019,2019,September,151996,Male,20,(15-24),Single,Virginia,Basic,Employees,PayPal,Referred,$234.15
+9/24/2019,2019,September,151997,Female,69,(55+),Single,Arizona,Basic,Workers,PayPal,Referred,$195.25
+9/25/2019,2019,September,151998,Female,30,(25-39),Married,Michigan,Basic,Self-employed,Other,Referred,$490.23
+9/25/2019,2019,September,151999,Female,34,(25-39),Single,Arkansas,Platinum,Self-employed,Card,Referred,$636.89
+9/25/2019,2019,September,152000,Male,40,(40-54),Married,Hawaii,Silver,Employees,PayPal,Referred,"$1,931.67"
+9/25/2019,2019,September,152001,Male,37,(25-39),Married,Tennessee,Silver,Employees,Card,No Referral,"$1,948.66"
+9/25/2019,2019,September,152002,Female,22,(15-24),Single,South Dakota,Gold,Employees,Card,No Referral,"$2,007.54"
+9/25/2019,2019,September,152003,Female,26,(25-39),Married,West Virginia,Missing,Self-employed,Card,Referred,"$2,020.07"
+9/25/2019,2019,September,152004,Female,43,(40-54),Single,Idaho,Gold,Employees,PayPal,Referred,"$1,227.65"
+9/26/2019,2019,September,152005,Female,39,(25-39),Married,Massachusetts,Silver,Workers,PayPal,No Referral,"$2,010.70"
+9/27/2019,2019,September,152006,Female,46,(40-54),Single,Washington,Gold,Employees,Card,Referred,$553.18
+9/27/2019,2019,September,152007,Male,31,(25-39),Single,Oregon,Silver,Self-employed,Card,Referred,"$2,584.24"
+9/28/2019,2019,September,152008,Male,70,(55+),Single,Kentucky,Silver,Self-employed,Card,Referred,"$1,503.63"
+9/28/2019,2019,September,152009,Female,72,(55+),Single,New Mexico,Basic,Workers,PayPal,Referred,$361.19
+9/28/2019,2019,September,152010,Female,67,(55+),Married,Tennessee,Silver,Workers,Card,No Referral,"$2,918.71"
+9/29/2019,2019,September,152011,Male,78,(55+),Single,Idaho,Platinum,Workers,PayPal,Referred,"$1,421.55"
+9/30/2019,2019,September,152013,Female,30,(25-39),Married,Mississippi,Basic,Employees,PayPal,Referred,$532.29
+9/30/2019,2019,September,152016,Female,26,(25-39),Single,Arizona,Basic,Workers,PayPal,Referred,"$1,799.49"
+10/1/2019,2019,October,152017,Female,59,(55+),Single,Virginia,Platinum,Workers,Other,Referred,$235.99
+10/1/2019,2019,October,152018,Female,28,(25-39),Married,California,Gold,Workers,Card,Referred,"$1,887.30"
+10/1/2019,2019,October,152019,Male,53,(40-54),Single,Alabama,Basic,Employees,PayPal,Referred,$114.85
+10/1/2019,2019,October,152020,Female,47,(40-54),Married,Texas,Basic,Employees,PayPal,Referred,"$1,679.77"
+10/1/2019,2019,October,152021,Female,41,(40-54),Married,South Carolina,Basic,Workers,Card,No Referral,$486.79
+10/1/2019,2019,October,152022,Male,73,(55+),Married,Tennessee,Basic,Workers,Other,Referred,$663.83
+10/1/2019,2019,October,152023,Male,48,(40-54),Single,West Virginia,Platinum,Employees,Other,Referred,$44.75
+10/1/2019,2019,October,152024,Female,71,(55+),Single,Connecticut,Basic,Employees,Other,Referred,"$2,640.15"
+10/2/2019,2019,October,152026,Male,69,(55+),Married,Maryland,Basic,Employees,PayPal,No Referral,"$1,121.33"
+10/2/2019,2019,October,152027,Female,20,(15-24),Single,Colorado,Basic,Employees,PayPal,Referred,$910.33
+10/2/2019,2019,October,152028,Male,41,(40-54),Married,Arkansas,Missing,Employees,PayPal,Referred,$56.13
+10/2/2019,2019,October,152029,Male,55,(55+),Married,North Carolina,Silver,Employees,Card,Referred,"$1,828.98"
+10/3/2019,2019,October,152030,Female,37,(25-39),Married,New Mexico,Basic,Workers,Card,No Referral,"$1,122.19"
+10/3/2019,2019,October,152031,Female,34,(25-39),Single,Arkansas,Gold,Self-employed,PayPal,Referred,$72.69
+10/4/2019,2019,October,152032,Female,28,(25-39),Single,Nevada,Basic,Employees,Card,Referred,"$1,286.07"
+10/5/2019,2019,October,152033,Female,63,(55+),Married,New Mexico,Gold,Employees,Card,Referred,"$1,913.23"
+10/5/2019,2019,October,152034,Female,30,(25-39),Single,New Jersey,Basic,Workers,Other,No Referral,"$1,513.31"
+10/5/2019,2019,October,152035,Female,24,(15-24),Married,Nebraska,Basic,Workers,Card,Referred,"$1,083.55"
+10/6/2019,2019,October,152036,Male,62,(55+),Married,North Dakota,Basic,Workers,PayPal,No Referral,"$1,724.57"
+10/7/2019,2019,October,152038,Female,51,(40-54),Single,North Carolina,Platinum,Employees,Card,Referred,"$2,567.73"
+10/8/2019,2019,October,152039,Male,55,(55+),Single,North Dakota,Silver,Employees,Card,Referred,$719.14
+10/8/2019,2019,October,152040,Male,63,(55+),Married,Maine,Basic,Workers,PayPal,No Referral,"$1,908.42"
+10/8/2019,2019,October,152041,Female,19,(15-24),Single,Washington,Basic,Workers,Card,Referred,"$1,283.18"
+10/8/2019,2019,October,152043,Male,55,(55+),Married,Ohio,Basic,Self-employed,Other,Referred,"$2,864.12"
+10/9/2019,2019,October,152044,Female,47,(40-54),Single,Alaska,Basic,Employees,PayPal,Referred,"$1,094.78"
+10/9/2019,2019,October,152046,Female,54,(40-54),Married,Delaware,Basic,Employees,Other,Referred,"$2,557.92"
+10/10/2019,2019,October,152047,Male,63,(55+),Married,Alabama,Basic,Self-employed,PayPal,Referred,"$2,876.36"
+10/10/2019,2019,October,152048,Male,26,(25-39),Single,Maryland,Silver,Unemployment,PayPal,Referred,$5.55
+10/10/2019,2019,October,152051,Male,36,(25-39),Married,Mississippi,Basic,Self-employed,Other,Referred,"$1,824.67"
+10/11/2019,2019,October,152052,Female,78,(55+),Married,California,Gold,Workers,PayPal,Referred,"$1,493.76"
+10/11/2019,2019,October,152053,Female,41,(40-54),Married,Oklahoma,Basic,Workers,PayPal,No Referral,$568.27
+10/11/2019,2019,October,152054,Female,49,(40-54),Married,Vermont,Basic,Employees,PayPal,Referred,"$2,904.15"
+10/12/2019,2019,October,152055,Female,21,(15-24),Single,Georgia,Basic,Employees,Card,Referred,$34.43
+10/12/2019,2019,October,152056,Male,75,(55+),Single,North Dakota,Platinum,Workers,Card,Referred,"$2,068.44"
+10/12/2019,2019,October,152057,Female,32,(25-39),Single,Wisconsin,Gold,Self-employed,Card,Referred,"$2,609.70"
+10/12/2019,2019,October,152058,Female,70,(55+),Single,California,Missing,Self-employed,Other,Referred,$534.76
+10/12/2019,2019,October,152059,Female,75,(55+),Married,Nebraska,Missing,Self-employed,Other,No Referral,"$2,645.93"
+10/12/2019,2019,October,152060,Female,64,(55+),Married,Arizona,Basic,Workers,PayPal,Referred,$74.93
+10/12/2019,2019,October,152061,Female,49,(40-54),Married,Rhode Island,Silver,Employees,Other,No Referral,"$2,624.00"
+10/13/2019,2019,October,152062,Male,56,(55+),Married,Michigan,Silver,Employees,Card,No Referral,"$2,086.00"
+10/13/2019,2019,October,152063,Female,72,(55+),Single,North Dakota,Basic,Workers,Card,Referred,"$1,357.60"
+10/14/2019,2019,October,152065,Female,40,(40-54),Single,Arizona,Gold,Self-employed,Other,Referred,"$2,513.75"
+10/14/2019,2019,October,152066,Male,26,(25-39),Married,Florida,Missing,Workers,PayPal,No Referral,"$2,705.36"
+10/14/2019,2019,October,152067,Male,42,(40-54),Single,Alabama,Basic,Employees,Other,No Referral,"$1,691.62"
+10/15/2019,2019,October,152068,Male,65,(55+),Single,West Virginia,Missing,Workers,Card,No Referral,"$1,840.03"
+10/15/2019,2019,October,152069,Female,46,(40-54),Single,Michigan,Platinum,Unemployment,Card,No Referral,"$2,051.18"
+10/15/2019,2019,October,152070,Male,51,(40-54),Married,Alabama,Platinum,Self-employed,Other,Referred,"$1,367.77"
+10/16/2019,2019,October,152071,Male,71,(55+),Single,Alaska,Basic,Employees,Other,No Referral,$768.38
+10/16/2019,2019,October,152074,Female,59,(55+),Married,Delaware,Basic,Workers,Other,No Referral,"$2,466.37"
+10/16/2019,2019,October,152075,Female,27,(25-39),Single,Delaware,Basic,Employees,PayPal,Referred,$936.39
+10/16/2019,2019,October,152076,Male,36,(25-39),Single,Kansas,Basic,Unemployment,Card,No Referral,"$2,744.96"
+10/16/2019,2019,October,152077,Female,44,(40-54),Single,Rhode Island,Platinum,Employees,Card,Referred,"$1,595.06"
+10/16/2019,2019,October,152078,Female,24,(15-24),Married,Wyoming,Basic,Unemployment,PayPal,Referred,$566.58
+10/17/2019,2019,October,152080,Male,75,(55+),Married,Louisiana,Platinum,Workers,Other,Referred,$429.08
+10/18/2019,2019,October,152081,Male,40,(40-54),Single,Mississippi,Basic,Unemployment,Other,No Referral,"$1,462.02"
+10/18/2019,2019,October,152082,Male,42,(40-54),Married,Maine,Basic,Employees,Card,Referred,$39.84
+10/18/2019,2019,October,152083,Female,64,(55+),Single,Minnesota,Silver,Workers,Other,Referred,"$1,734.67"
+10/18/2019,2019,October,152084,Male,26,(25-39),Single,Massachusetts,Gold,Self-employed,Card,Referred,$297.61
+10/18/2019,2019,October,152085,Male,21,(15-24),Single,Wyoming,Basic,Workers,Other,Referred,$492.74
+10/19/2019,2019,October,152086,Male,63,(55+),Single,Delaware,Silver,Workers,PayPal,Referred,$872.01
+10/19/2019,2019,October,152087,Male,21,(15-24),Married,Wisconsin,Platinum,Self-employed,Card,Referred,$417.60
+10/19/2019,2019,October,152088,Female,46,(40-54),Single,Arkansas,Silver,Workers,PayPal,Referred,"$1,430.93"
+10/19/2019,2019,October,152090,Female,45,(40-54),Single,Georgia,Platinum,Workers,Card,Referred,$341.39
+10/20/2019,2019,October,152091,Female,61,(55+),Single,Louisiana,Basic,Employees,PayPal,No Referral,$901.66
+10/20/2019,2019,October,152092,Male,78,(55+),Single,Vermont,Basic,Workers,PayPal,No Referral,$192.77
+10/20/2019,2019,October,152093,Male,73,(55+),Married,South Dakota,Platinum,Unemployment,PayPal,Referred,"$1,713.58"
+10/21/2019,2019,October,152094,Female,17,(15-24),Single,Minnesota,Platinum,Employees,Card,Referred,$99.77
+10/21/2019,2019,October,152096,Female,65,(55+),Single,Louisiana,Gold,Employees,PayPal,No Referral,"$1,208.88"
+10/21/2019,2019,October,152097,Male,22,(15-24),Married,Wisconsin,Basic,Workers,PayPal,No Referral,$471.95
+10/22/2019,2019,October,152098,Male,43,(40-54),Single,West Virginia,Basic,Workers,PayPal,Referred,"$2,065.03"
+10/23/2019,2019,October,152100,Female,51,(40-54),Married,Ohio,Basic,Unemployment,PayPal,Referred,$678.47
+10/23/2019,2019,October,152101,Male,50,(40-54),Married,Colorado,Basic,Employees,PayPal,Referred,"$1,412.72"
+10/24/2019,2019,October,152102,Female,59,(55+),Married,Minnesota,Platinum,Self-employed,Card,Referred,"$2,053.25"
+10/25/2019,2019,October,152104,Male,33,(25-39),Married,Oklahoma,Basic,Workers,PayPal,No Referral,"$1,681.59"
+10/25/2019,2019,October,152105,Male,28,(25-39),Married,Utah,Basic,Employees,Card,Referred,$975.11
+10/27/2019,2019,October,152108,Male,72,(55+),Single,New Hampshire,Silver,Workers,Card,Referred,"$1,822.43"
+10/28/2019,2019,October,152109,Female,67,(55+),Single,Colorado,Gold,Unemployment,Card,Referred,$577.53
+10/28/2019,2019,October,152110,Male,69,(55+),Married,Florida,Basic,Employees,Other,No Referral,"$2,649.13"
+10/28/2019,2019,October,152111,Female,31,(25-39),Single,New Hampshire,Basic,Employees,Other,Referred,"$1,479.67"
+10/28/2019,2019,October,152112,Female,52,(40-54),Single,Georgia,Basic,Workers,PayPal,Referred,"$1,894.89"
+10/29/2019,2019,October,152113,Male,75,(55+),Married,Hawaii,Platinum,Employees,PayPal,Referred,"$1,687.41"
+10/29/2019,2019,October,152114,Female,51,(40-54),Single,West Virginia,Platinum,Unemployment,Card,No Referral,$522.04
+10/29/2019,2019,October,152115,Male,49,(40-54),Single,Rhode Island,Silver,Employees,PayPal,No Referral,"$1,579.61"
+10/29/2019,2019,October,152116,Male,18,(15-24),Single,Illinois,Basic,Self-employed,PayPal,Referred,"$2,939.09"
+10/29/2019,2019,October,152119,Female,47,(40-54),Married,North Dakota,Basic,Unemployment,Other,Referred,"$1,208.12"
+11/1/2019,2019,November,152120,Female,45,(40-54),Single,Massachusetts,Silver,Workers,Other,No Referral,$149.78
+11/1/2019,2019,November,152121,Female,26,(25-39),Single,Kentucky,Basic,Workers,Card,Referred,$308.26
+11/1/2019,2019,November,152122,Female,53,(40-54),Married,Iowa,Silver,Employees,Card,Referred,"$1,901.61"
+11/2/2019,2019,November,152123,Female,35,(25-39),Married,Minnesota,Missing,Workers,Card,Referred,"$1,713.07"
+11/2/2019,2019,November,152124,Female,41,(40-54),Married,Minnesota,Basic,Employees,PayPal,Referred,$199.60
+11/2/2019,2019,November,152125,Female,31,(25-39),Married,Arkansas,Gold,Employees,Card,Referred,$747.96
+11/4/2019,2019,November,152127,Female,32,(25-39),Married,Pennsylvania,Platinum,Employees,PayPal,Referred,$388.15
+11/4/2019,2019,November,152129,Female,47,(40-54),Married,Florida,Gold,Employees,Other,No Referral,"$1,655.82"
+11/5/2019,2019,November,152130,Male,18,(15-24),Married,Virginia,Silver,Employees,PayPal,Referred,"$2,683.09"
+11/6/2019,2019,November,152131,Female,77,(55+),Single,Wisconsin,Basic,Self-employed,Other,Referred,"$2,978.08"
+11/6/2019,2019,November,152132,Male,43,(40-54),Married,Texas,Silver,Employees,Card,No Referral,"$1,726.25"
+11/6/2019,2019,November,152133,Male,19,(15-24),Married,Rhode Island,Basic,Unemployment,Other,Referred,$536.85
+11/7/2019,2019,November,152134,Male,52,(40-54),Married,Mississippi,Gold,Employees,PayPal,Referred,"$2,809.83"
+11/8/2019,2019,November,152137,Female,69,(55+),Single,Washington,Basic,Employees,PayPal,Referred,$313.56
+11/9/2019,2019,November,152138,Female,61,(55+),Married,Georgia,Gold,Employees,PayPal,No Referral,$296.68
+11/9/2019,2019,November,152139,Female,60,(55+),Single,Utah,Basic,Employees,Card,No Referral,"$1,488.16"
+11/9/2019,2019,November,152140,Female,62,(55+),Married,Iowa,Basic,Unemployment,PayPal,No Referral,"$1,712.63"
+11/9/2019,2019,November,152141,Female,37,(25-39),Married,Rhode Island,Silver,Workers,PayPal,Referred,"$2,937.06"
+11/10/2019,2019,November,152142,Female,28,(25-39),Married,Illinois,Missing,Unemployment,PayPal,Referred,$328.05
+11/10/2019,2019,November,152143,Female,67,(55+),Married,West Virginia,Gold,Employees,Card,Referred,"$1,091.15"
+11/11/2019,2019,November,152144,Male,42,(40-54),Single,Tennessee,Platinum,Employees,Card,Referred,$524.62
+11/11/2019,2019,November,152145,Male,28,(25-39),Single,New Hampshire,Missing,Workers,Card,Referred,"$1,401.27"
+11/12/2019,2019,November,152146,Female,64,(55+),Married,Illinois,Basic,Employees,PayPal,Referred,$6.79
+11/12/2019,2019,November,152147,Male,43,(40-54),Single,Hawaii,Gold,Workers,PayPal,Referred,$173.93
+11/12/2019,2019,November,152148,Male,48,(40-54),Single,Michigan,Gold,Workers,Card,Referred,"$1,105.00"
+11/12/2019,2019,November,152149,Male,64,(55+),Married,Wyoming,Silver,Self-employed,PayPal,No Referral,$53.36
+11/13/2019,2019,November,152150,Female,56,(55+),Married,Nevada,Basic,Workers,Other,Referred,$5.31
+11/13/2019,2019,November,152151,Female,32,(25-39),Married,Massachusetts,Silver,Self-employed,PayPal,No Referral,"$1,028.15"
+11/13/2019,2019,November,152152,Male,45,(40-54),Married,Illinois,Platinum,Workers,PayPal,Referred,$428.22
+11/15/2019,2019,November,152154,Female,28,(25-39),Single,Oregon,Gold,Unemployment,PayPal,Referred,$278.44
+11/15/2019,2019,November,152155,Male,36,(25-39),Married,Ohio,Basic,Employees,Other,No Referral,"$1,850.08"
+11/15/2019,2019,November,152156,Female,78,(55+),Single,Delaware,Missing,Employees,Card,Referred,"$1,697.09"
+11/16/2019,2019,November,152157,Male,19,(15-24),Married,Texas,Basic,Employees,PayPal,No Referral,$780.39
+11/16/2019,2019,November,152158,Female,51,(40-54),Single,Massachusetts,Platinum,Employees,Card,No Referral,"$2,047.51"
+11/17/2019,2019,November,152160,Male,30,(25-39),Married,Florida,Platinum,Employees,Card,Referred,"$1,304.20"
+11/17/2019,2019,November,152161,Female,21,(15-24),Married,Maryland,Silver,Employees,Card,No Referral,"$2,056.18"
+11/18/2019,2019,November,152162,Female,40,(40-54),Single,Rhode Island,Basic,Employees,PayPal,Referred,$61.04
+11/18/2019,2019,November,152163,Male,63,(55+),Married,Tennessee,Silver,Employees,PayPal,No Referral,"$2,847.16"
+11/18/2019,2019,November,152165,Female,22,(15-24),Married,Mississippi,Basic,Workers,Card,Referred,$615.38
+11/19/2019,2019,November,152166,Female,19,(15-24),Married,New York,Basic,Employees,Card,No Referral,"$2,473.87"
+11/20/2019,2019,November,152167,Female,48,(40-54),Married,Maine,Basic,Workers,PayPal,Referred,"$1,045.45"
+11/20/2019,2019,November,152168,Male,32,(25-39),Married,Maryland,Basic,Unemployment,PayPal,Referred,$373.75
+11/20/2019,2019,November,152169,Male,18,(15-24),Single,Indiana,Platinum,Unemployment,PayPal,Referred,$438.81
+11/20/2019,2019,November,152170,Female,72,(55+),Single,California,Platinum,Employees,PayPal,No Referral,$967.58
+11/20/2019,2019,November,152171,Female,68,(55+),Single,Michigan,Basic,Employees,PayPal,No Referral,$464.70
+11/21/2019,2019,November,152172,Male,39,(25-39),Married,Michigan,Gold,Workers,Card,Referred,$509.15
+11/21/2019,2019,November,152173,Male,42,(40-54),Single,Iowa,Platinum,Employees,PayPal,Referred,$364.73
+11/21/2019,2019,November,152174,Female,68,(55+),Married,New Hampshire,Basic,Employees,PayPal,No Referral,"$1,633.77"
+11/21/2019,2019,November,152175,Female,52,(40-54),Married,Iowa,Platinum,Employees,PayPal,No Referral,$678.10
+11/21/2019,2019,November,152176,Female,63,(55+),Single,Washington,Silver,Unemployment,Card,No Referral,"$1,021.98"
+11/21/2019,2019,November,152178,Male,62,(55+),Single,Pennsylvania,Silver,Employees,PayPal,No Referral,"$1,163.30"
+11/22/2019,2019,November,152179,Female,38,(25-39),Single,Minnesota,Basic,Unemployment,Card,No Referral,"$1,745.71"
+11/23/2019,2019,November,152180,Male,73,(55+),Married,Arizona,Silver,Employees,PayPal,Referred,"$1,871.75"
+11/23/2019,2019,November,152181,Female,52,(40-54),Married,Texas,Basic,Self-employed,Other,No Referral,"$1,165.97"
+11/24/2019,2019,November,152183,Male,34,(25-39),Married,Montana,Basic,Self-employed,Card,No Referral,"$1,713.15"
+11/24/2019,2019,November,152184,Female,76,(55+),Married,New Jersey,Platinum,Employees,Card,Referred,"$1,875.03"
+11/24/2019,2019,November,152185,Female,72,(55+),Married,Vermont,Platinum,Workers,Card,Referred,"$1,002.79"
+11/24/2019,2019,November,152186,Male,66,(55+),Married,Utah,Silver,Self-employed,Card,Referred,$59.97
+11/25/2019,2019,November,152189,Female,42,(40-54),Single,Missouri,Basic,Workers,PayPal,Referred,"$2,541.56"
+11/25/2019,2019,November,152190,Male,55,(55+),Married,Hawaii,Basic,Employees,PayPal,Referred,"$2,712.52"
+11/25/2019,2019,November,152193,Male,28,(25-39),Married,Maryland,Basic,Employees,Card,Referred,$363.29
+11/26/2019,2019,November,152194,Male,56,(55+),Single,Idaho,Platinum,Workers,Card,No Referral,"$2,479.25"
+11/26/2019,2019,November,152195,Female,61,(55+),Married,Georgia,Platinum,Self-employed,Card,Referred,"$1,902.46"
+11/27/2019,2019,November,152197,Female,32,(25-39),Married,Washington,Missing,Workers,Card,Referred,$957.05
+11/28/2019,2019,November,152198,Male,62,(55+),Single,Vermont,Basic,Unemployment,PayPal,No Referral,$23.14
+11/29/2019,2019,November,152199,Female,18,(15-24),Married,New York,Basic,Self-employed,PayPal,Referred,"$1,340.65"
+11/29/2019,2019,November,152200,Male,45,(40-54),Married,New York,Basic,Unemployment,PayPal,Referred,$720.75
+11/29/2019,2019,November,152202,Male,53,(40-54),Married,Missouri,Platinum,Self-employed,Other,No Referral,"$2,490.18"
+12/1/2019,2019,December,152203,Male,48,(40-54),Married,Kansas,Basic,Employees,PayPal,Referred,"$1,015.45"
+12/1/2019,2019,December,152204,Female,41,(40-54),Single,Delaware,Basic,Employees,Card,Referred,"$2,570.56"
+12/2/2019,2019,December,152205,Female,22,(15-24),Single,Minnesota,Basic,Employees,Card,No Referral,"$1,114.50"
+12/2/2019,2019,December,152206,Male,70,(55+),Single,Oklahoma,Basic,Employees,Card,Referred,$261.44
+12/3/2019,2019,December,152207,Male,16,(15-24),Married,Illinois,Gold,Workers,Other,No Referral,$657.98
+12/3/2019,2019,December,152208,Female,77,(55+),Single,West Virginia,Basic,Employees,Other,Referred,"$1,935.38"
+12/3/2019,2019,December,152210,Female,68,(55+),Single,Alaska,Platinum,Employees,Other,Referred,"$1,711.74"
+12/4/2019,2019,December,152212,Female,37,(25-39),Single,Pennsylvania,Gold,Self-employed,PayPal,No Referral,$473.25
+12/4/2019,2019,December,152213,Female,56,(55+),Single,Florida,Basic,Workers,Other,No Referral,"$2,726.95"
+12/4/2019,2019,December,152214,Male,71,(55+),Married,West Virginia,Missing,Self-employed,PayPal,Referred,$761.23
+12/4/2019,2019,December,152215,Male,70,(55+),Married,Mississippi,Basic,Workers,Card,No Referral,"$1,911.54"
+12/4/2019,2019,December,152216,Female,36,(25-39),Married,Kentucky,Silver,Employees,Card,No Referral,$102.99
+12/4/2019,2019,December,152217,Female,50,(40-54),Married,Nevada,Basic,Workers,PayPal,No Referral,$423.98
+12/5/2019,2019,December,152218,Male,69,(55+),Single,North Carolina,Basic,Self-employed,PayPal,Referred,$561.16
+12/6/2019,2019,December,152219,Male,19,(15-24),Married,Arizona,Platinum,Employees,Other,Referred,$613.35
+12/6/2019,2019,December,152221,Male,36,(25-39),Married,Vermont,Basic,Employees,PayPal,Referred,"$2,785.61"
+12/7/2019,2019,December,152223,Male,43,(40-54),Single,Montana,Platinum,Workers,Other,Referred,"$2,071.60"
+12/7/2019,2019,December,152224,Male,42,(40-54),Married,Illinois,Platinum,Employees,PayPal,Referred,"$1,331.74"
+12/7/2019,2019,December,152225,Male,34,(25-39),Married,Nebraska,Silver,Employees,PayPal,No Referral,$642.73
+12/8/2019,2019,December,152227,Male,20,(15-24),Single,Connecticut,Basic,Self-employed,PayPal,Referred,$809.72
+12/8/2019,2019,December,152229,Male,49,(40-54),Single,Missouri,Missing,Employees,PayPal,No Referral,"$2,420.67"
+12/8/2019,2019,December,152230,Female,29,(25-39),Married,New Jersey,Basic,Self-employed,PayPal,No Referral,$425.62
+12/8/2019,2019,December,152231,Female,25,(25-39),Married,Delaware,Basic,Employees,Other,No Referral,"$1,348.65"
+12/9/2019,2019,December,152232,Female,72,(55+),Married,Rhode Island,Missing,Employees,PayPal,Referred,"$1,654.25"
+12/9/2019,2019,December,152233,Female,44,(40-54),Single,Hawaii,Platinum,Self-employed,Other,No Referral,$962.62
+12/10/2019,2019,December,152234,Male,59,(55+),Single,Delaware,Missing,Workers,PayPal,Referred,$202.84
+12/10/2019,2019,December,152235,Female,51,(40-54),Single,Louisiana,Gold,Workers,PayPal,Referred,"$1,691.26"
+12/10/2019,2019,December,152236,Female,57,(55+),Married,Michigan,Silver,Self-employed,PayPal,No Referral,$505.36
+12/10/2019,2019,December,152237,Male,18,(15-24),Married,Maryland,Silver,Self-employed,PayPal,Referred,"$2,863.91"
+12/11/2019,2019,December,152238,Male,30,(25-39),Married,Illinois,Basic,Employees,PayPal,No Referral,$603.34
+12/11/2019,2019,December,152239,Male,18,(15-24),Married,Texas,Basic,Employees,PayPal,Referred,"$2,443.68"
+12/12/2019,2019,December,152241,Female,38,(25-39),Married,Idaho,Basic,Workers,Card,Referred,"$1,985.91"
+12/12/2019,2019,December,152242,Female,34,(25-39),Single,New York,Gold,Workers,PayPal,No Referral,"$1,936.86"
+12/12/2019,2019,December,152243,Female,36,(25-39),Single,Utah,Basic,Unemployment,Card,Referred,$743.54
+12/12/2019,2019,December,152244,Female,70,(55+),Single,Nevada,Basic,Self-employed,PayPal,Referred,"$1,474.73"
+12/13/2019,2019,December,152246,Female,35,(25-39),Single,Indiana,Platinum,Employees,Card,No Referral,$459.96
+12/13/2019,2019,December,152247,Male,46,(40-54),Married,New Hampshire,Silver,Self-employed,Card,Referred,$258.66
+12/14/2019,2019,December,152248,Female,74,(55+),Single,Mississippi,Platinum,Workers,Other,Referred,"$1,492.25"
+12/14/2019,2019,December,152249,Male,70,(55+),Single,New Hampshire,Missing,Workers,Card,Referred,$134.80
+12/14/2019,2019,December,152250,Male,21,(15-24),Single,Kentucky,Basic,Workers,PayPal,No Referral,"$1,250.44"
+12/14/2019,2019,December,152251,Female,39,(25-39),Single,Florida,Basic,Self-employed,Card,Referred,"$1,305.52"
+12/15/2019,2019,December,152252,Male,33,(25-39),Single,West Virginia,Basic,Workers,Card,No Referral,"$1,922.80"
+12/15/2019,2019,December,152254,Male,49,(40-54),Married,California,Basic,Workers,PayPal,Referred,$337.17
+12/16/2019,2019,December,152255,Female,34,(25-39),Single,South Carolina,Platinum,Workers,Other,Referred,$635.17
+12/16/2019,2019,December,152256,Male,64,(55+),Single,South Dakota,Basic,Self-employed,PayPal,No Referral,"$1,282.24"
+12/17/2019,2019,December,152257,Female,36,(25-39),Single,Nebraska,Platinum,Self-employed,Other,No Referral,$947.09
+12/17/2019,2019,December,152258,Male,51,(40-54),Single,Arkansas,Platinum,Unemployment,PayPal,Referred,$482.68
+12/18/2019,2019,December,152260,Female,51,(40-54),Single,Nevada,Silver,Self-employed,PayPal,No Referral,"$2,733.80"
+12/18/2019,2019,December,152261,Female,58,(55+),Married,Illinois,Silver,Workers,Other,Referred,"$1,679.62"
+12/19/2019,2019,December,152262,Female,22,(15-24),Married,South Dakota,Basic,Self-employed,Card,Referred,"$1,793.22"
+12/20/2019,2019,December,152263,Male,60,(55+),Married,Vermont,Silver,Employees,PayPal,Referred,$26.55
+12/21/2019,2019,December,152264,Male,20,(15-24),Single,Louisiana,Platinum,Unemployment,PayPal,No Referral,"$1,158.67"
+12/21/2019,2019,December,152265,Male,55,(55+),Married,South Carolina,Basic,Employees,PayPal,Referred,"$1,274.62"
+12/21/2019,2019,December,152266,Female,69,(55+),Married,Ohio,Basic,Employees,PayPal,No Referral,"$2,437.74"
+12/21/2019,2019,December,152267,Male,64,(55+),Married,Maryland,Platinum,Employees,Card,No Referral,"$2,981.36"
+12/22/2019,2019,December,152268,Male,73,(55+),Married,Idaho,Basic,Employees,Card,No Referral,$427.54
+12/22/2019,2019,December,152269,Male,46,(40-54),Married,North Dakota,Platinum,Workers,Other,No Referral,"$2,830.43"
+12/22/2019,2019,December,152270,Male,78,(55+),Single,Massachusetts,Missing,Employees,Other,Referred,"$2,662.19"
+12/23/2019,2019,December,152271,Female,22,(15-24),Single,Indiana,Platinum,Workers,Card,Referred,$30.22
+12/24/2019,2019,December,152272,Female,65,(55+),Married,Montana,Platinum,Workers,PayPal,No Referral,"$2,903.60"
+12/24/2019,2019,December,152273,Male,37,(25-39),Married,Iowa,Basic,Employees,PayPal,No Referral,$717.22
+12/25/2019,2019,December,152275,Female,68,(55+),Single,Alaska,Missing,Employees,Other,No Referral,$664.72
+12/25/2019,2019,December,152277,Female,50,(40-54),Single,Rhode Island,Platinum,Unemployment,Other,No Referral,"$1,372.74"
+12/26/2019,2019,December,152279,Male,49,(40-54),Married,Connecticut,Platinum,Workers,PayPal,Referred,"$1,469.28"
+12/26/2019,2019,December,152281,Male,53,(40-54),Single,Iowa,Platinum,Employees,PayPal,Referred,"$1,898.51"
+12/26/2019,2019,December,152282,Female,46,(40-54),Married,Maryland,Basic,Employees,Card,Referred,"$2,508.04"
+12/27/2019,2019,December,152283,Female,50,(40-54),Single,Wyoming,Basic,Self-employed,Card,No Referral,"$1,823.93"
+12/27/2019,2019,December,152284,Female,62,(55+),Married,Montana,Basic,Workers,Other,Referred,"$1,435.92"
+12/27/2019,2019,December,152285,Female,59,(55+),Married,Alabama,Platinum,Workers,Card,Referred,"$2,747.99"
+12/27/2019,2019,December,152286,Male,55,(55+),Married,Louisiana,Basic,Workers,Card,No Referral,$577.32
+12/29/2019,2019,December,152288,Female,56,(55+),Single,New Jersey,Silver,Unemployment,PayPal,No Referral,"$2,780.61"
+12/29/2019,2019,December,152289,Female,56,(55+),Single,Louisiana,Basic,Workers,Card,Referred,"$1,980.54"
+12/29/2019,2019,December,152290,Female,78,(55+),Married,Florida,Silver,Employees,Card,No Referral,"$2,446.79"
+12/30/2019,2019,December,152291,Male,48,(40-54),Married,Nebraska,Basic,Employees,Other,No Referral,$34.88
+12/31/2019,2019,December,152292,Male,66,(55+),Married,West Virginia,Basic,Employees,Other,Referred,$294.43
+12/31/2019,2019,December,152293,Female,24,(15-24),Married,Rhode Island,Basic,Employees,Card,Referred,"$2,979.76"
+1/1/2020,2020,January,152294,Male,34,(25-39),Married,Washington,Silver,Employees,PayPal,Referred,$794.29
+1/1/2020,2020,January,152295,Male,68,(55+),Married,New Jersey,Gold,Unemployment,Other,Referred,"$2,458.89"
+1/1/2020,2020,January,152296,Female,51,(40-54),Married,Rhode Island,Basic,Employees,Card,Referred,"$1,941.55"
+1/1/2020,2020,January,152297,Female,73,(55+),Married,Alabama,Silver,Self-employed,Other,No Referral,$851.25
+1/1/2020,2020,January,152298,Female,75,(55+),Married,North Dakota,Basic,Self-employed,PayPal,Referred,"$2,820.05"
+1/1/2020,2020,January,152299,Female,63,(55+),Single,Kentucky,Missing,Employees,PayPal,No Referral,"$2,569.93"
+1/3/2020,2020,January,152302,Male,46,(40-54),Married,Maine,Basic,Workers,PayPal,No Referral,$790.74
+1/3/2020,2020,January,152303,Female,21,(15-24),Married,South Dakota,Platinum,Self-employed,Card,No Referral,"$2,884.04"
+1/3/2020,2020,January,152304,Female,35,(25-39),Single,Vermont,Basic,Employees,Card,Referred,"$2,707.55"
+1/3/2020,2020,January,152305,Male,53,(40-54),Single,California,Platinum,Employees,PayPal,Referred,"$1,108.32"
+1/4/2020,2020,January,152306,Male,27,(25-39),Married,Oklahoma,Platinum,Workers,Card,No Referral,$175.70
+1/4/2020,2020,January,152307,Male,76,(55+),Married,Washington,Basic,Employees,Other,Referred,"$2,556.55"
+1/5/2020,2020,January,152309,Female,44,(40-54),Single,Arizona,Basic,Unemployment,Card,No Referral,"$2,476.40"
+1/5/2020,2020,January,152310,Female,35,(25-39),Married,Colorado,Gold,Self-employed,PayPal,Referred,"$2,513.16"
+1/5/2020,2020,January,152311,Male,35,(25-39),Married,West Virginia,Silver,Workers,Other,Referred,"$2,987.96"
+1/6/2020,2020,January,152312,Female,26,(25-39),Single,Georgia,Basic,Employees,PayPal,Referred,$542.38
+1/6/2020,2020,January,152313,Female,75,(55+),Married,Georgia,Basic,Employees,Other,Referred,$441.12
+1/6/2020,2020,January,152314,Female,18,(15-24),Single,Ohio,Missing,Employees,PayPal,Referred,$321.63
+1/6/2020,2020,January,152315,Male,78,(55+),Single,West Virginia,Basic,Workers,Other,No Referral,"$2,429.90"
+1/6/2020,2020,January,152316,Male,20,(15-24),Single,Virginia,Basic,Self-employed,PayPal,Referred,"$2,616.98"
+1/6/2020,2020,January,152318,Female,22,(15-24),Married,Idaho,Basic,Workers,Other,Referred,"$2,954.96"
+1/7/2020,2020,January,152319,Female,41,(40-54),Married,New Mexico,Platinum,Workers,Other,Referred,"$2,612.81"
+1/7/2020,2020,January,152320,Male,70,(55+),Single,Maryland,Basic,Employees,Card,No Referral,"$2,961.06"
+1/7/2020,2020,January,152322,Female,78,(55+),Single,Missouri,Basic,Workers,PayPal,No Referral,"$1,407.33"
+1/7/2020,2020,January,152323,Male,29,(25-39),Married,Colorado,Basic,Self-employed,Other,Referred,"$2,693.76"
+1/8/2020,2020,January,152324,Male,58,(55+),Married,Minnesota,Platinum,Employees,Other,Referred,"$1,215.66"
+1/8/2020,2020,January,152325,Male,65,(55+),Single,New York,Basic,Employees,PayPal,Referred,"$1,584.50"
+1/8/2020,2020,January,152326,Female,35,(25-39),Single,Maine,Basic,Workers,PayPal,Referred,$978.26
+1/9/2020,2020,January,152327,Female,17,(15-24),Married,Rhode Island,Platinum,Self-employed,Other,No Referral,"$1,907.39"
+1/9/2020,2020,January,152328,Male,27,(25-39),Single,Nebraska,Platinum,Employees,Other,Referred,"$1,020.47"
+1/9/2020,2020,January,152329,Female,67,(55+),Single,Missouri,Basic,Employees,Card,Referred,"$1,988.96"
+1/9/2020,2020,January,152331,Male,47,(40-54),Married,Georgia,Platinum,Workers,PayPal,Referred,$840.32
+1/10/2020,2020,January,152334,Male,68,(55+),Married,Missouri,Gold,Employees,PayPal,Referred,"$2,409.45"
+1/10/2020,2020,January,152336,Male,44,(40-54),Married,New York,Basic,Workers,PayPal,Referred,"$2,511.17"
+1/10/2020,2020,January,152337,Female,48,(40-54),Single,Illinois,Missing,Unemployment,Other,No Referral,"$1,766.96"
+1/10/2020,2020,January,152339,Male,55,(55+),Married,Minnesota,Platinum,Workers,PayPal,No Referral,"$1,812.71"
+1/11/2020,2020,January,152340,Male,71,(55+),Single,California,Missing,Unemployment,PayPal,Referred,$458.09
+1/11/2020,2020,January,152341,Male,18,(15-24),Married,Tennessee,Basic,Self-employed,PayPal,No Referral,$212.17
+1/11/2020,2020,January,152342,Female,67,(55+),Single,Georgia,Basic,Self-employed,PayPal,Referred,"$1,728.48"
+1/12/2020,2020,January,152343,Male,66,(55+),Married,Colorado,Missing,Employees,PayPal,No Referral,"$2,642.99"
+1/12/2020,2020,January,152344,Male,48,(40-54),Married,Mississippi,Platinum,Employees,PayPal,Referred,"$1,068.04"
+1/12/2020,2020,January,152345,Female,25,(25-39),Married,Nebraska,Basic,Workers,PayPal,No Referral,"$1,735.07"
+1/12/2020,2020,January,152346,Female,76,(55+),Married,Pennsylvania,Basic,Employees,PayPal,No Referral,"$1,501.44"
+1/13/2020,2020,January,152347,Female,39,(25-39),Married,Indiana,Platinum,Workers,PayPal,Referred,"$1,766.51"
+1/13/2020,2020,January,152348,Male,56,(55+),Single,Michigan,Basic,Workers,Card,Referred,$345.89
+1/13/2020,2020,January,152350,Female,68,(55+),Married,Hawaii,Platinum,Employees,PayPal,No Referral,"$1,739.24"
+1/13/2020,2020,January,152351,Male,60,(55+),Single,Nevada,Missing,Workers,PayPal,Referred,"$1,473.73"
+1/13/2020,2020,January,152352,Female,73,(55+),Married,Tennessee,Silver,Workers,PayPal,Referred,"$1,886.15"
+1/14/2020,2020,January,152353,Male,75,(55+),Married,Washington,Basic,Employees,Card,No Referral,"$1,540.30"
+1/14/2020,2020,January,152354,Female,43,(40-54),Married,Texas,Platinum,Employees,PayPal,No Referral,"$1,239.50"
+1/16/2020,2020,January,152357,Male,78,(55+),Married,California,Missing,Employees,Other,Referred,$150.76
+1/17/2020,2020,January,152359,Female,65,(55+),Married,Wisconsin,Basic,Workers,PayPal,No Referral,"$1,178.68"
+1/17/2020,2020,January,152360,Female,58,(55+),Single,Oklahoma,Silver,Employees,PayPal,No Referral,"$2,962.48"
+1/18/2020,2020,January,152362,Male,66,(55+),Married,South Dakota,Basic,Self-employed,PayPal,No Referral,"$2,489.81"
+1/18/2020,2020,January,152363,Male,25,(25-39),Single,Arizona,Silver,Employees,PayPal,No Referral,"$2,942.85"
+1/18/2020,2020,January,152364,Female,44,(40-54),Single,Michigan,Basic,Employees,Other,No Referral,"$1,968.96"
+1/18/2020,2020,January,152365,Female,30,(25-39),Single,Michigan,Basic,Self-employed,PayPal,No Referral,"$2,985.70"
+1/18/2020,2020,January,152366,Female,71,(55+),Single,Delaware,Basic,Employees,PayPal,No Referral,$14.42
+1/19/2020,2020,January,152367,Female,21,(15-24),Single,Louisiana,Basic,Unemployment,PayPal,Referred,"$2,019.49"
+1/19/2020,2020,January,152368,Male,62,(55+),Married,Iowa,Basic,Self-employed,PayPal,Referred,$784.89
+1/19/2020,2020,January,152369,Female,32,(25-39),Married,West Virginia,Basic,Unemployment,Card,Referred,"$1,248.69"
+1/19/2020,2020,January,152370,Female,51,(40-54),Single,Florida,Basic,Workers,Other,Referred,$544.83
+1/19/2020,2020,January,152371,Female,21,(15-24),Married,New Jersey,Silver,Employees,PayPal,Referred,"$2,889.70"
+1/19/2020,2020,January,152372,Female,56,(55+),Married,Delaware,Gold,Employees,Card,Referred,$709.16
+1/20/2020,2020,January,152373,Male,67,(55+),Single,Kentucky,Gold,Self-employed,PayPal,Referred,"$1,495.90"
+1/21/2020,2020,January,152374,Female,60,(55+),Married,Iowa,Basic,Workers,Card,No Referral,"$1,676.40"
+1/21/2020,2020,January,152375,Female,20,(15-24),Single,Wisconsin,Missing,Employees,Card,No Referral,"$2,034.02"
+1/22/2020,2020,January,152376,Male,38,(25-39),Single,Florida,Basic,Workers,Card,No Referral,"$1,021.21"
+1/22/2020,2020,January,152377,Male,69,(55+),Married,Georgia,Platinum,Workers,PayPal,Referred,"$2,478.10"
+1/23/2020,2020,January,152378,Male,47,(40-54),Married,New York,Platinum,Employees,PayPal,Referred,$929.97
+1/23/2020,2020,January,152379,Male,28,(25-39),Married,Indiana,Silver,Self-employed,PayPal,No Referral,"$1,465.07"
+1/23/2020,2020,January,152380,Female,20,(15-24),Married,Arizona,Missing,Workers,PayPal,Referred,"$2,722.23"
+1/23/2020,2020,January,152381,Male,67,(55+),Single,Utah,Silver,Employees,PayPal,Referred,"$2,528.22"
+1/23/2020,2020,January,152382,Male,28,(25-39),Married,Vermont,Basic,Employees,PayPal,No Referral,"$1,758.32"
+1/25/2020,2020,January,152384,Male,19,(15-24),Married,Wisconsin,Basic,Workers,Card,Referred,$496.36
+1/25/2020,2020,January,152385,Female,17,(15-24),Married,North Dakota,Basic,Workers,Other,No Referral,$951.22
+1/25/2020,2020,January,152386,Female,77,(55+),Single,South Carolina,Basic,Employees,PayPal,Referred,$287.21
+1/25/2020,2020,January,152388,Female,48,(40-54),Single,Nebraska,Missing,Employees,PayPal,No Referral,"$2,056.77"
+1/25/2020,2020,January,152389,Female,45,(40-54),Married,Illinois,Silver,Workers,PayPal,Referred,$25.18
+1/25/2020,2020,January,152390,Female,71,(55+),Single,California,Basic,Workers,Card,Referred,"$2,090.91"
+1/27/2020,2020,January,152391,Male,57,(55+),Married,California,Missing,Employees,Other,Referred,"$1,146.30"
+1/27/2020,2020,January,152392,Male,27,(25-39),Single,Minnesota,Basic,Employees,PayPal,Referred,"$1,297.99"
+1/28/2020,2020,January,152393,Female,39,(25-39),Single,Oklahoma,Basic,Workers,Card,Referred,$553.60
+1/28/2020,2020,January,152394,Female,20,(15-24),Married,Utah,Gold,Employees,PayPal,No Referral,"$2,733.41"
+1/28/2020,2020,January,152395,Male,70,(55+),Single,West Virginia,Basic,Workers,Card,No Referral,$300.28
+1/28/2020,2020,January,152396,Female,30,(25-39),Married,Maine,Gold,Workers,Card,No Referral,$631.84
+1/29/2020,2020,January,152397,Male,60,(55+),Single,Missouri,Basic,Self-employed,Other,Referred,"$1,551.07"
+1/29/2020,2020,January,152398,Female,54,(40-54),Married,Wyoming,Basic,Employees,Other,Referred,"$2,674.77"
+1/30/2020,2020,January,152400,Female,76,(55+),Married,Alaska,Basic,Employees,PayPal,No Referral,"$1,207.82"
+1/30/2020,2020,January,152401,Female,49,(40-54),Married,Pennsylvania,Platinum,Unemployment,Card,No Referral,$601.43
+1/30/2020,2020,January,152402,Male,66,(55+),Single,Hawaii,Basic,Employees,PayPal,No Referral,"$1,330.79"
+1/30/2020,2020,January,152403,Female,49,(40-54),Married,South Dakota,Gold,Employees,PayPal,Referred,$999.93
+1/30/2020,2020,January,152404,Female,37,(25-39),Single,Colorado,Missing,Workers,PayPal,Referred,$118.48
+1/30/2020,2020,January,152405,Male,74,(55+),Married,Louisiana,Basic,Workers,Other,Referred,$933.78
+1/31/2020,2020,January,152406,Male,77,(55+),Married,Georgia,Missing,Workers,Card,No Referral,"$1,270.63"
+1/31/2020,2020,January,152407,Male,39,(25-39),Married,Louisiana,Missing,Employees,PayPal,No Referral,"$1,396.59"
+1/31/2020,2020,January,152408,Female,42,(40-54),Married,Montana,Gold,Employees,PayPal,Referred,$915.11
+1/31/2020,2020,January,152409,Female,41,(40-54),Single,Ohio,Basic,Workers,Card,No Referral,"$1,098.07"
+2/1/2020,2020,February,152411,Male,41,(40-54),Single,Massachusetts,Basic,Employees,Other,Referred,"$1,958.74"
+2/1/2020,2020,February,152412,Female,15,(15-24),Married,Illinois,Silver,Workers,Card,Referred,"$1,228.67"
+2/1/2020,2020,February,152414,Female,16,(15-24),Married,Utah,Platinum,Self-employed,Other,No Referral,"$2,457.09"
+2/2/2020,2020,February,152416,Male,68,(55+),Single,Massachusetts,Basic,Self-employed,Other,Referred,"$2,969.59"
+2/3/2020,2020,February,152417,Female,25,(25-39),Married,Georgia,Silver,Employees,PayPal,Referred,"$2,626.08"
+2/3/2020,2020,February,152418,Female,57,(55+),Single,South Carolina,Missing,Workers,Card,Referred,"$1,438.69"
+2/5/2020,2020,February,152419,Female,67,(55+),Married,New Hampshire,Silver,Workers,Card,Referred,"$1,659.67"
+2/5/2020,2020,February,152420,Male,75,(55+),Married,Washington,Platinum,Workers,PayPal,Referred,"$1,747.54"
+2/6/2020,2020,February,152423,Male,51,(40-54),Married,Ohio,Gold,Workers,Other,No Referral,$295.67
+2/6/2020,2020,February,152424,Female,39,(25-39),Married,Ohio,Missing,Self-employed,Card,No Referral,"$1,659.23"
+2/8/2020,2020,February,152425,Male,30,(25-39),Married,Florida,Basic,Workers,Other,Referred,"$1,056.10"
+2/8/2020,2020,February,152426,Female,70,(55+),Married,Rhode Island,Silver,Workers,Other,No Referral,$988.82
+2/9/2020,2020,February,152427,Male,70,(55+),Married,Florida,Basic,Self-employed,PayPal,Referred,$153.01
+2/9/2020,2020,February,152428,Female,21,(15-24),Single,Georgia,Platinum,Workers,PayPal,No Referral,$438.20
+2/10/2020,2020,February,152429,Female,62,(55+),Married,Tennessee,Basic,Unemployment,Other,Referred,"$1,728.43"
+2/10/2020,2020,February,152430,Male,44,(40-54),Single,Michigan,Silver,Self-employed,PayPal,No Referral,"$1,590.63"
+2/11/2020,2020,February,152433,Female,51,(40-54),Married,Montana,Basic,Employees,Other,No Referral,"$2,582.89"
+2/12/2020,2020,February,152434,Female,54,(40-54),Married,Alaska,Basic,Unemployment,Card,Referred,"$1,118.41"
+2/13/2020,2020,February,152436,Male,50,(40-54),Single,New Jersey,Silver,Self-employed,PayPal,No Referral,$454.37
+2/14/2020,2020,February,152437,Female,44,(40-54),Single,Florida,Basic,Workers,PayPal,No Referral,"$1,778.33"
+2/14/2020,2020,February,152438,Male,42,(40-54),Married,Nebraska,Basic,Workers,Other,Referred,"$1,613.31"
+2/15/2020,2020,February,152439,Male,41,(40-54),Married,West Virginia,Platinum,Workers,Other,Referred,"$2,501.89"
+2/15/2020,2020,February,152441,Female,78,(55+),Married,North Dakota,Basic,Employees,Card,No Referral,$99.55
+2/16/2020,2020,February,152442,Female,16,(15-24),Married,Nevada,Platinum,Workers,Card,Referred,"$2,988.13"
+2/16/2020,2020,February,152443,Female,49,(40-54),Single,Missouri,Basic,Unemployment,Card,Referred,"$1,600.78"
+2/16/2020,2020,February,152444,Female,62,(55+),Married,Idaho,Silver,Self-employed,Other,No Referral,"$2,481.34"
+2/16/2020,2020,February,152445,Male,65,(55+),Single,Minnesota,Basic,Workers,PayPal,Referred,$567.18
+2/16/2020,2020,February,152447,Female,47,(40-54),Single,Indiana,Basic,Employees,Card,Referred,$567.78
+2/16/2020,2020,February,152448,Male,22,(15-24),Married,Arizona,Basic,Employees,Other,Referred,"$1,021.49"
+2/17/2020,2020,February,152449,Female,58,(55+),Single,Maine,Basic,Workers,Other,Referred,"$1,771.53"
+2/18/2020,2020,February,152451,Female,72,(55+),Single,New Mexico,Missing,Workers,Other,No Referral,"$2,402.44"
+2/18/2020,2020,February,152452,Male,22,(15-24),Single,Colorado,Platinum,Employees,PayPal,Referred,"$2,789.94"
+2/18/2020,2020,February,152453,Male,21,(15-24),Married,Delaware,Basic,Workers,Card,No Referral,"$1,167.40"
+2/18/2020,2020,February,152454,Male,62,(55+),Single,North Carolina,Basic,Unemployment,Card,Referred,"$1,757.10"
+2/19/2020,2020,February,152455,Female,77,(55+),Married,Washington,Silver,Workers,PayPal,Referred,$881.16
+2/19/2020,2020,February,152456,Female,62,(55+),Married,Massachusetts,Basic,Employees,PayPal,Referred,"$2,640.97"
+2/19/2020,2020,February,152457,Male,48,(40-54),Married,Oklahoma,Gold,Employees,Card,Referred,"$1,522.01"
+2/19/2020,2020,February,152458,Female,22,(15-24),Married,Maine,Basic,Unemployment,PayPal,Referred,"$1,405.08"
+2/20/2020,2020,February,152459,Male,78,(55+),Single,Virginia,Gold,Employees,Card,No Referral,"$1,764.55"
+2/20/2020,2020,February,152460,Male,75,(55+),Married,Nebraska,Basic,Workers,Other,Referred,$820.94
+2/20/2020,2020,February,152461,Male,70,(55+),Married,Rhode Island,Platinum,Employees,Other,Referred,"$2,772.92"
+2/20/2020,2020,February,152462,Male,77,(55+),Married,Kentucky,Silver,Employees,Other,Referred,$583.11
+2/21/2020,2020,February,152463,Female,58,(55+),Single,Illinois,Basic,Workers,PayPal,Referred,$405.51
+2/21/2020,2020,February,152464,Female,44,(40-54),Married,Iowa,Basic,Self-employed,PayPal,Referred,"$2,903.28"
+2/21/2020,2020,February,152465,Female,71,(55+),Single,South Dakota,Gold,Employees,PayPal,No Referral,"$2,706.14"
+2/21/2020,2020,February,152466,Female,15,(15-24),Married,Minnesota,Basic,Unemployment,PayPal,Referred,$330.61
+2/22/2020,2020,February,152468,Female,29,(25-39),Single,Florida,Platinum,Employees,Other,No Referral,$781.71
+2/23/2020,2020,February,152469,Female,61,(55+),Married,Minnesota,Missing,Employees,PayPal,Referred,"$2,919.78"
+2/23/2020,2020,February,152470,Male,50,(40-54),Married,Indiana,Basic,Workers,Card,Referred,"$1,829.21"
+2/24/2020,2020,February,152471,Male,67,(55+),Single,Arkansas,Basic,Unemployment,PayPal,No Referral,$166.09
+2/24/2020,2020,February,152472,Male,66,(55+),Married,Wisconsin,Basic,Employees,Other,No Referral,"$1,272.77"
+2/24/2020,2020,February,152473,Male,47,(40-54),Married,Pennsylvania,Platinum,Employees,PayPal,No Referral,"$2,633.65"
+2/24/2020,2020,February,152474,Male,16,(15-24),Married,Tennessee,Basic,Employees,PayPal,No Referral,$795.97
+2/24/2020,2020,February,152475,Female,38,(25-39),Single,Ohio,Basic,Employees,Other,No Referral,"$1,060.68"
+2/25/2020,2020,February,152476,Female,62,(55+),Married,New Mexico,Platinum,Employees,PayPal,Referred,"$1,401.41"
+2/25/2020,2020,February,152477,Male,40,(40-54),Single,Georgia,Silver,Employees,PayPal,Referred,$966.13
+2/26/2020,2020,February,152479,Female,22,(15-24),Married,Mississippi,Basic,Workers,Other,Referred,"$1,624.20"
+2/26/2020,2020,February,152480,Female,36,(25-39),Single,New Mexico,Gold,Self-employed,Other,No Referral,$203.83
+2/26/2020,2020,February,152481,Male,53,(40-54),Single,Michigan,Platinum,Employees,PayPal,Referred,"$1,793.15"
+2/26/2020,2020,February,152483,Female,29,(25-39),Single,Oregon,Missing,Self-employed,Other,No Referral,"$2,580.54"
+2/27/2020,2020,February,152484,Female,78,(55+),Married,Kentucky,Basic,Employees,PayPal,Referred,$818.33
+2/28/2020,2020,February,152485,Male,53,(40-54),Single,New Mexico,Basic,Employees,PayPal,Referred,"$2,948.12"
+2/28/2020,2020,February,152486,Female,26,(25-39),Single,New Jersey,Basic,Employees,Card,No Referral,$131.54
+2/28/2020,2020,February,152487,Male,43,(40-54),Married,Idaho,Silver,Employees,Card,Referred,"$2,902.45"
+2/28/2020,2020,February,152488,Female,71,(55+),Single,Nevada,Platinum,Employees,PayPal,Referred,"$1,301.11"
+2/28/2020,2020,February,152489,Female,75,(55+),Married,Maryland,Platinum,Employees,PayPal,Referred,"$2,740.01"
+2/29/2020,2020,February,152490,Male,38,(25-39),Single,Michigan,Silver,Workers,PayPal,Referred,"$2,813.89"
+3/2/2020,2020,March,152491,Male,60,(55+),Single,Oregon,Gold,Workers,PayPal,No Referral,"$1,142.85"
+3/2/2020,2020,March,152492,Male,26,(25-39),Married,Maryland,Silver,Employees,PayPal,Referred,$8.67
+3/3/2020,2020,March,152493,Male,76,(55+),Single,Maine,Basic,Self-employed,PayPal,No Referral,"$2,757.85"
+3/4/2020,2020,March,152494,Male,32,(25-39),Single,Kentucky,Silver,Workers,PayPal,Referred,"$2,750.32"
+3/4/2020,2020,March,152495,Female,51,(40-54),Married,Alaska,Basic,Employees,Other,Referred,"$2,594.75"
+3/5/2020,2020,March,152499,Female,63,(55+),Single,Oregon,Basic,Workers,PayPal,Referred,"$1,462.64"
+3/6/2020,2020,March,152500,Female,56,(55+),Married,Florida,Basic,Unemployment,Other,Referred,"$2,741.78"
+3/6/2020,2020,March,152501,Female,72,(55+),Single,Arizona,Gold,Employees,Other,Referred,"$2,906.76"
+3/7/2020,2020,March,152502,Male,51,(40-54),Single,Idaho,Basic,Employees,PayPal,Referred,"$1,100.58"
+3/7/2020,2020,March,152503,Female,58,(55+),Married,Massachusetts,Basic,Employees,PayPal,No Referral,$290.50
+3/7/2020,2020,March,152504,Male,19,(15-24),Single,Minnesota,Silver,Workers,Other,Referred,"$1,762.99"
+3/7/2020,2020,March,152505,Male,59,(55+),Married,New Hampshire,Silver,Self-employed,PayPal,Referred,"$1,177.86"
+3/7/2020,2020,March,152506,Female,43,(40-54),Single,Pennsylvania,Silver,Employees,PayPal,Referred,$501.28
+3/8/2020,2020,March,152507,Female,58,(55+),Single,New Jersey,Platinum,Self-employed,Card,Referred,$508.39
+3/8/2020,2020,March,152508,Male,37,(25-39),Married,Rhode Island,Silver,Unemployment,Card,No Referral,"$2,480.31"
+3/8/2020,2020,March,152509,Male,77,(55+),Single,Texas,Silver,Workers,Other,Referred,$332.43
+3/9/2020,2020,March,152510,Female,40,(40-54),Married,Delaware,Basic,Employees,PayPal,Referred,$902.85
+3/9/2020,2020,March,152511,Female,37,(25-39),Married,South Carolina,Silver,Workers,PayPal,Referred,"$1,383.85"
+3/10/2020,2020,March,152514,Female,39,(25-39),Married,Indiana,Silver,Self-employed,Other,Referred,$810.56
+3/10/2020,2020,March,152515,Female,27,(25-39),Married,Kentucky,Silver,Workers,Other,No Referral,"$2,957.04"
+3/11/2020,2020,March,152516,Female,19,(15-24),Married,Utah,Gold,Unemployment,Card,No Referral,"$1,101.86"
+3/11/2020,2020,March,152517,Male,65,(55+),Married,California,Basic,Unemployment,PayPal,Referred,$884.14
+3/13/2020,2020,March,152519,Male,19,(15-24),Married,Wisconsin,Platinum,Workers,PayPal,No Referral,$719.49
+3/13/2020,2020,March,152520,Male,16,(15-24),Married,Mississippi,Platinum,Workers,Other,Referred,"$1,222.43"
+3/13/2020,2020,March,152521,Female,37,(25-39),Married,Nevada,Silver,Self-employed,Other,No Referral,$507.25
+3/13/2020,2020,March,152522,Female,30,(25-39),Single,Texas,Missing,Employees,PayPal,No Referral,"$2,457.09"
+3/14/2020,2020,March,152523,Female,34,(25-39),Married,Kentucky,Basic,Employees,Card,No Referral,"$2,015.07"
+3/17/2020,2020,March,152526,Male,17,(15-24),Married,Wisconsin,Platinum,Self-employed,Card,No Referral,$411.33
+3/17/2020,2020,March,152527,Male,60,(55+),Married,Georgia,Basic,Self-employed,PayPal,Referred,"$2,712.47"
+3/17/2020,2020,March,152528,Male,76,(55+),Married,North Carolina,Platinum,Workers,PayPal,No Referral,"$1,133.76"
+3/17/2020,2020,March,152529,Male,43,(40-54),Single,New Mexico,Platinum,Self-employed,PayPal,Referred,$828.36
+3/18/2020,2020,March,152530,Male,19,(15-24),Married,Georgia,Silver,Self-employed,Other,Referred,"$1,035.28"
+3/18/2020,2020,March,152531,Female,68,(55+),Single,Connecticut,Missing,Employees,Other,No Referral,"$2,420.70"
+3/18/2020,2020,March,152532,Male,54,(40-54),Married,Florida,Basic,Employees,PayPal,Referred,"$1,012.36"
+3/20/2020,2020,March,152534,Female,72,(55+),Single,Tennessee,Missing,Self-employed,PayPal,No Referral,$238.21
+3/20/2020,2020,March,152535,Male,32,(25-39),Single,Arkansas,Basic,Unemployment,PayPal,No Referral,"$2,546.71"
+3/20/2020,2020,March,152536,Female,34,(25-39),Single,Missouri,Platinum,Unemployment,Other,No Referral,"$2,655.20"
+3/20/2020,2020,March,152537,Female,52,(40-54),Married,Ohio,Basic,Employees,Card,Referred,"$2,772.71"
+3/21/2020,2020,March,152538,Male,38,(25-39),Married,Washington,Gold,Self-employed,PayPal,Referred,"$1,714.81"
+3/23/2020,2020,March,152541,Female,28,(25-39),Single,Illinois,Platinum,Employees,Card,Referred,"$1,105.48"
+3/23/2020,2020,March,152542,Female,50,(40-54),Single,New Hampshire,Missing,Self-employed,PayPal,No Referral,"$2,541.80"
+3/23/2020,2020,March,152543,Female,47,(40-54),Married,Tennessee,Silver,Employees,Card,Referred,"$1,735.23"
+3/23/2020,2020,March,152544,Female,32,(25-39),Married,Kentucky,Basic,Self-employed,PayPal,No Referral,"$2,940.55"
+3/24/2020,2020,March,152545,Female,68,(55+),Single,Missouri,Missing,Unemployment,Card,Referred,"$2,401.06"
+3/24/2020,2020,March,152546,Male,55,(55+),Married,Arizona,Basic,Unemployment,Card,No Referral,"$1,855.15"
+3/24/2020,2020,March,152547,Male,25,(25-39),Single,West Virginia,Basic,Employees,PayPal,Referred,$450.85
+3/24/2020,2020,March,152548,Female,21,(15-24),Single,Massachusetts,Silver,Workers,PayPal,Referred,$283.61
+3/24/2020,2020,March,152549,Female,32,(25-39),Married,Florida,Basic,Unemployment,Card,Referred,$200.88
+3/24/2020,2020,March,152550,Female,71,(55+),Single,Kentucky,Silver,Self-employed,PayPal,No Referral,"$1,364.29"
+3/25/2020,2020,March,152551,Female,77,(55+),Single,Georgia,Platinum,Workers,Other,Referred,"$1,844.08"
+3/25/2020,2020,March,152553,Male,47,(40-54),Married,North Carolina,Basic,Workers,Card,No Referral,"$1,877.79"
+3/26/2020,2020,March,152554,Female,49,(40-54),Single,Connecticut,Basic,Employees,Card,Referred,$485.26
+3/26/2020,2020,March,152555,Female,61,(55+),Single,Maine,Basic,Workers,Other,Referred,$250.49
+3/27/2020,2020,March,152556,Female,77,(55+),Single,Texas,Basic,Employees,Card,Referred,"$1,838.09"
+3/27/2020,2020,March,152557,Female,17,(15-24),Single,Alabama,Platinum,Workers,Other,Referred,"$1,578.58"
+3/27/2020,2020,March,152558,Male,77,(55+),Married,Colorado,Missing,Self-employed,Card,No Referral,"$2,826.56"
+3/27/2020,2020,March,152559,Female,19,(15-24),Married,Washington,Silver,Employees,Other,No Referral,"$2,730.17"
+3/30/2020,2020,March,152562,Female,59,(55+),Married,Wisconsin,Basic,Workers,PayPal,No Referral,$123.42
+3/31/2020,2020,March,152563,Male,45,(40-54),Married,Kansas,Basic,Workers,Card,Referred,"$2,534.05"
+3/31/2020,2020,March,152564,Female,36,(25-39),Single,Washington,Basic,Workers,Card,Referred,$590.22
+3/31/2020,2020,March,152565,Male,45,(40-54),Married,Illinois,Basic,Workers,Other,No Referral,"$1,364.74"
+3/31/2020,2020,March,152566,Male,58,(55+),Married,Maine,Basic,Employees,PayPal,Referred,$76.54
+3/31/2020,2020,March,152567,Male,77,(55+),Married,Virginia,Gold,Workers,PayPal,Referred,$426.60
+4/1/2020,2020,April,152568,Male,55,(55+),Married,New York,Basic,Self-employed,PayPal,No Referral,"$1,112.58"
+4/1/2020,2020,April,152569,Female,48,(40-54),Single,Minnesota,Basic,Workers,Card,Referred,"$1,689.39"
+4/1/2020,2020,April,152570,Female,68,(55+),Married,Delaware,Basic,Employees,PayPal,No Referral,$228.12
+4/2/2020,2020,April,152571,Female,24,(15-24),Single,West Virginia,Basic,Employees,Card,Referred,"$1,141.44"
+4/3/2020,2020,April,152572,Female,49,(40-54),Single,Colorado,Gold,Employees,Other,Referred,$840.99
+4/3/2020,2020,April,152573,Female,66,(55+),Married,Texas,Platinum,Workers,PayPal,No Referral,"$1,152.59"
+4/4/2020,2020,April,152574,Female,32,(25-39),Married,Hawaii,Basic,Employees,Card,Referred,$857.79
+4/4/2020,2020,April,152575,Male,15,(15-24),Married,Illinois,Platinum,Self-employed,Card,Referred,"$2,417.48"
+4/4/2020,2020,April,152576,Female,26,(25-39),Married,South Dakota,Basic,Employees,PayPal,No Referral,$256.89
+4/5/2020,2020,April,152577,Male,16,(15-24),Married,Wyoming,Gold,Self-employed,Card,No Referral,$714.17
+4/5/2020,2020,April,152579,Female,71,(55+),Married,Nevada,Platinum,Employees,PayPal,No Referral,"$1,561.04"
+4/6/2020,2020,April,152581,Female,18,(15-24),Married,Arkansas,Missing,Employees,PayPal,No Referral,$754.73
+4/6/2020,2020,April,152582,Male,41,(40-54),Married,Pennsylvania,Basic,Self-employed,Other,Referred,"$2,865.28"
+4/7/2020,2020,April,152584,Female,16,(15-24),Single,Idaho,Basic,Workers,Other,No Referral,"$1,794.19"
+4/8/2020,2020,April,152586,Male,69,(55+),Married,Indiana,Basic,Employees,PayPal,No Referral,"$1,898.75"
+4/9/2020,2020,April,152587,Female,33,(25-39),Single,Kentucky,Basic,Unemployment,Card,No Referral,$669.93
+4/9/2020,2020,April,152588,Female,36,(25-39),Single,California,Basic,Self-employed,PayPal,Referred,$393.94
+4/9/2020,2020,April,152589,Female,19,(15-24),Single,Montana,Gold,Employees,PayPal,Referred,$214.11
+4/11/2020,2020,April,152592,Male,41,(40-54),Single,Washington,Basic,Workers,Other,No Referral,$714.35
+4/12/2020,2020,April,152594,Female,49,(40-54),Married,Louisiana,Platinum,Employees,PayPal,No Referral,"$2,846.00"
+4/13/2020,2020,April,152596,Male,60,(55+),Married,Oregon,Basic,Employees,Other,Referred,"$2,491.10"
+4/13/2020,2020,April,152597,Male,51,(40-54),Single,Louisiana,Gold,Self-employed,PayPal,Referred,"$1,493.06"
+4/13/2020,2020,April,152598,Male,56,(55+),Married,Hawaii,Silver,Workers,PayPal,Referred,"$1,239.01"
+4/13/2020,2020,April,152599,Female,28,(25-39),Married,Massachusetts,Basic,Employees,Card,No Referral,"$1,398.36"
+4/14/2020,2020,April,152601,Male,74,(55+),Married,Kansas,Platinum,Self-employed,Other,No Referral,$473.24
+4/14/2020,2020,April,152602,Male,28,(25-39),Married,Washington,Silver,Unemployment,Card,Referred,$292.45
+4/14/2020,2020,April,152603,Male,58,(55+),Single,Idaho,Basic,Self-employed,Other,Referred,$741.93
+4/15/2020,2020,April,152604,Male,20,(15-24),Single,Wyoming,Basic,Workers,PayPal,Referred,"$2,582.51"
+4/15/2020,2020,April,152605,Female,21,(15-24),Single,California,Silver,Workers,Other,Referred,$977.61
+4/15/2020,2020,April,152606,Female,34,(25-39),Married,Massachusetts,Basic,Employees,PayPal,No Referral,$247.80
+4/16/2020,2020,April,152607,Female,57,(55+),Married,Iowa,Basic,Workers,Other,Referred,$402.66
+4/16/2020,2020,April,152608,Female,35,(25-39),Single,Colorado,Gold,Employees,PayPal,Referred,$395.99
+4/17/2020,2020,April,152609,Female,58,(55+),Married,Colorado,Basic,Workers,PayPal,Referred,"$2,903.98"
+4/17/2020,2020,April,152610,Male,37,(25-39),Single,Illinois,Platinum,Self-employed,Card,Referred,"$1,583.01"
+4/17/2020,2020,April,152611,Female,51,(40-54),Married,New Jersey,Silver,Workers,PayPal,No Referral,"$1,665.44"
+4/18/2020,2020,April,152612,Female,73,(55+),Married,Minnesota,Missing,Self-employed,PayPal,Referred,"$2,774.50"
+4/18/2020,2020,April,152613,Female,42,(40-54),Married,Oregon,Silver,Unemployment,Card,Referred,"$2,659.77"
+4/19/2020,2020,April,152615,Male,50,(40-54),Married,New Hampshire,Gold,Self-employed,PayPal,Referred,$586.68
+4/19/2020,2020,April,152617,Male,71,(55+),Married,Mississippi,Basic,Employees,Other,Referred,$810.74
+4/20/2020,2020,April,152618,Female,42,(40-54),Married,Illinois,Platinum,Workers,Card,Referred,$557.70
+4/20/2020,2020,April,152619,Male,75,(55+),Married,New York,Platinum,Workers,PayPal,Referred,$815.59
+4/20/2020,2020,April,152620,Female,29,(25-39),Single,New York,Missing,Self-employed,PayPal,No Referral,"$1,565.00"
+4/21/2020,2020,April,152621,Male,38,(25-39),Married,New Mexico,Platinum,Employees,Card,Referred,"$2,469.32"
+4/21/2020,2020,April,152622,Female,48,(40-54),Single,Illinois,Basic,Employees,Other,No Referral,"$2,790.76"
+4/21/2020,2020,April,152623,Male,61,(55+),Married,North Dakota,Basic,Workers,PayPal,Referred,"$1,198.33"
+4/21/2020,2020,April,152624,Male,37,(25-39),Married,North Carolina,Basic,Employees,PayPal,Referred,"$1,847.18"
+4/22/2020,2020,April,152625,Female,44,(40-54),Single,Arizona,Basic,Employees,Other,Referred,"$2,873.01"
+4/24/2020,2020,April,152627,Female,33,(25-39),Single,Arkansas,Silver,Self-employed,Other,No Referral,"$2,721.75"
+4/25/2020,2020,April,152628,Female,63,(55+),Single,Minnesota,Basic,Self-employed,Card,No Referral,"$2,562.56"
+4/26/2020,2020,April,152629,Female,27,(25-39),Married,Illinois,Platinum,Workers,PayPal,No Referral,$693.59
+4/27/2020,2020,April,152630,Female,50,(40-54),Single,Utah,Basic,Employees,Card,No Referral,$952.25
+4/27/2020,2020,April,152631,Male,41,(40-54),Single,California,Basic,Employees,PayPal,No Referral,$224.65
+4/28/2020,2020,April,152632,Female,73,(55+),Single,Nebraska,Silver,Workers,Card,No Referral,$164.69
+4/28/2020,2020,April,152633,Female,53,(40-54),Married,Minnesota,Basic,Self-employed,PayPal,No Referral,"$1,957.02"
+4/29/2020,2020,April,152634,Male,55,(55+),Married,Wyoming,Basic,Workers,PayPal,Referred,"$2,976.07"
+4/29/2020,2020,April,152635,Male,53,(40-54),Married,Delaware,Silver,Self-employed,PayPal,No Referral,"$1,344.45"
+4/29/2020,2020,April,152637,Female,55,(55+),Married,Mississippi,Basic,Employees,Card,Referred,$720.13
+4/29/2020,2020,April,152638,Male,70,(55+),Married,South Carolina,Basic,Employees,PayPal,No Referral,"$2,793.46"
+4/29/2020,2020,April,152639,Female,22,(15-24),Single,Arkansas,Gold,Self-employed,Card,No Referral,$242.49
+4/30/2020,2020,April,152640,Female,45,(40-54),Single,Connecticut,Platinum,Employees,PayPal,No Referral,"$2,511.86"
+5/1/2020,2020,May,152642,Female,39,(25-39),Married,Hawaii,Gold,Employees,Card,No Referral,$324.40
+5/1/2020,2020,May,152643,Female,27,(25-39),Single,New York,Platinum,Workers,PayPal,No Referral,$386.88
+5/3/2020,2020,May,152644,Male,33,(25-39),Single,South Dakota,Basic,Workers,Other,No Referral,$409.17
+5/3/2020,2020,May,152645,Female,47,(40-54),Married,Utah,Silver,Employees,PayPal,No Referral,$147.56
+5/3/2020,2020,May,152646,Male,21,(15-24),Single,Mississippi,Platinum,Unemployment,PayPal,Referred,"$2,921.43"
+5/3/2020,2020,May,152647,Male,61,(55+),Single,Idaho,Missing,Workers,Card,Referred,"$2,677.17"
+5/5/2020,2020,May,152649,Male,28,(25-39),Married,Pennsylvania,Silver,Workers,PayPal,No Referral,$682.37
+5/5/2020,2020,May,152650,Male,64,(55+),Married,Illinois,Basic,Workers,Card,Referred,"$1,183.79"
+5/5/2020,2020,May,152651,Female,72,(55+),Married,Rhode Island,Silver,Employees,PayPal,Referred,$891.19
+5/5/2020,2020,May,152652,Male,17,(15-24),Single,Kentucky,Silver,Unemployment,PayPal,Referred,"$1,809.36"
+5/6/2020,2020,May,152653,Male,67,(55+),Married,New Hampshire,Basic,Employees,PayPal,Referred,"$1,838.74"
+5/7/2020,2020,May,152654,Female,16,(15-24),Married,Massachusetts,Silver,Workers,PayPal,Referred,$950.46
+5/7/2020,2020,May,152655,Female,72,(55+),Married,Mississippi,Basic,Self-employed,PayPal,Referred,$348.16
+5/7/2020,2020,May,152656,Female,37,(25-39),Married,New York,Basic,Employees,Card,No Referral,"$2,003.85"
+5/7/2020,2020,May,152657,Male,52,(40-54),Married,Kentucky,Platinum,Workers,Other,Referred,"$1,040.72"
+5/7/2020,2020,May,152658,Male,17,(15-24),Married,South Carolina,Gold,Employees,Card,Referred,$580.48
+5/8/2020,2020,May,152659,Male,27,(25-39),Married,Florida,Gold,Self-employed,PayPal,Referred,"$1,877.91"
+5/8/2020,2020,May,152660,Female,35,(25-39),Single,Connecticut,Platinum,Employees,Other,No Referral,"$1,141.54"
+5/9/2020,2020,May,152661,Male,57,(55+),Single,North Carolina,Silver,Workers,PayPal,No Referral,"$1,919.51"
+5/10/2020,2020,May,152663,Female,33,(25-39),Single,Louisiana,Platinum,Employees,Card,Referred,"$1,859.43"
+5/11/2020,2020,May,152665,Female,54,(40-54),Married,Delaware,Basic,Workers,PayPal,Referred,"$1,826.02"
+5/11/2020,2020,May,152666,Male,42,(40-54),Single,Kansas,Silver,Self-employed,PayPal,Referred,"$1,763.71"
+5/12/2020,2020,May,152667,Male,59,(55+),Single,Kentucky,Platinum,Workers,Card,Referred,$969.93
+5/12/2020,2020,May,152668,Female,72,(55+),Married,Oregon,Missing,Employees,Card,Referred,"$1,113.41"
+5/12/2020,2020,May,152669,Female,45,(40-54),Married,Wyoming,Platinum,Workers,Card,No Referral,$56.06
+5/13/2020,2020,May,152670,Female,76,(55+),Married,Oregon,Basic,Workers,PayPal,No Referral,"$1,476.77"
+5/13/2020,2020,May,152671,Male,22,(15-24),Married,Maine,Basic,Self-employed,PayPal,No Referral,"$2,648.71"
+5/13/2020,2020,May,152672,Female,28,(25-39),Married,Alabama,Platinum,Self-employed,Other,Referred,"$1,424.70"
+5/13/2020,2020,May,152674,Male,37,(25-39),Married,Connecticut,Silver,Self-employed,PayPal,Referred,"$2,940.37"
+5/13/2020,2020,May,152675,Female,43,(40-54),Married,Iowa,Silver,Workers,Card,Referred,"$1,889.07"
+5/14/2020,2020,May,152676,Male,16,(15-24),Married,Nevada,Basic,Self-employed,Other,Referred,"$1,047.63"
+5/14/2020,2020,May,152677,Female,62,(55+),Married,New Hampshire,Basic,Self-employed,Other,Referred,"$1,914.37"
+5/15/2020,2020,May,152679,Female,64,(55+),Single,North Carolina,Silver,Self-employed,PayPal,Referred,"$1,276.36"
+5/15/2020,2020,May,152680,Female,16,(15-24),Married,Tennessee,Basic,Employees,PayPal,Referred,$701.22
+5/15/2020,2020,May,152681,Male,71,(55+),Married,New Mexico,Gold,Unemployment,Other,Referred,$540.65
+5/17/2020,2020,May,152682,Female,36,(25-39),Single,Texas,Basic,Workers,Card,No Referral,"$1,943.78"
+5/17/2020,2020,May,152683,Female,24,(15-24),Married,North Dakota,Basic,Workers,Other,No Referral,$192.45
+5/18/2020,2020,May,152685,Female,62,(55+),Married,Mississippi,Silver,Workers,Other,Referred,$31.13
+5/18/2020,2020,May,152686,Male,37,(25-39),Married,Arkansas,Platinum,Unemployment,PayPal,Referred,"$1,927.09"
+5/19/2020,2020,May,152687,Male,47,(40-54),Married,New Mexico,Basic,Workers,PayPal,Referred,"$1,708.52"
+5/19/2020,2020,May,152688,Female,21,(15-24),Single,Pennsylvania,Silver,Workers,Card,Referred,$975.61
+5/19/2020,2020,May,152689,Female,71,(55+),Single,Wyoming,Platinum,Unemployment,Card,Referred,"$1,190.23"
+5/19/2020,2020,May,152690,Female,21,(15-24),Married,New Mexico,Basic,Self-employed,Other,No Referral,$334.86
+5/19/2020,2020,May,152691,Female,32,(25-39),Married,Vermont,Basic,Workers,PayPal,No Referral,$570.48
+5/20/2020,2020,May,152692,Male,58,(55+),Married,Ohio,Basic,Self-employed,Other,No Referral,"$1,746.89"
+5/20/2020,2020,May,152693,Female,18,(15-24),Married,Georgia,Basic,Workers,Other,Referred,"$2,926.09"
+5/20/2020,2020,May,152694,Male,71,(55+),Married,Oregon,Basic,Unemployment,Other,Referred,$975.54
+5/22/2020,2020,May,152697,Female,59,(55+),Married,New Jersey,Silver,Employees,Other,Referred,"$2,571.83"
+5/23/2020,2020,May,152699,Female,55,(55+),Married,Oregon,Platinum,Unemployment,Card,No Referral,$114.52
+5/24/2020,2020,May,152704,Female,35,(25-39),Married,New Jersey,Basic,Self-employed,PayPal,Referred,"$2,561.53"
+5/24/2020,2020,May,152705,Male,48,(40-54),Married,Minnesota,Missing,Employees,Card,No Referral,$138.99
+5/25/2020,2020,May,152707,Male,50,(40-54),Married,New Hampshire,Gold,Self-employed,Card,Referred,"$1,729.95"
+5/25/2020,2020,May,152708,Female,28,(25-39),Married,Nevada,Gold,Self-employed,PayPal,Referred,"$1,056.61"
+5/25/2020,2020,May,152709,Male,56,(55+),Married,New York,Basic,Employees,PayPal,Referred,"$2,901.83"
+5/25/2020,2020,May,152710,Female,56,(55+),Married,Colorado,Basic,Self-employed,Card,Referred,"$2,557.10"
+5/25/2020,2020,May,152711,Female,71,(55+),Married,Louisiana,Basic,Employees,PayPal,Referred,"$1,322.31"
+5/26/2020,2020,May,152712,Male,24,(15-24),Married,Maine,Platinum,Unemployment,PayPal,No Referral,$244.89
+5/26/2020,2020,May,152713,Female,61,(55+),Single,Hawaii,Basic,Employees,Card,Referred,$693.43
+5/27/2020,2020,May,152714,Female,27,(25-39),Single,Colorado,Silver,Workers,Card,No Referral,"$1,185.20"
+5/28/2020,2020,May,152716,Female,63,(55+),Single,Pennsylvania,Platinum,Self-employed,PayPal,Referred,"$2,409.86"
+5/28/2020,2020,May,152717,Female,70,(55+),Married,South Carolina,Missing,Employees,PayPal,Referred,"$1,317.93"
+5/29/2020,2020,May,152719,Female,53,(40-54),Married,Iowa,Basic,Self-employed,PayPal,Referred,"$2,640.96"
+5/29/2020,2020,May,152720,Female,71,(55+),Married,Idaho,Basic,Employees,Other,No Referral,$228.71
+5/29/2020,2020,May,152721,Male,31,(25-39),Married,Virginia,Basic,Employees,PayPal,Referred,$108.47
+5/30/2020,2020,May,152722,Female,73,(55+),Single,New Jersey,Silver,Employees,PayPal,No Referral,"$1,683.58"
+5/30/2020,2020,May,152723,Female,54,(40-54),Single,Illinois,Basic,Workers,Card,Referred,"$1,762.21"
+5/30/2020,2020,May,152724,Male,63,(55+),Married,Ohio,Gold,Workers,PayPal,Referred,$645.51
+5/30/2020,2020,May,152725,Female,61,(55+),Married,Montana,Basic,Workers,PayPal,Referred,"$1,755.41"
+5/30/2020,2020,May,152726,Male,60,(55+),Single,Delaware,Gold,Employees,PayPal,Referred,$55.65
+5/31/2020,2020,May,152727,Male,56,(55+),Single,Connecticut,Silver,Workers,PayPal,No Referral,"$1,358.84"
+5/31/2020,2020,May,152728,Female,50,(40-54),Single,New Mexico,Missing,Employees,Other,Referred,"$1,323.49"
+5/31/2020,2020,May,152729,Female,63,(55+),Single,Missouri,Basic,Self-employed,Other,No Referral,"$2,725.43"
+6/1/2020,2020,June,152730,Female,59,(55+),Married,Wisconsin,Silver,Employees,Card,No Referral,$50.83
+6/1/2020,2020,June,152731,Male,17,(15-24),Married,Nebraska,Platinum,Workers,PayPal,No Referral,$547.97
+6/2/2020,2020,June,152732,Female,76,(55+),Married,New Jersey,Basic,Unemployment,PayPal,Referred,$659.75
+6/2/2020,2020,June,152733,Male,63,(55+),Married,Missouri,Gold,Employees,PayPal,Referred,$809.09
+6/3/2020,2020,June,152734,Female,68,(55+),Single,South Dakota,Platinum,Employees,PayPal,Referred,"$2,975.50"
+6/3/2020,2020,June,152735,Male,19,(15-24),Married,Maine,Missing,Workers,Other,No Referral,"$1,909.48"
+6/3/2020,2020,June,152737,Male,56,(55+),Married,Wisconsin,Silver,Workers,PayPal,Referred,$731.05
+6/3/2020,2020,June,152738,Male,60,(55+),Single,Washington,Missing,Workers,Other,Referred,"$2,403.94"
+6/4/2020,2020,June,152739,Male,16,(15-24),Married,Maine,Basic,Self-employed,PayPal,Referred,$994.84
+6/5/2020,2020,June,152741,Female,17,(15-24),Married,Iowa,Missing,Workers,Other,Referred,$619.26
+6/5/2020,2020,June,152742,Male,78,(55+),Married,Massachusetts,Basic,Employees,PayPal,Referred,"$1,150.72"
+6/6/2020,2020,June,152743,Male,54,(40-54),Single,West Virginia,Platinum,Self-employed,Other,Referred,$964.18
+6/6/2020,2020,June,152744,Female,44,(40-54),Single,New Jersey,Basic,Unemployment,PayPal,No Referral,"$1,972.91"
+6/7/2020,2020,June,152746,Female,35,(25-39),Single,Georgia,Basic,Employees,Card,Referred,$189.69
+6/7/2020,2020,June,152748,Female,67,(55+),Married,Kansas,Platinum,Workers,Other,No Referral,$524.88
+6/7/2020,2020,June,152749,Female,36,(25-39),Single,North Carolina,Silver,Employees,Other,Referred,$209.75
+6/8/2020,2020,June,152750,Female,77,(55+),Married,Colorado,Gold,Employees,Other,Referred,"$2,480.85"
+6/8/2020,2020,June,152751,Male,48,(40-54),Married,Pennsylvania,Basic,Unemployment,PayPal,Referred,"$1,755.60"
+6/8/2020,2020,June,152752,Male,78,(55+),Married,New Mexico,Basic,Unemployment,Card,Referred,$95.05
+6/8/2020,2020,June,152753,Female,39,(25-39),Single,Oklahoma,Platinum,Unemployment,Card,No Referral,"$1,557.50"
+6/9/2020,2020,June,152754,Female,68,(55+),Married,Wyoming,Silver,Workers,PayPal,Referred,"$1,354.59"
+6/9/2020,2020,June,152755,Female,69,(55+),Married,Minnesota,Platinum,Unemployment,Other,Referred,"$2,455.66"
+6/11/2020,2020,June,152757,Male,74,(55+),Married,South Dakota,Basic,Employees,PayPal,Referred,"$2,477.45"
+6/11/2020,2020,June,152758,Female,34,(25-39),Married,Rhode Island,Basic,Unemployment,PayPal,No Referral,"$1,132.75"
+6/12/2020,2020,June,152760,Female,67,(55+),Single,Tennessee,Platinum,Employees,Other,Referred,"$1,689.87"
+6/12/2020,2020,June,152761,Female,49,(40-54),Married,Colorado,Silver,Employees,PayPal,Referred,"$2,401.32"
+6/13/2020,2020,June,152762,Male,67,(55+),Married,Georgia,Basic,Workers,Card,No Referral,"$1,847.47"
+6/15/2020,2020,June,152763,Male,28,(25-39),Married,Mississippi,Basic,Self-employed,Card,Referred,"$1,430.18"
+6/16/2020,2020,June,152764,Male,70,(55+),Married,Indiana,Basic,Workers,Other,Referred,"$2,819.18"
+6/16/2020,2020,June,152765,Female,31,(25-39),Single,Florida,Basic,Employees,Other,No Referral,$281.30
+6/16/2020,2020,June,152766,Female,52,(40-54),Married,New Mexico,Basic,Employees,PayPal,Referred,"$1,049.48"
+6/17/2020,2020,June,152768,Female,62,(55+),Single,Texas,Basic,Self-employed,PayPal,Referred,"$1,023.12"
+6/17/2020,2020,June,152769,Female,45,(40-54),Single,Louisiana,Platinum,Workers,PayPal,Referred,$469.50
+6/17/2020,2020,June,152770,Male,21,(15-24),Married,Indiana,Platinum,Self-employed,PayPal,No Referral,"$2,684.41"
+6/18/2020,2020,June,152771,Male,41,(40-54),Married,Idaho,Gold,Employees,PayPal,No Referral,$414.17
+6/18/2020,2020,June,152772,Female,17,(15-24),Single,Vermont,Silver,Employees,Card,Referred,"$1,687.03"
+6/18/2020,2020,June,152773,Female,25,(25-39),Single,Oklahoma,Silver,Workers,Card,Referred,$431.49
+6/19/2020,2020,June,152775,Female,24,(15-24),Married,California,Silver,Employees,Other,Referred,$469.54
+6/19/2020,2020,June,152776,Female,64,(55+),Single,Tennessee,Basic,Unemployment,Other,Referred,"$1,504.40"
+6/20/2020,2020,June,152777,Female,18,(15-24),Married,Missouri,Platinum,Unemployment,Other,Referred,"$2,699.00"
+6/21/2020,2020,June,152778,Female,50,(40-54),Single,Georgia,Missing,Employees,PayPal,Referred,"$2,734.44"
+6/21/2020,2020,June,152779,Female,20,(15-24),Married,Vermont,Basic,Workers,Card,Referred,$374.79
+6/21/2020,2020,June,152780,Female,26,(25-39),Married,Ohio,Silver,Unemployment,Card,Referred,$936.79
+6/22/2020,2020,June,152782,Male,50,(40-54),Single,Virginia,Basic,Workers,PayPal,No Referral,"$1,670.13"
+6/22/2020,2020,June,152783,Female,78,(55+),Married,Delaware,Silver,Employees,Card,No Referral,"$1,982.88"
+6/23/2020,2020,June,152784,Female,53,(40-54),Single,New Jersey,Silver,Employees,PayPal,No Referral,"$1,912.05"
+6/23/2020,2020,June,152785,Female,56,(55+),Single,Michigan,Silver,Self-employed,PayPal,Referred,"$1,653.94"
+6/24/2020,2020,June,152787,Male,64,(55+),Single,Vermont,Platinum,Employees,Other,No Referral,"$2,059.46"
+6/24/2020,2020,June,152788,Male,25,(25-39),Married,Rhode Island,Basic,Employees,Other,Referred,"$2,760.05"
+6/24/2020,2020,June,152790,Female,41,(40-54),Married,Rhode Island,Platinum,Unemployment,PayPal,Referred,"$2,570.96"
+6/24/2020,2020,June,152791,Male,29,(25-39),Single,Nebraska,Basic,Self-employed,PayPal,Referred,"$1,977.35"
+6/25/2020,2020,June,152792,Male,46,(40-54),Married,Utah,Platinum,Workers,PayPal,Referred,$256.52
+6/25/2020,2020,June,152795,Female,67,(55+),Single,Ohio,Missing,Employees,Other,Referred,"$2,898.65"
+6/25/2020,2020,June,152796,Male,56,(55+),Single,Washington,Basic,Employees,PayPal,No Referral,"$1,096.02"
+6/25/2020,2020,June,152797,Male,78,(55+),Single,Pennsylvania,Gold,Employees,Other,Referred,"$2,477.30"
+6/25/2020,2020,June,152798,Female,74,(55+),Married,Montana,Basic,Workers,Card,No Referral,"$1,297.82"
+6/26/2020,2020,June,152799,Female,15,(15-24),Married,Michigan,Platinum,Employees,Card,Referred,"$2,707.13"
+6/26/2020,2020,June,152800,Female,32,(25-39),Married,Missouri,Gold,Employees,Other,No Referral,"$1,410.48"
+6/27/2020,2020,June,152801,Female,24,(15-24),Married,Texas,Missing,Workers,PayPal,No Referral,"$1,779.77"
+6/27/2020,2020,June,152802,Female,25,(25-39),Married,Nevada,Basic,Self-employed,PayPal,Referred,$749.03
+6/27/2020,2020,June,152803,Male,38,(25-39),Married,Illinois,Silver,Unemployment,Other,Referred,"$2,791.22"
+6/28/2020,2020,June,152804,Male,36,(25-39),Single,Nevada,Silver,Unemployment,Other,Referred,$695.22
+6/28/2020,2020,June,152805,Male,48,(40-54),Single,Arkansas,Basic,Employees,Other,Referred,"$2,436.03"
+6/28/2020,2020,June,152806,Female,53,(40-54),Single,Michigan,Basic,Employees,Other,Referred,"$1,332.48"
+6/29/2020,2020,June,152807,Male,48,(40-54),Single,Delaware,Gold,Workers,PayPal,No Referral,$260.49
+6/29/2020,2020,June,152808,Female,35,(25-39),Married,Georgia,Missing,Employees,PayPal,No Referral,$27.00
+6/29/2020,2020,June,152809,Female,20,(15-24),Single,Nebraska,Basic,Employees,Card,No Referral,"$1,446.68"
+6/30/2020,2020,June,152810,Female,42,(40-54),Married,South Carolina,Basic,Employees,Other,No Referral,"$1,406.11"
+7/1/2020,2020,July,152811,Male,39,(25-39),Married,Wisconsin,Basic,Self-employed,Card,Referred,$179.72
+7/3/2020,2020,July,152813,Male,45,(40-54),Married,Indiana,Basic,Employees,Card,No Referral,"$2,047.61"
+7/4/2020,2020,July,152815,Female,51,(40-54),Single,Oklahoma,Platinum,Employees,PayPal,Referred,"$1,261.34"
+7/4/2020,2020,July,152816,Female,59,(55+),Single,Massachusetts,Basic,Employees,Other,No Referral,"$1,247.08"
+7/4/2020,2020,July,152817,Female,26,(25-39),Single,Maine,Silver,Self-employed,PayPal,Referred,"$1,156.49"
+7/4/2020,2020,July,152818,Female,51,(40-54),Married,Kansas,Platinum,Workers,PayPal,Referred,"$1,242.69"
+7/4/2020,2020,July,152819,Female,55,(55+),Single,Virginia,Basic,Employees,Card,Referred,"$1,709.49"
+7/5/2020,2020,July,152820,Female,19,(15-24),Married,Utah,Silver,Employees,PayPal,Referred,"$1,470.07"
+7/5/2020,2020,July,152822,Female,78,(55+),Single,Tennessee,Basic,Workers,PayPal,Referred,$86.13
+7/5/2020,2020,July,152823,Male,26,(25-39),Married,Montana,Basic,Workers,Other,Referred,"$1,938.90"
+7/5/2020,2020,July,152824,Female,40,(40-54),Married,Arkansas,Basic,Employees,Card,Referred,$956.22
+7/6/2020,2020,July,152825,Male,34,(25-39),Single,New Mexico,Gold,Workers,PayPal,No Referral,"$2,943.23"
+7/6/2020,2020,July,152827,Female,28,(25-39),Single,Alabama,Gold,Employees,PayPal,No Referral,"$1,706.13"
+7/6/2020,2020,July,152828,Female,49,(40-54),Married,Kentucky,Silver,Employees,Card,No Referral,"$1,244.44"
+7/7/2020,2020,July,152829,Male,75,(55+),Married,New Hampshire,Silver,Employees,PayPal,Referred,$879.69
+7/8/2020,2020,July,152830,Male,38,(25-39),Single,Florida,Silver,Unemployment,Card,Referred,$592.18
+7/8/2020,2020,July,152832,Male,31,(25-39),Single,Oklahoma,Platinum,Workers,Card,Referred,"$2,453.53"
+7/9/2020,2020,July,152835,Male,76,(55+),Single,Wyoming,Platinum,Employees,PayPal,Referred,"$1,734.75"
+7/9/2020,2020,July,152837,Male,62,(55+),Single,Massachusetts,Basic,Unemployment,PayPal,Referred,$909.53
+7/9/2020,2020,July,152838,Male,57,(55+),Married,Montana,Platinum,Employees,Card,No Referral,"$1,359.64"
+7/10/2020,2020,July,152839,Female,69,(55+),Single,Georgia,Missing,Employees,PayPal,Referred,$610.43
+7/11/2020,2020,July,152840,Female,39,(25-39),Single,Illinois,Missing,Workers,Card,No Referral,"$1,007.89"
+7/12/2020,2020,July,152841,Male,58,(55+),Married,Connecticut,Basic,Unemployment,Other,Referred,"$2,455.55"
+7/13/2020,2020,July,152845,Male,51,(40-54),Single,Massachusetts,Basic,Employees,PayPal,Referred,"$1,515.20"
+7/13/2020,2020,July,152846,Female,50,(40-54),Single,Vermont,Basic,Workers,Other,Referred,$927.66
+7/13/2020,2020,July,152847,Female,47,(40-54),Married,Illinois,Basic,Self-employed,Card,No Referral,$831.81
+7/14/2020,2020,July,152849,Male,56,(55+),Single,Idaho,Silver,Self-employed,PayPal,Referred,$142.06
+7/14/2020,2020,July,152850,Male,76,(55+),Married,Arkansas,Platinum,Unemployment,PayPal,No Referral,$775.85
+7/14/2020,2020,July,152853,Female,18,(15-24),Married,Missouri,Silver,Employees,PayPal,Referred,"$1,746.45"
+7/14/2020,2020,July,152854,Female,68,(55+),Single,Arkansas,Basic,Employees,Other,Referred,$569.55
+7/15/2020,2020,July,152855,Male,72,(55+),Single,Rhode Island,Basic,Workers,Card,Referred,"$2,727.77"
+7/15/2020,2020,July,152857,Female,72,(55+),Single,Mississippi,Basic,Employees,Card,No Referral,"$2,859.19"
+7/16/2020,2020,July,152858,Male,78,(55+),Single,Virginia,Basic,Self-employed,Other,No Referral,$575.15
+7/17/2020,2020,July,152859,Male,42,(40-54),Single,West Virginia,Gold,Employees,Other,Referred,$532.06
+7/18/2020,2020,July,152860,Male,22,(15-24),Single,Oregon,Basic,Employees,PayPal,No Referral,$432.25
+7/19/2020,2020,July,152862,Female,70,(55+),Married,Iowa,Basic,Workers,PayPal,Referred,"$1,763.31"
+7/20/2020,2020,July,152863,Female,54,(40-54),Married,Georgia,Platinum,Workers,PayPal,Referred,"$1,285.09"
+7/20/2020,2020,July,152864,Male,42,(40-54),Married,Arizona,Platinum,Self-employed,Card,Referred,$932.80
+7/22/2020,2020,July,152866,Female,48,(40-54),Married,Alaska,Basic,Employees,PayPal,No Referral,$830.35
+7/23/2020,2020,July,152867,Female,31,(25-39),Married,South Carolina,Basic,Self-employed,Other,Referred,"$2,778.69"
+7/24/2020,2020,July,152868,Female,20,(15-24),Single,North Carolina,Silver,Workers,PayPal,Referred,"$2,463.71"
+7/24/2020,2020,July,152869,Male,63,(55+),Single,Michigan,Basic,Self-employed,PayPal,Referred,"$2,777.64"
+7/24/2020,2020,July,152870,Male,24,(15-24),Married,Missouri,Gold,Employees,Other,Referred,"$2,977.78"
+7/24/2020,2020,July,152871,Female,36,(25-39),Married,New Jersey,Basic,Self-employed,PayPal,No Referral,"$1,713.06"
+7/25/2020,2020,July,152872,Female,73,(55+),Single,New Hampshire,Platinum,Workers,Card,No Referral,"$1,480.73"
+7/25/2020,2020,July,152873,Female,44,(40-54),Married,Rhode Island,Silver,Self-employed,Card,No Referral,$81.60
+7/25/2020,2020,July,152874,Female,48,(40-54),Single,New Jersey,Missing,Unemployment,PayPal,No Referral,"$1,076.42"
+7/26/2020,2020,July,152876,Female,64,(55+),Married,New Jersey,Basic,Workers,Card,No Referral,"$1,809.51"
+7/26/2020,2020,July,152877,Female,26,(25-39),Married,Nevada,Gold,Employees,PayPal,No Referral,"$1,594.05"
+7/27/2020,2020,July,152878,Female,24,(15-24),Married,Hawaii,Missing,Employees,Card,Referred,"$1,399.66"
+7/27/2020,2020,July,152879,Female,47,(40-54),Single,Delaware,Silver,Employees,PayPal,No Referral,"$2,712.34"
+7/27/2020,2020,July,152880,Male,41,(40-54),Single,South Dakota,Gold,Workers,Card,Referred,$193.47
+7/27/2020,2020,July,152881,Male,35,(25-39),Single,Montana,Silver,Self-employed,Card,Referred,"$1,912.21"
+7/27/2020,2020,July,152882,Male,75,(55+),Single,South Carolina,Silver,Employees,PayPal,Referred,"$1,813.83"
+7/27/2020,2020,July,152883,Female,58,(55+),Married,South Dakota,Basic,Employees,Other,No Referral,"$1,257.05"
+7/27/2020,2020,July,152884,Female,27,(25-39),Single,Utah,Basic,Employees,Card,No Referral,$477.56
+7/28/2020,2020,July,152885,Female,30,(25-39),Single,Vermont,Silver,Workers,Card,Referred,$684.07
+7/28/2020,2020,July,152886,Female,53,(40-54),Single,Illinois,Silver,Workers,PayPal,Referred,"$2,498.29"
+7/29/2020,2020,July,152888,Female,53,(40-54),Single,Maine,Silver,Employees,PayPal,Referred,"$2,807.19"
+7/29/2020,2020,July,152889,Male,29,(25-39),Single,Iowa,Silver,Workers,PayPal,Referred,"$1,399.61"
+7/30/2020,2020,July,152891,Male,15,(15-24),Married,Maryland,Basic,Workers,Card,Referred,"$1,622.68"
+7/31/2020,2020,July,152892,Male,44,(40-54),Married,Kentucky,Missing,Employees,PayPal,No Referral,"$2,620.07"
+7/31/2020,2020,July,152893,Female,53,(40-54),Married,Delaware,Silver,Employees,Card,Referred,"$1,083.79"
+8/2/2020,2020,August,152894,Male,46,(40-54),Single,South Carolina,Platinum,Employees,PayPal,Referred,"$2,047.83"
+8/3/2020,2020,August,152895,Female,76,(55+),Married,Arizona,Basic,Self-employed,PayPal,Referred,"$1,858.94"
+8/3/2020,2020,August,152896,Female,70,(55+),Married,New Hampshire,Missing,Self-employed,Other,Referred,"$1,194.36"
+8/3/2020,2020,August,152897,Female,37,(25-39),Married,Delaware,Platinum,Self-employed,PayPal,No Referral,$924.05
+8/4/2020,2020,August,152898,Male,27,(25-39),Married,Illinois,Missing,Self-employed,PayPal,No Referral,"$1,020.51"
+8/5/2020,2020,August,152900,Female,65,(55+),Married,Delaware,Basic,Self-employed,Other,No Referral,"$1,923.68"
+8/6/2020,2020,August,152901,Female,39,(25-39),Married,Florida,Platinum,Unemployment,PayPal,Referred,$515.31
+8/7/2020,2020,August,152903,Male,42,(40-54),Single,Kansas,Basic,Unemployment,PayPal,Referred,$611.85
+8/7/2020,2020,August,152905,Male,41,(40-54),Married,North Dakota,Platinum,Self-employed,PayPal,Referred,"$1,258.21"
+8/7/2020,2020,August,152906,Female,57,(55+),Married,Delaware,Basic,Employees,Other,Referred,"$1,613.70"
+8/7/2020,2020,August,152907,Female,22,(15-24),Single,Washington,Basic,Employees,Other,Referred,"$1,025.38"
+8/7/2020,2020,August,152908,Male,40,(40-54),Single,Vermont,Basic,Employees,PayPal,Referred,"$2,447.15"
+8/8/2020,2020,August,152909,Female,49,(40-54),Married,Delaware,Platinum,Employees,Other,Referred,$757.25
+8/8/2020,2020,August,152912,Female,51,(40-54),Married,Wisconsin,Basic,Employees,Card,Referred,$691.88
+8/8/2020,2020,August,152913,Male,34,(25-39),Single,Delaware,Basic,Employees,Other,No Referral,"$1,086.39"
+8/8/2020,2020,August,152914,Male,35,(25-39),Married,Wyoming,Silver,Unemployment,Other,Referred,"$1,281.02"
+8/9/2020,2020,August,152915,Female,54,(40-54),Married,Maryland,Basic,Unemployment,PayPal,No Referral,"$2,837.11"
+8/9/2020,2020,August,152916,Male,20,(15-24),Married,Alaska,Basic,Employees,Other,Referred,$956.47
+8/9/2020,2020,August,152917,Male,28,(25-39),Married,North Dakota,Gold,Workers,PayPal,Referred,"$1,169.07"
+8/9/2020,2020,August,152918,Female,57,(55+),Married,California,Silver,Employees,Other,Referred,$909.76
+8/10/2020,2020,August,152919,Male,47,(40-54),Married,North Dakota,Missing,Workers,PayPal,Referred,"$2,488.07"
+8/10/2020,2020,August,152920,Male,35,(25-39),Married,New Jersey,Missing,Employees,Card,Referred,"$2,502.40"
+8/11/2020,2020,August,152921,Male,24,(15-24),Married,South Dakota,Silver,Self-employed,PayPal,No Referral,"$2,450.77"
+8/12/2020,2020,August,152923,Female,21,(15-24),Married,Pennsylvania,Platinum,Self-employed,PayPal,Referred,"$1,738.33"
+8/12/2020,2020,August,152924,Female,49,(40-54),Single,South Dakota,Basic,Self-employed,Card,No Referral,"$2,716.49"
+8/12/2020,2020,August,152925,Male,61,(55+),Married,Connecticut,Platinum,Workers,Card,No Referral,"$1,399.42"
+8/12/2020,2020,August,152926,Male,46,(40-54),Married,Maine,Basic,Workers,PayPal,No Referral,$865.54
+8/13/2020,2020,August,152928,Female,28,(25-39),Married,Louisiana,Platinum,Workers,PayPal,Referred,"$2,045.09"
+8/13/2020,2020,August,152929,Male,49,(40-54),Married,West Virginia,Gold,Self-employed,Card,Referred,"$1,220.29"
+8/14/2020,2020,August,152932,Female,15,(15-24),Married,Connecticut,Basic,Self-employed,PayPal,Referred,$297.52
+8/14/2020,2020,August,152933,Male,71,(55+),Married,Iowa,Basic,Workers,Other,No Referral,"$1,909.80"
+8/15/2020,2020,August,152934,Female,22,(15-24),Married,Massachusetts,Basic,Workers,Other,Referred,"$2,037.06"
+8/15/2020,2020,August,152935,Female,26,(25-39),Married,New Hampshire,Silver,Self-employed,Other,No Referral,"$1,131.36"
+8/16/2020,2020,August,152936,Male,78,(55+),Married,Colorado,Basic,Employees,Other,No Referral,"$1,018.32"
+8/16/2020,2020,August,152937,Female,22,(15-24),Married,Arkansas,Silver,Self-employed,Other,Referred,$632.71
+8/16/2020,2020,August,152938,Male,48,(40-54),Married,Connecticut,Missing,Unemployment,PayPal,Referred,"$1,133.85"
+8/16/2020,2020,August,152939,Female,37,(25-39),Single,Kentucky,Basic,Workers,PayPal,Referred,"$2,059.67"
+8/16/2020,2020,August,152940,Female,40,(40-54),Married,Virginia,Platinum,Workers,Card,Referred,"$2,060.98"
+8/17/2020,2020,August,152942,Female,50,(40-54),Married,Mississippi,Basic,Self-employed,Other,No Referral,"$2,073.99"
+8/17/2020,2020,August,152943,Male,18,(15-24),Married,Mississippi,Platinum,Self-employed,Other,No Referral,$723.41
+8/17/2020,2020,August,152944,Male,16,(15-24),Single,Alaska,Basic,Employees,Other,Referred,"$2,450.39"
+8/17/2020,2020,August,152945,Female,71,(55+),Single,Missouri,Basic,Workers,PayPal,No Referral,"$2,471.27"
+8/17/2020,2020,August,152946,Male,30,(25-39),Single,South Carolina,Silver,Workers,Card,Referred,$617.17
+8/17/2020,2020,August,152947,Male,78,(55+),Single,Massachusetts,Silver,Employees,Other,Referred,$938.46
+8/18/2020,2020,August,152948,Male,27,(25-39),Married,Mississippi,Platinum,Workers,PayPal,Referred,"$1,092.08"
+8/18/2020,2020,August,152949,Female,67,(55+),Single,Hawaii,Basic,Self-employed,PayPal,Referred,$102.33
+8/18/2020,2020,August,152950,Male,45,(40-54),Married,Illinois,Gold,Employees,Other,Referred,$828.31
+8/18/2020,2020,August,152951,Female,72,(55+),Married,Montana,Gold,Workers,Other,Referred,"$2,536.61"
+8/18/2020,2020,August,152953,Female,74,(55+),Married,Alaska,Basic,Employees,Card,Referred,$141.50
+8/18/2020,2020,August,152954,Male,61,(55+),Single,New Mexico,Silver,Workers,Other,Referred,"$1,844.52"
+8/19/2020,2020,August,152955,Female,35,(25-39),Married,Iowa,Gold,Employees,PayPal,Referred,$891.61
+8/21/2020,2020,August,152958,Female,35,(25-39),Single,Mississippi,Silver,Employees,Card,Referred,"$2,514.29"
+8/21/2020,2020,August,152959,Female,26,(25-39),Single,Indiana,Platinum,Employees,Other,Referred,$378.51
+8/21/2020,2020,August,152961,Female,65,(55+),Married,Wisconsin,Silver,Workers,PayPal,Referred,$218.78
+8/22/2020,2020,August,152962,Male,45,(40-54),Single,Arkansas,Gold,Employees,PayPal,Referred,"$1,762.76"
+8/22/2020,2020,August,152963,Male,34,(25-39),Single,Alaska,Basic,Workers,PayPal,No Referral,$867.14
+8/22/2020,2020,August,152965,Male,32,(25-39),Single,New Hampshire,Basic,Employees,PayPal,No Referral,"$2,609.52"
+8/23/2020,2020,August,152966,Male,41,(40-54),Single,South Dakota,Platinum,Self-employed,Card,Referred,"$1,892.34"
+8/23/2020,2020,August,152967,Male,27,(25-39),Married,North Dakota,Basic,Workers,Card,No Referral,"$2,685.55"
+8/23/2020,2020,August,152968,Female,35,(25-39),Single,Minnesota,Platinum,Workers,PayPal,Referred,"$1,212.74"
+8/23/2020,2020,August,152969,Male,51,(40-54),Married,South Carolina,Basic,Workers,Card,Referred,$495.37
+8/23/2020,2020,August,152970,Female,34,(25-39),Single,Massachusetts,Basic,Workers,Card,No Referral,$417.77
+8/24/2020,2020,August,152971,Male,30,(25-39),Single,Colorado,Basic,Self-employed,PayPal,No Referral,$772.82
+8/24/2020,2020,August,152972,Male,21,(15-24),Single,Rhode Island,Silver,Self-employed,Card,Referred,$277.80
+8/25/2020,2020,August,152973,Male,77,(55+),Married,Oregon,Missing,Workers,Card,No Referral,"$1,449.98"
+8/25/2020,2020,August,152974,Male,31,(25-39),Married,California,Silver,Employees,Other,Referred,$550.23
+8/26/2020,2020,August,152975,Female,18,(15-24),Single,Kansas,Silver,Employees,PayPal,No Referral,"$2,540.03"
+8/26/2020,2020,August,152976,Male,30,(25-39),Married,Idaho,Silver,Self-employed,PayPal,Referred,"$1,116.37"
+8/26/2020,2020,August,152977,Female,36,(25-39),Married,Wyoming,Silver,Employees,PayPal,Referred,$698.92
+8/27/2020,2020,August,152978,Male,54,(40-54),Married,Montana,Silver,Workers,Card,Referred,"$1,556.63"
+8/27/2020,2020,August,152979,Female,38,(25-39),Married,New Mexico,Silver,Self-employed,PayPal,No Referral,"$1,119.32"
+8/27/2020,2020,August,152980,Female,67,(55+),Married,Texas,Basic,Workers,PayPal,Referred,"$1,511.17"
+8/28/2020,2020,August,152982,Female,52,(40-54),Married,Washington,Silver,Employees,PayPal,Referred,"$2,066.55"
+8/28/2020,2020,August,152983,Male,55,(55+),Married,Colorado,Platinum,Workers,PayPal,Referred,$800.72
+8/28/2020,2020,August,152985,Male,37,(25-39),Single,West Virginia,Missing,Workers,Card,No Referral,$488.18
+8/29/2020,2020,August,152986,Male,75,(55+),Single,Alaska,Basic,Workers,Card,Referred,"$2,497.31"
+8/29/2020,2020,August,152990,Male,56,(55+),Married,South Carolina,Platinum,Employees,PayPal,Referred,$809.80
+8/29/2020,2020,August,152991,Male,18,(15-24),Married,Florida,Platinum,Unemployment,Other,Referred,"$1,692.57"
+8/29/2020,2020,August,152992,Male,55,(55+),Single,Oregon,Platinum,Employees,PayPal,Referred,"$1,930.60"
+8/29/2020,2020,August,152993,Female,29,(25-39),Single,California,Silver,Workers,PayPal,Referred,"$1,518.21"
+8/29/2020,2020,August,152994,Male,66,(55+),Single,Florida,Basic,Employees,Card,No Referral,$355.09
+8/29/2020,2020,August,152995,Female,31,(25-39),Single,Oregon,Basic,Employees,PayPal,Referred,$578.93
+8/29/2020,2020,August,152996,Male,17,(15-24),Single,Alaska,Silver,Employees,Other,Referred,"$2,764.48"
+8/29/2020,2020,August,152997,Female,68,(55+),Married,Iowa,Platinum,Workers,PayPal,No Referral,$372.21
+8/30/2020,2020,August,152998,Male,75,(55+),Single,North Carolina,Missing,Employees,PayPal,No Referral,$199.61
+8/30/2020,2020,August,152999,Male,71,(55+),Married,Wyoming,Basic,Unemployment,PayPal,No Referral,"$1,647.30"
+8/30/2020,2020,August,153000,Female,53,(40-54),Married,North Dakota,Basic,Employees,Card,No Referral,"$1,734.42"
+8/31/2020,2020,August,153001,Female,53,(40-54),Married,Missouri,Gold,Self-employed,Other,Referred,$247.44
+8/31/2020,2020,August,153002,Female,54,(40-54),Married,Ohio,Basic,Employees,PayPal,No Referral,"$2,539.28"
+9/2/2020,2020,September,153003,Female,71,(55+),Single,Montana,Missing,Employees,Other,Referred,"$2,940.18"
+9/2/2020,2020,September,153004,Male,25,(25-39),Married,Louisiana,Platinum,Employees,PayPal,Referred,"$1,243.87"
+9/3/2020,2020,September,153005,Male,30,(25-39),Single,Arkansas,Silver,Unemployment,PayPal,Referred,"$1,426.62"
+9/3/2020,2020,September,153006,Female,77,(55+),Married,Nebraska,Basic,Employees,PayPal,No Referral,"$2,455.70"
+9/3/2020,2020,September,153007,Male,35,(25-39),Married,Wyoming,Basic,Workers,Card,No Referral,$984.70
+9/4/2020,2020,September,153008,Male,52,(40-54),Single,Alaska,Silver,Employees,PayPal,Referred,$91.32
+9/4/2020,2020,September,153009,Female,65,(55+),Single,Connecticut,Gold,Employees,Card,Referred,"$2,747.01"
+9/4/2020,2020,September,153010,Female,56,(55+),Married,Alaska,Silver,Workers,PayPal,No Referral,$462.96
+9/4/2020,2020,September,153011,Male,22,(15-24),Married,Alabama,Missing,Employees,PayPal,No Referral,$350.72
+9/4/2020,2020,September,153013,Female,60,(55+),Married,Maine,Missing,Workers,Card,No Referral,"$2,615.63"
+9/5/2020,2020,September,153014,Female,59,(55+),Single,Colorado,Silver,Self-employed,Other,No Referral,"$2,482.68"
+9/5/2020,2020,September,153015,Female,16,(15-24),Married,Vermont,Basic,Workers,Other,No Referral,"$2,582.06"
+9/6/2020,2020,September,153017,Male,53,(40-54),Single,Arkansas,Basic,Employees,PayPal,Referred,$756.77
+9/6/2020,2020,September,153018,Male,24,(15-24),Married,Oklahoma,Basic,Employees,Card,Referred,"$1,760.72"
+9/6/2020,2020,September,153019,Male,76,(55+),Married,Montana,Basic,Employees,Other,Referred,"$1,079.16"
+9/6/2020,2020,September,153020,Female,77,(55+),Married,Maryland,Platinum,Workers,PayPal,Referred,"$2,924.20"
+9/6/2020,2020,September,153022,Female,21,(15-24),Married,Alabama,Silver,Unemployment,Card,Referred,"$2,749.37"
+9/6/2020,2020,September,153023,Female,52,(40-54),Married,South Dakota,Basic,Workers,Card,Referred,"$1,186.99"
+9/7/2020,2020,September,153024,Male,29,(25-39),Single,New Jersey,Basic,Workers,PayPal,No Referral,"$2,483.15"
+9/8/2020,2020,September,153026,Female,36,(25-39),Married,Minnesota,Platinum,Unemployment,Other,Referred,"$1,956.08"
+9/9/2020,2020,September,153027,Female,35,(25-39),Single,Nevada,Basic,Self-employed,PayPal,Referred,"$2,819.10"
+9/9/2020,2020,September,153028,Female,63,(55+),Married,Arizona,Platinum,Employees,Other,Referred,$104.94
+9/9/2020,2020,September,153029,Female,34,(25-39),Married,Kentucky,Basic,Workers,PayPal,Referred,$520.58
+9/9/2020,2020,September,153030,Male,68,(55+),Married,Indiana,Basic,Workers,Card,Referred,"$1,836.90"
+9/9/2020,2020,September,153031,Female,73,(55+),Single,Idaho,Basic,Self-employed,Card,Referred,"$2,816.59"
+9/9/2020,2020,September,153032,Female,24,(15-24),Married,Wyoming,Basic,Unemployment,PayPal,Referred,$16.27
+9/10/2020,2020,September,153033,Female,77,(55+),Married,Arizona,Basic,Employees,Other,Referred,"$1,036.59"
+9/12/2020,2020,September,153034,Female,57,(55+),Married,New York,Basic,Workers,Card,No Referral,"$1,890.94"
+9/12/2020,2020,September,153035,Female,58,(55+),Married,West Virginia,Missing,Self-employed,Other,No Referral,"$1,874.12"
+9/12/2020,2020,September,153037,Female,73,(55+),Married,Mississippi,Basic,Employees,Card,No Referral,$431.20
+9/13/2020,2020,September,153038,Female,75,(55+),Married,Nevada,Platinum,Employees,Card,Referred,"$1,644.28"
+9/14/2020,2020,September,153039,Female,44,(40-54),Single,Washington,Gold,Workers,PayPal,Referred,$242.71
+9/15/2020,2020,September,153040,Male,38,(25-39),Married,Delaware,Platinum,Workers,PayPal,Referred,$352.53
+9/15/2020,2020,September,153042,Male,31,(25-39),Married,New Jersey,Platinum,Employees,Other,Referred,"$1,902.13"
+9/15/2020,2020,September,153043,Female,54,(40-54),Single,Ohio,Gold,Employees,Card,No Referral,$869.32
+9/15/2020,2020,September,153045,Female,24,(15-24),Married,Wyoming,Silver,Employees,Card,No Referral,$385.60
+9/16/2020,2020,September,153046,Male,66,(55+),Married,Washington,Missing,Employees,PayPal,Referred,$352.63
+9/16/2020,2020,September,153047,Female,77,(55+),Single,Connecticut,Platinum,Employees,PayPal,No Referral,$137.36
+9/16/2020,2020,September,153048,Female,69,(55+),Married,Washington,Platinum,Employees,Card,No Referral,$825.15
+9/17/2020,2020,September,153049,Female,42,(40-54),Single,New Jersey,Basic,Workers,Card,Referred,$760.47
+9/17/2020,2020,September,153050,Male,20,(15-24),Married,Kentucky,Platinum,Unemployment,PayPal,Referred,$832.07
+9/18/2020,2020,September,153051,Female,75,(55+),Single,Hawaii,Basic,Employees,Card,No Referral,"$1,267.48"
+9/18/2020,2020,September,153052,Male,20,(15-24),Single,Hawaii,Basic,Self-employed,PayPal,Referred,"$1,119.94"
+9/18/2020,2020,September,153053,Female,36,(25-39),Single,Tennessee,Platinum,Self-employed,Other,Referred,"$2,677.95"
+9/18/2020,2020,September,153055,Male,24,(15-24),Married,West Virginia,Basic,Unemployment,Other,Referred,"$1,857.82"
+9/19/2020,2020,September,153056,Female,18,(15-24),Married,Vermont,Basic,Unemployment,PayPal,Referred,$534.11
+9/19/2020,2020,September,153057,Female,63,(55+),Single,Illinois,Silver,Workers,PayPal,Referred,"$2,447.83"
+9/21/2020,2020,September,153061,Male,32,(25-39),Single,Vermont,Basic,Employees,Card,Referred,$34.45
+9/21/2020,2020,September,153062,Male,47,(40-54),Married,New Jersey,Platinum,Employees,PayPal,No Referral,"$2,036.57"
+9/21/2020,2020,September,153063,Male,34,(25-39),Married,Indiana,Missing,Self-employed,PayPal,Referred,"$2,669.55"
+9/21/2020,2020,September,153064,Female,26,(25-39),Married,Alabama,Silver,Workers,Card,No Referral,"$2,520.87"
+9/22/2020,2020,September,153065,Male,43,(40-54),Single,Idaho,Silver,Workers,Card,Referred,$388.15
+9/23/2020,2020,September,153067,Male,17,(15-24),Single,Hawaii,Missing,Employees,Card,No Referral,$172.40
+9/23/2020,2020,September,153068,Female,30,(25-39),Married,Oklahoma,Gold,Employees,Other,Referred,$807.71
+9/23/2020,2020,September,153070,Male,38,(25-39),Single,Minnesota,Basic,Unemployment,PayPal,No Referral,"$1,450.28"
+9/23/2020,2020,September,153072,Male,31,(25-39),Married,Ohio,Platinum,Employees,PayPal,Referred,"$2,870.05"
+9/24/2020,2020,September,153073,Male,35,(25-39),Single,Pennsylvania,Silver,Employees,PayPal,No Referral,"$1,645.67"
+9/24/2020,2020,September,153074,Female,71,(55+),Married,Arkansas,Basic,Workers,PayPal,Referred,$88.80
+9/24/2020,2020,September,153075,Male,61,(55+),Single,Vermont,Basic,Workers,Other,Referred,"$1,840.99"
+9/25/2020,2020,September,153077,Male,16,(15-24),Married,Kansas,Missing,Self-employed,Card,Referred,"$1,974.17"
+9/25/2020,2020,September,153078,Male,20,(15-24),Married,Nevada,Platinum,Self-employed,Other,No Referral,"$2,509.53"
+9/26/2020,2020,September,153079,Male,48,(40-54),Married,Rhode Island,Basic,Unemployment,PayPal,No Referral,$164.35
+9/27/2020,2020,September,153080,Female,27,(25-39),Single,Minnesota,Platinum,Employees,Card,No Referral,"$1,344.98"
+9/27/2020,2020,September,153082,Male,40,(40-54),Married,Rhode Island,Missing,Unemployment,PayPal,Referred,"$1,753.77"
+9/27/2020,2020,September,153083,Female,62,(55+),Single,Missouri,Basic,Workers,Card,Referred,$267.21
+9/27/2020,2020,September,153084,Male,16,(15-24),Single,Iowa,Silver,Workers,PayPal,Referred,"$1,048.26"
+9/28/2020,2020,September,153085,Male,49,(40-54),Married,New Jersey,Basic,Workers,Card,Referred,"$1,778.27"
+9/28/2020,2020,September,153086,Male,40,(40-54),Married,Kentucky,Basic,Workers,Card,No Referral,"$1,093.36"
+9/28/2020,2020,September,153088,Female,51,(40-54),Single,Massachusetts,Basic,Workers,Card,Referred,"$2,724.02"
+9/29/2020,2020,September,153089,Female,44,(40-54),Single,Maine,Missing,Unemployment,Card,Referred,"$1,619.53"
+9/29/2020,2020,September,153091,Male,16,(15-24),Married,Mississippi,Gold,Employees,Card,Referred,"$1,342.60"
+9/29/2020,2020,September,153092,Male,54,(40-54),Married,Alaska,Basic,Workers,Other,Referred,"$2,977.82"
+9/29/2020,2020,September,153093,Female,78,(55+),Single,Delaware,Silver,Employees,Other,No Referral,"$1,986.97"
+9/29/2020,2020,September,153094,Female,48,(40-54),Married,Connecticut,Gold,Workers,Card,Referred,"$2,559.26"
+10/1/2020,2020,October,153096,Male,30,(25-39),Single,Minnesota,Basic,Workers,PayPal,No Referral,"$1,578.74"
+10/1/2020,2020,October,153097,Female,66,(55+),Single,Utah,Missing,Workers,Card,Referred,$726.00
+10/2/2020,2020,October,153099,Male,32,(25-39),Single,Pennsylvania,Basic,Employees,PayPal,Referred,"$2,403.94"
+10/2/2020,2020,October,153100,Female,30,(25-39),Married,New Mexico,Silver,Self-employed,Card,Referred,"$2,709.67"
+10/3/2020,2020,October,153102,Female,47,(40-54),Married,Alaska,Basic,Workers,Other,Referred,"$2,970.00"
+10/4/2020,2020,October,153103,Female,35,(25-39),Single,Georgia,Platinum,Workers,Card,No Referral,$423.77
+10/4/2020,2020,October,153104,Male,37,(25-39),Single,Rhode Island,Platinum,Employees,PayPal,Referred,"$1,044.41"
+10/5/2020,2020,October,153105,Male,27,(25-39),Single,Connecticut,Silver,Workers,PayPal,Referred,$985.30
+10/5/2020,2020,October,153106,Female,30,(25-39),Married,Virginia,Missing,Workers,Card,Referred,"$1,345.41"
+10/5/2020,2020,October,153108,Female,75,(55+),Single,Tennessee,Platinum,Employees,Card,No Referral,"$2,870.69"
+10/5/2020,2020,October,153109,Female,27,(25-39),Married,Minnesota,Basic,Employees,Card,Referred,"$2,538.15"
+10/6/2020,2020,October,153110,Female,76,(55+),Single,Delaware,Basic,Workers,Card,No Referral,$703.30
+10/6/2020,2020,October,153111,Female,68,(55+),Married,Utah,Basic,Employees,PayPal,Referred,$208.26
+10/6/2020,2020,October,153113,Male,68,(55+),Single,Tennessee,Basic,Employees,Other,Referred,"$1,095.55"
+10/7/2020,2020,October,153114,Male,72,(55+),Single,Nevada,Platinum,Workers,Other,Referred,"$2,563.19"
+10/7/2020,2020,October,153115,Male,74,(55+),Married,Alabama,Basic,Employees,Card,No Referral,$731.47
+10/7/2020,2020,October,153116,Male,66,(55+),Married,Georgia,Silver,Employees,PayPal,No Referral,$208.14
+10/7/2020,2020,October,153117,Male,52,(40-54),Married,New York,Basic,Self-employed,Card,Referred,"$1,060.51"
+10/7/2020,2020,October,153118,Male,16,(15-24),Married,New Hampshire,Platinum,Unemployment,Card,No Referral,"$1,938.48"
+10/8/2020,2020,October,153119,Male,26,(25-39),Single,North Carolina,Basic,Workers,PayPal,No Referral,"$1,955.97"
+10/8/2020,2020,October,153120,Male,65,(55+),Married,Missouri,Silver,Employees,Other,No Referral,"$1,296.92"
+10/9/2020,2020,October,153121,Male,32,(25-39),Single,Missouri,Missing,Workers,PayPal,Referred,$599.19
+10/9/2020,2020,October,153122,Male,39,(25-39),Single,Indiana,Basic,Employees,PayPal,No Referral,$150.19
+10/9/2020,2020,October,153123,Male,33,(25-39),Married,Arkansas,Platinum,Self-employed,PayPal,Referred,$84.21
+10/10/2020,2020,October,153125,Female,63,(55+),Married,Delaware,Basic,Self-employed,PayPal,Referred,"$1,083.72"
+10/11/2020,2020,October,153126,Male,70,(55+),Married,Idaho,Gold,Workers,Card,Referred,"$1,224.93"
+10/11/2020,2020,October,153127,Male,25,(25-39),Single,Wyoming,Basic,Employees,Other,Referred,"$2,051.04"
+10/11/2020,2020,October,153128,Male,47,(40-54),Married,West Virginia,Silver,Workers,Card,Referred,$196.97
+10/12/2020,2020,October,153129,Male,43,(40-54),Single,Pennsylvania,Basic,Workers,Card,Referred,$870.88
+10/12/2020,2020,October,153130,Female,59,(55+),Married,Iowa,Silver,Employees,PayPal,No Referral,"$2,548.51"
+10/12/2020,2020,October,153131,Female,43,(40-54),Single,North Carolina,Silver,Self-employed,PayPal,No Referral,$177.74
+10/13/2020,2020,October,153132,Female,71,(55+),Married,Georgia,Basic,Self-employed,Card,Referred,$164.79
+10/14/2020,2020,October,153133,Female,27,(25-39),Single,Florida,Platinum,Employees,Other,Referred,$451.58
+10/14/2020,2020,October,153134,Female,71,(55+),Married,Montana,Basic,Employees,Other,Referred,$729.87
+10/14/2020,2020,October,153135,Male,30,(25-39),Married,South Dakota,Basic,Self-employed,Other,Referred,$780.98
+10/15/2020,2020,October,153136,Male,72,(55+),Married,Rhode Island,Basic,Employees,Other,No Referral,"$1,208.48"
+10/15/2020,2020,October,153137,Male,21,(15-24),Single,Florida,Missing,Self-employed,Card,Referred,"$1,938.48"
+10/17/2020,2020,October,153139,Female,47,(40-54),Married,Maine,Basic,Workers,PayPal,Referred,$482.57
+10/17/2020,2020,October,153140,Male,44,(40-54),Married,Wisconsin,Silver,Self-employed,Other,Referred,$620.36
+10/17/2020,2020,October,153141,Female,42,(40-54),Single,Washington,Platinum,Self-employed,PayPal,Referred,"$1,281.68"
+10/18/2020,2020,October,153143,Male,56,(55+),Married,Illinois,Gold,Self-employed,Other,Referred,$495.88
+10/18/2020,2020,October,153144,Male,72,(55+),Single,South Dakota,Silver,Employees,Card,Referred,"$2,716.94"
+10/19/2020,2020,October,153145,Female,75,(55+),Married,Virginia,Silver,Workers,Other,Referred,$31.41
+10/19/2020,2020,October,153146,Female,56,(55+),Married,Massachusetts,Silver,Self-employed,Card,No Referral,$316.10
+10/19/2020,2020,October,153147,Female,16,(15-24),Single,Kansas,Basic,Self-employed,Card,No Referral,"$1,479.99"
+10/19/2020,2020,October,153148,Male,34,(25-39),Married,Hawaii,Basic,Workers,PayPal,Referred,$153.55
+10/20/2020,2020,October,153150,Male,67,(55+),Married,Virginia,Basic,Employees,Card,No Referral,"$2,038.12"
+10/20/2020,2020,October,153152,Male,49,(40-54),Married,Massachusetts,Basic,Self-employed,Other,No Referral,$382.80
+10/21/2020,2020,October,153153,Male,19,(15-24),Single,Vermont,Basic,Self-employed,PayPal,Referred,"$1,967.60"
+10/21/2020,2020,October,153154,Female,26,(25-39),Married,Wisconsin,Platinum,Self-employed,PayPal,Referred,"$2,520.52"
+10/22/2020,2020,October,153155,Male,75,(55+),Married,Oklahoma,Missing,Employees,PayPal,Referred,$383.86
+10/22/2020,2020,October,153157,Male,26,(25-39),Single,South Dakota,Platinum,Workers,Card,No Referral,"$1,220.65"
+10/23/2020,2020,October,153158,Female,68,(55+),Single,Illinois,Basic,Employees,Other,Referred,"$2,485.02"
+10/23/2020,2020,October,153159,Female,66,(55+),Single,Maryland,Silver,Employees,Other,Referred,$542.29
+10/23/2020,2020,October,153160,Male,53,(40-54),Single,Oregon,Basic,Workers,Card,Referred,"$1,858.83"
+10/24/2020,2020,October,153162,Female,41,(40-54),Married,Kentucky,Basic,Self-employed,Card,No Referral,$932.17
+10/24/2020,2020,October,153163,Female,63,(55+),Single,Illinois,Basic,Unemployment,PayPal,Referred,$748.66
+10/24/2020,2020,October,153164,Female,53,(40-54),Single,Massachusetts,Basic,Unemployment,PayPal,No Referral,"$2,007.91"
+10/24/2020,2020,October,153165,Female,63,(55+),Single,North Carolina,Basic,Self-employed,Other,Referred,"$1,778.43"
+10/24/2020,2020,October,153166,Female,49,(40-54),Single,New Hampshire,Platinum,Workers,PayPal,No Referral,"$2,832.99"
+10/24/2020,2020,October,153167,Male,54,(40-54),Married,Maine,Basic,Workers,PayPal,No Referral,"$2,543.82"
+10/24/2020,2020,October,153168,Female,30,(25-39),Married,Nebraska,Basic,Self-employed,Card,No Referral,"$2,087.13"
+10/25/2020,2020,October,153169,Male,73,(55+),Single,Arkansas,Platinum,Workers,PayPal,Referred,"$2,756.36"
+10/25/2020,2020,October,153170,Male,57,(55+),Single,Ohio,Basic,Workers,Other,Referred,"$1,128.68"
+10/25/2020,2020,October,153171,Female,19,(15-24),Single,Iowa,Missing,Workers,Other,Referred,"$2,440.45"
+10/26/2020,2020,October,153172,Female,43,(40-54),Single,Delaware,Basic,Employees,Card,No Referral,$435.60
+10/26/2020,2020,October,153174,Male,75,(55+),Single,Pennsylvania,Silver,Employees,PayPal,No Referral,"$2,922.89"
+10/26/2020,2020,October,153175,Female,19,(15-24),Married,Michigan,Basic,Employees,Other,Referred,$538.10
+10/27/2020,2020,October,153176,Female,34,(25-39),Single,North Dakota,Platinum,Workers,Other,Referred,$361.86
+10/27/2020,2020,October,153177,Male,44,(40-54),Single,Texas,Silver,Workers,Card,Referred,$242.61
+10/27/2020,2020,October,153178,Female,47,(40-54),Single,Delaware,Basic,Self-employed,PayPal,No Referral,$613.13
+10/27/2020,2020,October,153180,Male,42,(40-54),Married,Delaware,Missing,Self-employed,Card,Referred,$190.93
+10/28/2020,2020,October,153181,Female,66,(55+),Married,Hawaii,Basic,Unemployment,PayPal,Referred,$783.81
+10/30/2020,2020,October,153182,Female,22,(15-24),Married,Florida,Gold,Employees,Other,Referred,"$1,682.07"
+10/30/2020,2020,October,153183,Female,46,(40-54),Married,Oklahoma,Basic,Employees,PayPal,Referred,"$2,714.10"
+10/30/2020,2020,October,153184,Male,54,(40-54),Married,Pennsylvania,Basic,Employees,PayPal,Referred,"$1,545.32"
+10/31/2020,2020,October,153185,Female,50,(40-54),Married,North Dakota,Basic,Workers,Card,Referred,$541.23
+10/31/2020,2020,October,153186,Male,55,(55+),Single,New Hampshire,Basic,Employees,PayPal,Referred,"$1,015.84"
+11/4/2020,2020,November,153190,Female,55,(55+),Single,Kansas,Basic,Employees,PayPal,No Referral,$299.81
+11/4/2020,2020,November,153192,Female,60,(55+),Married,California,Basic,Unemployment,Other,No Referral,"$2,785.78"
+11/6/2020,2020,November,153195,Female,17,(15-24),Married,Nevada,Platinum,Employees,Card,Referred,$583.90
+11/7/2020,2020,November,153197,Male,30,(25-39),Single,Georgia,Basic,Self-employed,Card,Referred,$434.06
+11/7/2020,2020,November,153198,Female,67,(55+),Single,California,Basic,Workers,Card,Referred,"$2,681.44"
+11/8/2020,2020,November,153199,Female,38,(25-39),Married,Hawaii,Silver,Unemployment,Card,No Referral,"$1,350.37"
+11/8/2020,2020,November,153200,Male,15,(15-24),Single,Ohio,Platinum,Workers,PayPal,Referred,"$1,801.22"
+11/8/2020,2020,November,153201,Female,60,(55+),Single,Alaska,Platinum,Self-employed,Other,Referred,$489.16
+11/8/2020,2020,November,153202,Male,41,(40-54),Single,Oregon,Platinum,Self-employed,PayPal,Referred,$523.59
+11/8/2020,2020,November,153203,Male,36,(25-39),Single,Massachusetts,Platinum,Workers,PayPal,Referred,"$1,820.75"
+11/8/2020,2020,November,153204,Female,35,(25-39),Married,Vermont,Basic,Employees,Card,Referred,$698.05
+11/9/2020,2020,November,153205,Female,31,(25-39),Married,North Dakota,Basic,Unemployment,PayPal,No Referral,"$2,779.17"
+11/9/2020,2020,November,153206,Female,20,(15-24),Married,Nebraska,Silver,Employees,PayPal,No Referral,"$1,425.69"
+11/10/2020,2020,November,153207,Male,65,(55+),Married,Georgia,Platinum,Employees,Card,Referred,"$2,457.43"
+11/10/2020,2020,November,153208,Female,43,(40-54),Married,Iowa,Basic,Employees,Card,Referred,"$1,267.55"
+11/10/2020,2020,November,153209,Male,67,(55+),Married,Arkansas,Gold,Unemployment,Other,Referred,$735.56
+11/10/2020,2020,November,153211,Female,47,(40-54),Married,Virginia,Platinum,Self-employed,Card,Referred,$456.30
+11/11/2020,2020,November,153212,Female,54,(40-54),Single,New Jersey,Platinum,Employees,PayPal,Referred,"$2,033.16"
+11/11/2020,2020,November,153214,Female,57,(55+),Single,South Carolina,Silver,Employees,PayPal,Referred,$99.12
+11/12/2020,2020,November,153215,Female,25,(25-39),Married,Pennsylvania,Silver,Employees,Other,Referred,"$1,208.41"
+11/13/2020,2020,November,153217,Male,19,(15-24),Single,Nevada,Basic,Employees,Card,Referred,"$2,888.80"
+11/14/2020,2020,November,153218,Male,67,(55+),Married,Hawaii,Missing,Unemployment,PayPal,No Referral,$869.06
+11/14/2020,2020,November,153219,Female,68,(55+),Single,South Dakota,Gold,Employees,Other,Referred,"$2,925.27"
+11/15/2020,2020,November,153220,Female,51,(40-54),Married,Tennessee,Silver,Employees,PayPal,No Referral,"$1,305.12"
+11/15/2020,2020,November,153221,Male,53,(40-54),Married,West Virginia,Basic,Employees,PayPal,No Referral,"$2,736.47"
+11/16/2020,2020,November,153223,Female,18,(15-24),Single,Maryland,Platinum,Employees,Other,Referred,$76.69
+11/16/2020,2020,November,153224,Male,42,(40-54),Married,Tennessee,Basic,Self-employed,Other,Referred,"$2,093.72"
+11/17/2020,2020,November,153225,Female,48,(40-54),Married,Missouri,Gold,Employees,PayPal,Referred,$145.99
+11/18/2020,2020,November,153226,Female,20,(15-24),Married,Nebraska,Missing,Employees,PayPal,Referred,"$1,324.12"
+11/20/2020,2020,November,153227,Female,26,(25-39),Married,Delaware,Platinum,Unemployment,Card,No Referral,$713.62
+11/20/2020,2020,November,153228,Female,63,(55+),Single,Indiana,Basic,Employees,Other,Referred,"$2,008.03"
+11/21/2020,2020,November,153230,Female,47,(40-54),Single,Mississippi,Silver,Employees,Other,No Referral,"$1,613.49"
+11/21/2020,2020,November,153231,Male,32,(25-39),Married,New Hampshire,Silver,Employees,Card,No Referral,$826.72
+11/21/2020,2020,November,153232,Male,27,(25-39),Single,Montana,Missing,Employees,PayPal,Referred,"$1,012.94"
+11/22/2020,2020,November,153234,Female,26,(25-39),Married,New Hampshire,Basic,Workers,Other,No Referral,"$2,417.10"
+11/22/2020,2020,November,153235,Female,20,(15-24),Single,Tennessee,Platinum,Workers,Other,No Referral,$774.80
+11/22/2020,2020,November,153236,Male,45,(40-54),Single,Kansas,Platinum,Employees,Card,Referred,"$1,407.18"
+11/22/2020,2020,November,153237,Male,52,(40-54),Married,Illinois,Silver,Self-employed,Card,No Referral,"$1,148.69"
+11/23/2020,2020,November,153238,Female,25,(25-39),Married,Delaware,Silver,Workers,PayPal,Referred,"$1,280.63"
+11/24/2020,2020,November,153239,Male,15,(15-24),Married,Kentucky,Platinum,Employees,Card,Referred,"$1,173.06"
+11/24/2020,2020,November,153240,Female,22,(15-24),Single,Missouri,Platinum,Workers,Card,No Referral,"$2,498.24"
+11/25/2020,2020,November,153241,Female,17,(15-24),Married,Georgia,Basic,Employees,PayPal,No Referral,"$1,086.53"
+11/25/2020,2020,November,153242,Male,16,(15-24),Married,New Mexico,Basic,Workers,PayPal,Referred,$139.78
+11/25/2020,2020,November,153243,Male,20,(15-24),Single,Connecticut,Gold,Self-employed,PayPal,Referred,"$1,079.45"
+11/25/2020,2020,November,153244,Male,39,(25-39),Single,Florida,Basic,Unemployment,PayPal,No Referral,$861.01
+11/26/2020,2020,November,153246,Male,31,(25-39),Single,Oregon,Basic,Self-employed,Other,Referred,"$1,759.25"
+11/26/2020,2020,November,153247,Male,17,(15-24),Married,Missouri,Basic,Self-employed,Other,No Referral,"$1,764.83"
+11/27/2020,2020,November,153248,Male,24,(15-24),Single,Texas,Gold,Self-employed,Other,No Referral,$895.26
+11/27/2020,2020,November,153249,Female,77,(55+),Single,Washington,Platinum,Employees,PayPal,No Referral,$439.56
+11/27/2020,2020,November,153250,Male,25,(25-39),Single,Hawaii,Silver,Employees,Card,No Referral,$473.88
+11/27/2020,2020,November,153251,Female,58,(55+),Married,Arkansas,Gold,Workers,Card,Referred,"$2,602.81"
+11/27/2020,2020,November,153252,Male,47,(40-54),Married,Iowa,Missing,Employees,PayPal,Referred,"$1,166.14"
+11/28/2020,2020,November,153253,Male,62,(55+),Married,Tennessee,Platinum,Self-employed,PayPal,No Referral,$926.80
+11/28/2020,2020,November,153254,Female,59,(55+),Married,Montana,Platinum,Employees,PayPal,Referred,"$1,385.15"
+11/28/2020,2020,November,153255,Female,30,(25-39),Single,Arkansas,Basic,Self-employed,PayPal,Referred,$329.11
+11/29/2020,2020,November,153257,Male,22,(15-24),Single,Arkansas,Silver,Self-employed,Other,Referred,$445.39
+11/29/2020,2020,November,153258,Male,27,(25-39),Married,Texas,Basic,Employees,Other,Referred,"$1,778.90"
+11/29/2020,2020,November,153259,Male,56,(55+),Married,Illinois,Basic,Self-employed,PayPal,Referred,"$2,559.54"
+11/30/2020,2020,November,153260,Male,53,(40-54),Single,Colorado,Gold,Workers,Other,Referred,"$1,367.36"
+11/30/2020,2020,November,153261,Male,76,(55+),Married,Idaho,Basic,Unemployment,Card,Referred,"$1,845.62"
+11/30/2020,2020,November,153262,Male,46,(40-54),Single,Kansas,Missing,Employees,Card,Referred,$584.71
+12/1/2020,2020,December,153263,Male,61,(55+),Married,Arizona,Basic,Workers,PayPal,No Referral,"$2,412.48"
+12/1/2020,2020,December,153264,Female,72,(55+),Single,Delaware,Silver,Employees,Other,Referred,"$2,710.98"
+12/2/2020,2020,December,153265,Male,74,(55+),Married,Indiana,Basic,Self-employed,PayPal,No Referral,"$2,548.97"
+12/2/2020,2020,December,153266,Male,44,(40-54),Married,Virginia,Basic,Self-employed,Other,Referred,$792.20
+12/3/2020,2020,December,153268,Female,39,(25-39),Married,Virginia,Silver,Workers,PayPal,Referred,"$1,275.22"
+12/4/2020,2020,December,153269,Female,64,(55+),Single,Arizona,Basic,Employees,Card,Referred,"$2,563.32"
+12/4/2020,2020,December,153270,Female,56,(55+),Single,South Carolina,Platinum,Self-employed,PayPal,No Referral,$114.48
+12/6/2020,2020,December,153271,Female,61,(55+),Single,North Carolina,Basic,Employees,Other,No Referral,$220.16
+12/6/2020,2020,December,153272,Female,65,(55+),Single,Georgia,Basic,Workers,PayPal,Referred,$20.25
+12/6/2020,2020,December,153273,Female,69,(55+),Single,Indiana,Basic,Workers,PayPal,No Referral,"$1,603.13"
+12/7/2020,2020,December,153274,Female,33,(25-39),Married,Kansas,Basic,Unemployment,Other,No Referral,"$1,639.64"
+12/7/2020,2020,December,153275,Male,18,(15-24),Married,Minnesota,Basic,Employees,Other,Referred,"$2,444.11"
+12/7/2020,2020,December,153276,Male,48,(40-54),Single,Iowa,Platinum,Unemployment,PayPal,Referred,"$1,993.95"
+12/7/2020,2020,December,153277,Female,35,(25-39),Married,Wisconsin,Basic,Workers,Other,No Referral,$99.16
+12/7/2020,2020,December,153278,Male,55,(55+),Married,Louisiana,Basic,Employees,PayPal,Referred,"$2,546.70"
+12/8/2020,2020,December,153279,Male,65,(55+),Single,Arizona,Basic,Employees,PayPal,Referred,$685.75
+12/8/2020,2020,December,153280,Male,26,(25-39),Married,Illinois,Basic,Workers,PayPal,Referred,$810.33
+12/8/2020,2020,December,153281,Female,33,(25-39),Single,Rhode Island,Gold,Self-employed,Other,No Referral,$981.15
+12/8/2020,2020,December,153282,Male,28,(25-39),Single,Utah,Basic,Employees,Card,Referred,"$1,642.31"
+12/8/2020,2020,December,153283,Female,68,(55+),Single,New York,Basic,Self-employed,PayPal,Referred,$617.11
+12/8/2020,2020,December,153284,Male,38,(25-39),Married,Colorado,Missing,Workers,Other,No Referral,$292.11
+12/8/2020,2020,December,153285,Female,78,(55+),Married,New Jersey,Platinum,Employees,Card,No Referral,"$1,123.54"
+12/10/2020,2020,December,153286,Female,78,(55+),Married,Massachusetts,Gold,Employees,PayPal,Referred,$567.74
+12/10/2020,2020,December,153289,Female,31,(25-39),Single,North Carolina,Basic,Workers,PayPal,No Referral,"$1,190.37"
+12/10/2020,2020,December,153290,Male,33,(25-39),Married,California,Basic,Employees,Other,No Referral,"$2,621.91"
+12/10/2020,2020,December,153291,Male,39,(25-39),Married,Arizona,Basic,Employees,PayPal,No Referral,"$2,442.77"
+12/11/2020,2020,December,153292,Female,49,(40-54),Married,Connecticut,Platinum,Employees,Other,No Referral,$816.72
+12/11/2020,2020,December,153293,Female,65,(55+),Single,Iowa,Basic,Employees,PayPal,Referred,"$2,445.02"
+12/11/2020,2020,December,153294,Male,31,(25-39),Married,Massachusetts,Gold,Employees,PayPal,Referred,"$1,097.81"
+12/11/2020,2020,December,153295,Male,18,(15-24),Married,North Dakota,Silver,Self-employed,Other,Referred,"$1,623.73"
+12/12/2020,2020,December,153297,Male,16,(15-24),Married,Maryland,Gold,Self-employed,Card,Referred,"$1,810.74"
+12/15/2020,2020,December,153298,Female,35,(25-39),Married,Hawaii,Basic,Workers,Other,Referred,"$1,851.58"
+12/15/2020,2020,December,153299,Male,40,(40-54),Single,Maryland,Basic,Workers,Other,Referred,$862.93
+12/15/2020,2020,December,153300,Female,22,(15-24),Single,Wisconsin,Platinum,Workers,Other,Referred,"$2,752.98"
+12/15/2020,2020,December,153301,Male,76,(55+),Married,Ohio,Missing,Employees,Card,Referred,$713.87
+12/16/2020,2020,December,153302,Male,24,(15-24),Single,Minnesota,Gold,Workers,Other,No Referral,"$2,440.49"
+12/17/2020,2020,December,153303,Female,61,(55+),Single,Wyoming,Silver,Unemployment,PayPal,Referred,"$1,999.03"
+12/18/2020,2020,December,153304,Male,34,(25-39),Single,Pennsylvania,Basic,Unemployment,Card,Referred,"$1,041.62"
+12/18/2020,2020,December,153305,Male,71,(55+),Single,Kansas,Silver,Workers,PayPal,Referred,"$1,736.68"
+12/19/2020,2020,December,153306,Female,54,(40-54),Married,Pennsylvania,Gold,Workers,Card,Referred,"$1,464.56"
+12/19/2020,2020,December,153308,Female,70,(55+),Single,Connecticut,Gold,Unemployment,Other,No Referral,$386.66
+12/19/2020,2020,December,153309,Female,17,(15-24),Single,Massachusetts,Basic,Employees,Card,No Referral,"$1,289.19"
+12/20/2020,2020,December,153310,Male,77,(55+),Married,Alaska,Gold,Workers,Other,Referred,$856.67
+12/20/2020,2020,December,153313,Male,52,(40-54),Single,Montana,Gold,Unemployment,PayPal,Referred,"$2,579.67"
+12/20/2020,2020,December,153314,Male,72,(55+),Married,Louisiana,Basic,Self-employed,PayPal,Referred,"$1,552.20"
+12/21/2020,2020,December,153315,Male,19,(15-24),Married,Wisconsin,Basic,Workers,Card,Referred,"$1,573.94"
+12/21/2020,2020,December,153316,Female,24,(15-24),Married,Maine,Basic,Employees,PayPal,Referred,$417.25
+12/21/2020,2020,December,153317,Male,63,(55+),Single,Massachusetts,Silver,Employees,Other,Referred,"$2,622.91"
+12/22/2020,2020,December,153319,Female,70,(55+),Single,Utah,Gold,Employees,Card,No Referral,"$2,407.40"
+12/22/2020,2020,December,153320,Female,51,(40-54),Married,South Dakota,Basic,Workers,Card,Referred,"$2,771.84"
+12/22/2020,2020,December,153321,Male,78,(55+),Single,Illinois,Missing,Employees,Card,Referred,"$1,664.96"
+12/23/2020,2020,December,153322,Male,55,(55+),Single,Texas,Missing,Employees,Other,Referred,$813.32
+12/23/2020,2020,December,153323,Male,54,(40-54),Married,New York,Basic,Self-employed,PayPal,No Referral,"$1,313.94"
+12/24/2020,2020,December,153324,Male,48,(40-54),Married,Nebraska,Basic,Workers,Other,No Referral,"$2,984.37"
+12/24/2020,2020,December,153325,Female,51,(40-54),Married,Montana,Gold,Workers,Other,Referred,$145.65
+12/25/2020,2020,December,153327,Male,73,(55+),Married,Delaware,Gold,Workers,Card,Referred,"$1,954.17"
+12/25/2020,2020,December,153328,Female,15,(15-24),Single,Hawaii,Silver,Self-employed,PayPal,No Referral,"$2,085.21"
+12/25/2020,2020,December,153329,Female,64,(55+),Married,Oklahoma,Basic,Self-employed,Card,Referred,$612.08
+12/26/2020,2020,December,153330,Female,65,(55+),Married,Maine,Basic,Workers,PayPal,Referred,$773.10
+12/26/2020,2020,December,153331,Male,39,(25-39),Single,Oklahoma,Basic,Workers,Card,Referred,"$2,757.00"
+12/27/2020,2020,December,153332,Male,67,(55+),Single,Oklahoma,Platinum,Workers,Other,Referred,$899.21
+12/27/2020,2020,December,153333,Female,31,(25-39),Married,New York,Silver,Employees,Other,Referred,$191.21
+12/27/2020,2020,December,153334,Female,60,(55+),Married,South Carolina,Platinum,Workers,PayPal,Referred,"$2,802.74"
+12/28/2020,2020,December,153335,Female,27,(25-39),Single,Montana,Silver,Employees,PayPal,No Referral,"$1,767.95"
+12/28/2020,2020,December,153338,Female,56,(55+),Single,Connecticut,Platinum,Employees,PayPal,Referred,$305.32
+12/29/2020,2020,December,153339,Male,22,(15-24),Married,South Dakota,Platinum,Workers,PayPal,No Referral,"$1,849.77"
+12/30/2020,2020,December,153340,Female,72,(55+),Married,Iowa,Silver,Unemployment,PayPal,Referred,$784.12
+12/30/2020,2020,December,153341,Female,22,(15-24),Single,Utah,Basic,Workers,PayPal,Referred,"$1,664.15"
+12/30/2020,2020,December,153342,Male,72,(55+),Married,Minnesota,Silver,Employees,PayPal,No Referral,$892.56
+12/31/2020,2020,December,153343,Female,71,(55+),Married,Massachusetts,Basic,Workers,Card,Referred,"$2,040.65"
+12/31/2020,2020,December,153344,Female,54,(40-54),Single,Hawaii,Platinum,Self-employed,Card,Referred,"$2,962.07"

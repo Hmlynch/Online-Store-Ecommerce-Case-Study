@@ -1,0 +1,1744 @@
+Transaction_date,Year,Month,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Employees_status,Payment_method,Referal,Amount_spent
+01/01/19,2019,01,151200,Female,19.0,Single,Kansas,Basic,Unemployment,Other,1.0,2051.36
+01/01/19,2019,01,151201,Male,49.0,Single,Illinois,Basic,self-employed,Card,0.0,544.04
+01/01/19,2019,01,151202,Male,63.0,Married,New Mexico,Basic,workers,PayPal,1.0,1572.6
+01/03/19,2019,01,151205,Male,71.0,Single,Hawaii,Basic,Employees,PayPal,1.0,2922.66
+01/03/19,2019,01,151206,Female,34.0,Married,New Mexico,Platinum,Employees,PayPal,1.0,1481.42
+01/03/19,2019,01,151207,Male,37.0,Married,Connecticut,Basic,workers,PayPal,1.0,1149.55
+01/04/19,2019,01,151208,Male,75.0,Married,Florida,Silver,Employees,Card,0.0,1046.2
+01/04/19,2019,01,151209,Female,41.0,Married,Vermont,Gold,Unemployment,Card,1.0,2730.6
+01/04/19,2019,01,151210,Female,56.0,Married,California,Basic,Employees,PayPal,0.0,1712.82
+01/05/19,2019,01,151211,Female,63.0,Married,Colorado,Basic,workers,Other,1.0,154.31
+01/05/19,2019,01,151212,Female,60.0,Married,Iowa,Basic,self-employed,Card,1.0,819.08
+01/05/19,2019,01,151213,Male,47.0,Single,South Carolina,Basic,Employees,PayPal,1.0,1719.83
+01/05/19,2019,01,151214,Male,24.0,Married,Colorado,Platinum,self-employed,Other,1.0,954.12
+01/06/19,2019,01,151215,Male,16.0,Single,New York,Platinum,workers,Other,1.0,1005.92
+01/06/19,2019,01,151216,Female,72.0,Married,Maine,Silver,self-employed,PayPal,1.0,2882.77
+01/07/19,2019,01,151217,Female,77.0,Married,New Mexico,Platinum,workers,Card,0.0,2999.98
+01/07/19,2019,01,151218,Male,42.0,Married,Maryland,Basic,self-employed,Other,0.0,1902.73
+01/08/19,2019,01,151219,Female,46.0,Married,Missouri,Basic,Employees,Card,1.0,2968.95
+01/08/19,2019,01,151221,Male,42.0,Married,North Dakota,Silver,workers,PayPal,0.0,995.77
+01/08/19,2019,01,151222,Female,50.0,Married,Ohio,Missing,workers,Card,0.0,719.13
+01/09/19,2019,01,151223,Male,47.0,Single,Nebraska,Basic,self-employed,PayPal,1.0,2407.36
+01/10/19,2019,01,151224,Female,32.0,Single,Montana,Basic,Employees,PayPal,0.0,2737.41
+01/11/19,2019,01,151225,Male,25.0,Married,Indiana,Basic,self-employed,Other,1.0,1514.75
+01/12/19,2019,01,151226,Male,33.0,Married,Wisconsin,Basic,self-employed,Card,1.0,293.58
+01/12/19,2019,01,151227,Male,61.0,Married,Alabama,Platinum,workers,Card,1.0,1094.67
+01/12/19,2019,01,151228,Male,75.0,Married,Alabama,Basic,self-employed,PayPal,1.0,233.05
+01/13/19,2019,01,151231,Female,21.0,Single,Montana,Basic,Employees,Card,0.0,2035.07
+01/13/19,2019,01,151232,Male,39.0,Single,Arkansas,Basic,Employees,Other,0.0,128.29
+01/14/19,2019,01,151233,Male,15.0,Married,Missouri,Gold,self-employed,Card,1.0,628.93
+01/14/19,2019,01,151234,Female,59.0,Married,Pennsylvania,Basic,Employees,Card,0.0,1729.36
+01/14/19,2019,01,151235,Male,70.0,Married,New Hampshire,Silver,workers,Other,1.0,2040.29
+01/14/19,2019,01,151236,Male,75.0,Married,Washington,Platinum,Employees,PayPal,1.0,2744.88
+01/16/19,2019,01,151237,Male,64.0,Married,Texas,Missing,Employees,PayPal,1.0,351.88
+01/16/19,2019,01,151238,Female,64.0,Married,Ohio,Silver,Unemployment,Other,0.0,692.14
+01/17/19,2019,01,151239,Male,64.0,Married,New York,Silver,Unemployment,PayPal,1.0,2418.62
+01/17/19,2019,01,151240,Female,21.0,Married,Kentucky,Basic,workers,Card,0.0,2734.15
+01/17/19,2019,01,151241,Female,46.0,Married,New Mexico,Silver,workers,PayPal,1.0,2851.83
+01/17/19,2019,01,151242,Female,16.0,Single,Texas,Gold,self-employed,PayPal,1.0,938.16
+01/18/19,2019,01,151243,Female,63.0,Married,Maine,Gold,workers,PayPal,1.0,281.92
+01/19/19,2019,01,151244,Male,75.0,Single,Massachusetts,Basic,Employees,PayPal,1.0,747.68
+01/20/19,2019,01,151245,Male,70.0,Married,Wyoming,Basic,Unemployment,Card,1.0,1784.15
+01/20/19,2019,01,151246,Male,41.0,Single,Kentucky,Missing,Employees,PayPal,1.0,1115.9
+01/21/19,2019,01,151247,Male,33.0,Married,Florida,Silver,Employees,Other,0.0,1902.47
+01/21/19,2019,01,151248,Female,64.0,Single,Massachusetts,Platinum,self-employed,Card,1.0,1949.92
+01/22/19,2019,01,151250,Female,16.0,Married,Maryland,Silver,Employees,PayPal,1.0,583.72
+01/22/19,2019,01,151251,Male,56.0,Single,Louisiana,Basic,self-employed,Card,0.0,2445.03
+01/22/19,2019,01,151252,Male,35.0,Married,North Carolina,Basic,Unemployment,PayPal,1.0,1107.96
+01/23/19,2019,01,151253,Male,51.0,Single,Kentucky,Basic,self-employed,PayPal,1.0,1312.78
+01/23/19,2019,01,151254,Male,15.0,Married,Illinois,Basic,Employees,Card,1.0,2690.18
+01/24/19,2019,01,151255,Male,26.0,Single,Rhode Island,Basic,workers,PayPal,1.0,2603.22
+01/25/19,2019,01,151256,Female,67.0,Single,Iowa,Gold,Employees,PayPal,1.0,611.7
+01/25/19,2019,01,151257,Male,71.0,Single,Massachusetts,Gold,Employees,PayPal,1.0,2569.67
+01/25/19,2019,01,151259,Male,73.0,Married,West Virginia,Basic,Employees,PayPal,0.0,1397.09
+01/26/19,2019,01,151260,Male,55.0,Married,Kansas,Basic,Employees,Other,1.0,1277.64
+01/26/19,2019,01,151262,Male,15.0,Married,South Carolina,Basic,self-employed,Other,1.0,790.1
+01/27/19,2019,01,151263,Female,63.0,Single,Texas,Gold,Employees,Card,1.0,1218.56
+01/25/19,2019,01,151259,Male,73.0,Married,West Virginia,Basic,Employees,PayPal,0.0,1397.09
+01/26/19,2019,01,151260,Male,55.0,Married,Kansas,Basic,Employees,Other,1.0,1277.64
+01/26/19,2019,01,151262,Male,15.0,Married,South Carolina,Basic,self-employed,Other,1.0,790.1
+01/27/19,2019,01,151263,Female,63.0,Single,Texas,Gold,Employees,Card,1.0,1218.56
+01/27/19,2019,01,151264,Male,52.0,Married,Tennessee,Basic,self-employed,PayPal,1.0,2850.48
+01/27/19,2019,01,151265,Female,30.0,Single,California,Silver,workers,Card,0.0,1947.2
+01/29/19,2019,01,151266,Male,24.0,Married,Colorado,Platinum,workers,PayPal,0.0,1731.54
+01/29/19,2019,01,151270,Male,24.0,Married,Oregon,Silver,workers,Other,1.0,1663.72
+01/30/19,2019,01,151273,Female,73.0,Married,Alaska,Platinum,self-employed,PayPal,0.0,1364.31
+01/30/19,2019,01,151274,Male,50.0,Single,Oklahoma,Missing,Employees,Card,1.0,2943.46
+01/30/19,2019,01,151275,Male,28.0,Single,Connecticut,Basic,Unemployment,Card,1.0,2768.15
+01/31/19,2019,01,151276,Female,49.0,Married,Vermont,Basic,workers,PayPal,1.0,2439.65
+01/31/19,2019,01,151277,Female,70.0,Married,Ohio,Silver,workers,Other,1.0,574.1
+02/01/19,2019,02,151278,Female,61.0,Single,Oklahoma,Basic,self-employed,Card,0.0,206.79
+02/02/19,2019,02,151280,Male,34.0,Single,Illinois,Silver,workers,PayPal,1.0,1933.66
+02/02/19,2019,02,151281,Female,58.0,Married,Nevada,Gold,workers,Card,0.0,2640.72
+02/02/19,2019,02,151282,Male,70.0,Single,New Jersey,Basic,workers,PayPal,0.0,2969.24
+02/02/19,2019,02,151283,Female,48.0,Married,Louisiana,Silver,Employees,Other,0.0,1144.28
+02/03/19,2019,02,151285,Female,51.0,Married,Indiana,Platinum,workers,PayPal,1.0,2722.37
+02/03/19,2019,02,151286,Male,45.0,Single,New York,Basic,Employees,Other,0.0,2823.89
+02/04/19,2019,02,151287,Female,45.0,Single,New York,Silver,workers,PayPal,0.0,1955.43
+02/04/19,2019,02,151288,Male,60.0,Married,Rhode Island,Silver,Employees,Card,1.0,841.26
+02/05/19,2019,02,151290,Female,51.0,Single,Arkansas,Platinum,workers,Card,1.0,2547.96
+02/05/19,2019,02,151291,Female,15.0,Single,Virginia,Basic,Unemployment,Card,1.0,2922.97
+02/05/19,2019,02,151292,Male,55.0,Married,Michigan,Basic,Employees,PayPal,0.0,803.5
+02/06/19,2019,02,151293,Male,75.0,Married,Maryland,Basic,Employees,Card,1.0,1612.63
+02/06/19,2019,02,151294,Female,77.0,Single,Nebraska,Platinum,Employees,PayPal,1.0,1608.27
+02/06/19,2019,02,151295,Female,22.0,Married,Kansas,Missing,workers,Card,0.0,2061.14
+02/06/19,2019,02,151296,Female,33.0,Married,Virginia,Platinum,Employees,PayPal,0.0,2989.33
+02/06/19,2019,02,151297,Male,60.0,Married,Utah,Silver,Unemployment,Other,1.0,433.2
+02/07/19,2019,02,151298,Female,45.0,Married,Missouri,Platinum,workers,Other,1.0,929.89
+02/08/19,2019,02,151299,Male,33.0,Single,Arizona,Silver,workers,PayPal,0.0,2560.26
+02/08/19,2019,02,151301,Female,53.0,Single,Colorado,Basic,self-employed,Other,1.0,1888.69
+02/08/19,2019,02,151302,Female,70.0,Married,New Hampshire,Missing,Employees,Card,1.0,685.49
+02/08/19,2019,02,151303,Male,16.0,Married,Nebraska,Basic,workers,PayPal,1.0,1264.73
+02/06/19,2019,02,151297,Male,60.0,Married,Utah,Silver,Unemployment,Other,1.0,433.2
+02/07/19,2019,02,151298,Female,45.0,Married,Missouri,Platinum,workers,Other,1.0,929.89
+02/08/19,2019,02,151299,Male,33.0,Single,Arizona,Silver,workers,PayPal,0.0,2560.26
+02/08/19,2019,02,151301,Female,53.0,Single,Colorado,Basic,self-employed,Other,1.0,1888.69
+02/08/19,2019,02,151302,Female,70.0,Married,New Hampshire,Missing,Employees,Card,1.0,685.49
+02/08/19,2019,02,151303,Male,16.0,Married,Nebraska,Basic,workers,PayPal,1.0,1264.73
+02/10/19,2019,02,151305,Female,25.0,Married,Wyoming,Silver,workers,Other,1.0,309.82
+02/10/19,2019,02,151306,Female,76.0,Single,Ohio,Basic,self-employed,PayPal,1.0,1331.62
+02/11/19,2019,02,151307,Female,43.0,Married,Wyoming,Basic,Employees,Card,1.0,914.94
+02/11/19,2019,02,151308,Female,32.0,Single,Oregon,Basic,workers,PayPal,1.0,2922.53
+02/11/19,2019,02,151309,Male,43.0,Married,Tennessee,Silver,self-employed,PayPal,0.0,2434.81
+02/12/19,2019,02,151310,Female,19.0,Single,Louisiana,Platinum,workers,Card,0.0,1711.6
+02/12/19,2019,02,151311,Female,41.0,Married,Utah,Basic,self-employed,Other,0.0,1178.02
+02/12/19,2019,02,151312,Male,32.0,Married,Florida,Silver,Employees,PayPal,1.0,15.37
+02/12/19,2019,02,151313,Male,76.0,Single,Michigan,Silver,Unemployment,PayPal,1.0,764.34
+02/12/19,2019,02,151314,Female,55.0,Married,Kansas,Platinum,Employees,PayPal,1.0,329.18
+02/13/19,2019,02,151315,Female,72.0,Single,South Dakota,Basic,Unemployment,Other,0.0,1380.0
+02/13/19,2019,02,151316,Male,56.0,Single,Virginia,Platinum,self-employed,PayPal,1.0,46.72
+02/13/19,2019,02,151317,Male,74.0,Single,Connecticut,Basic,workers,Other,1.0,560.13
+02/14/19,2019,02,151320,Female,31.0,Married,Washington,Missing,self-employed,Card,1.0,2508.55
+02/14/19,2019,02,151321,Female,69.0,Single,Montana,Basic,self-employed,PayPal,1.0,2906.08
+02/15/19,2019,02,151322,Male,52.0,Single,Michigan,Gold,Unemployment,PayPal,1.0,1093.33
+02/15/19,2019,02,151323,Female,15.0,Married,Alaska,Basic,self-employed,Other,0.0,1408.1
+02/16/19,2019,02,151324,Male,74.0,Single,Wisconsin,Basic,workers,Card,0.0,490.37
+02/17/19,2019,02,151326,Male,24.0,Married,Louisiana,Missing,Employees,Other,0.0,1204.03
+02/17/19,2019,02,151327,Female,77.0,Single,Kansas,Platinum,self-employed,PayPal,0.0,200.58
+02/18/19,2019,02,151328,Female,16.0,Married,Georgia,Basic,workers,PayPal,0.0,1253.32
+02/19/19,2019,02,151329,Female,33.0,Single,Kentucky,Basic,Employees,Card,0.0,1486.32
+02/19/19,2019,02,151330,Male,26.0,Married,Idaho,Basic,Unemployment,PayPal,0.0,1461.49
+02/20/19,2019,02,151331,Male,28.0,Single,West Virginia,Platinum,workers,Card,1.0,1893.16
+02/20/19,2019,02,151332,Female,49.0,Married,Nebraska,Basic,Employees,PayPal,1.0,1321.7
+02/20/19,2019,02,151333,Male,52.0,Married,New Mexico,Basic,workers,Other,0.0,861.26
+02/21/19,2019,02,151334,Male,18.0,Single,Alabama,Silver,Employees,Other,0.0,459.47
+02/21/19,2019,02,151335,Male,71.0,Single,Oregon,Basic,workers,PayPal,0.0,685.01
+02/21/19,2019,02,151336,Male,22.0,Married,New Mexico,Gold,workers,PayPal,0.0,1862.93
+02/21/19,2019,02,151337,Female,54.0,Married,Michigan,Basic,Unemployment,PayPal,1.0,2831.72
+02/21/19,2019,02,151338,Female,77.0,Married,Montana,Basic,workers,Other,1.0,875.44
+02/21/19,2019,02,151339,Male,59.0,Married,Ohio,Basic,Employees,Other,1.0,435.79
+02/22/19,2019,02,151340,Male,61.0,Married,California,Basic,self-employed,PayPal,1.0,670.59
+02/23/19,2019,02,151341,Female,45.0,Married,Montana,Basic,Employees,PayPal,0.0,2497.39
+02/23/19,2019,02,151342,Male,39.0,Married,Pennsylvania,Silver,workers,Other,1.0,93.11
+02/24/19,2019,02,151343,Male,16.0,Married,Oklahoma,Gold,Employees,Card,1.0,2497.12
+02/25/19,2019,02,151344,Female,28.0,Single,North Dakota,Silver,Employees,Card,1.0,1733.65
+02/26/19,2019,02,151345,Male,25.0,Married,West Virginia,Basic,Employees,PayPal,1.0,2746.61
+02/26/19,2019,02,151346,Female,42.0,Married,Arkansas,Silver,Employees,Card,1.0,2789.59
+02/26/19,2019,02,151347,Female,28.0,Married,California,Basic,Employees,PayPal,1.0,1287.31
+02/27/19,2019,02,151348,Male,63.0,Married,Arizona,Gold,Employees,PayPal,1.0,1747.91
+02/28/19,2019,02,151350,Female,78.0,Single,Michigan,Basic,Employees,PayPal,0.0,2555.05
+03/01/19,2019,03,151351,Female,75.0,Married,Oklahoma,Basic,self-employed,Other,1.0,1319.12
+03/01/19,2019,03,151352,Female,64.0,Married,New York,Basic,Employees,PayPal,1.0,1581.77
+03/02/19,2019,03,151353,Female,28.0,Single,Vermont,Silver,workers,Other,1.0,2422.79
+03/02/19,2019,03,151354,Female,42.0,Single,Illinois,Silver,Employees,Card,1.0,971.01
+03/02/19,2019,03,151355,Female,66.0,Married,Georgia,Basic,Employees,PayPal,1.0,783.89
+03/03/19,2019,03,151356,Female,62.0,Married,Mississippi,Silver,Unemployment,Other,1.0,503.49
+03/03/19,2019,03,151357,Male,15.0,Married,Florida,Gold,Employees,Other,1.0,1790.9
+03/03/19,2019,03,151358,Male,76.0,Married,Georgia,Missing,workers,Other,1.0,1832.59
+03/04/19,2019,03,151359,Female,53.0,Married,Nevada,Platinum,self-employed,PayPal,0.0,71.73
+03/04/19,2019,03,151360,Male,39.0,Married,Idaho,Basic,Employees,PayPal,1.0,2486.94
+03/04/19,2019,03,151361,Female,58.0,Married,North Carolina,Silver,Employees,PayPal,1.0,520.69
+03/05/19,2019,03,151362,Female,30.0,Married,New Jersey,Gold,Employees,Card,1.0,918.51
+03/05/19,2019,03,151363,Female,17.0,Single,West Virginia,Basic,self-employed,PayPal,1.0,1070.97
+03/06/19,2019,03,151365,Female,20.0,Married,Georgia,Silver,self-employed,PayPal,1.0,1618.44
+03/06/19,2019,03,151366,Male,46.0,Married,Alaska,Platinum,Unemployment,Other,1.0,2417.73
+03/07/19,2019,03,151369,Female,20.0,Single,Minnesota,Basic,Employees,PayPal,0.0,922.31
+03/07/19,2019,03,151370,Female,30.0,Married,Maryland,Platinum,workers,PayPal,1.0,350.68
+03/07/19,2019,03,151371,Male,40.0,Married,Rhode Island,Silver,workers,Card,1.0,1152.11
+03/07/19,2019,03,151372,Male,45.0,Single,Ohio,Basic,Employees,Other,1.0,1742.52
+03/08/19,2019,03,151373,Female,17.0,Single,Hawaii,Silver,Employees,Card,1.0,655.42
+03/08/19,2019,03,151374,Female,40.0,Married,Idaho,Silver,workers,Other,0.0,1977.22
+03/09/19,2019,03,151375,Female,47.0,Married,West Virginia,Basic,workers,Other,0.0,1829.32
+03/10/19,2019,03,151378,Female,25.0,Single,Wyoming,Platinum,Unemployment,Card,1.0,2740.57
+03/10/19,2019,03,151380,Female,17.0,Married,Mississippi,Basic,Unemployment,Card,1.0,1277.84
+03/12/19,2019,03,151382,Female,62.0,Married,New Mexico,Platinum,Employees,Card,0.0,103.59
+03/12/19,2019,03,151383,Male,33.0,Married,Delaware,Basic,Employees,Other,1.0,1064.87
+03/13/19,2019,03,151385,Male,43.0,Married,Missouri,Silver,Employees,Card,0.0,2903.96
+03/13/19,2019,03,151386,Female,34.0,Married,Alaska,Missing,workers,Card,0.0,1493.1
+03/14/19,2019,03,151387,Female,49.0,Married,Oklahoma,Missing,Employees,PayPal,0.0,2562.52
+03/14/19,2019,03,151390,Male,47.0,Single,Wyoming,Gold,Unemployment,Other,1.0,234.19
+03/14/19,2019,03,151391,Female,15.0,Married,Wyoming,Basic,Employees,PayPal,1.0,2089.53
+03/15/19,2019,03,151392,Male,66.0,Married,Massachusetts,Silver,workers,PayPal,1.0,2698.5
+03/15/19,2019,03,151394,Male,62.0,Single,Texas,Silver,Employees,Card,0.0,69.84
+03/16/19,2019,03,151396,Male,21.0,Single,Minnesota,Platinum,workers,PayPal,1.0,2635.13
+03/17/19,2019,03,151398,Male,17.0,Married,Nevada,Silver,Employees,Other,1.0,1092.95
+03/18/19,2019,03,151401,Male,64.0,Single,North Carolina,Platinum,Unemployment,Card,1.0,2590.51
+03/19/19,2019,03,151402,Male,54.0,Single,North Dakota,Basic,Employees,Card,1.0,1659.73
+03/20/19,2019,03,151403,Female,45.0,Single,Montana,Platinum,Employees,PayPal,1.0,968.41
+03/20/19,2019,03,151404,Female,43.0,Married,Maine,Silver,workers,PayPal,0.0,705.68
+03/20/19,2019,03,151405,Male,26.0,Married,Minnesota,Basic,Employees,Card,0.0,982.4
+03/21/19,2019,03,151406,Male,17.0,Single,North Carolina,Basic,self-employed,Other,1.0,1390.46
+03/21/19,2019,03,151407,Male,78.0,Married,Idaho,Silver,workers,Card,0.0,378.43
+03/21/19,2019,03,151408,Female,65.0,Married,Vermont,Platinum,Employees,Card,1.0,61.35
+03/21/19,2019,03,151409,Male,19.0,Single,Massachusetts,Basic,Unemployment,PayPal,1.0,1081.9
+03/21/19,2019,03,151411,Female,35.0,Single,New Mexico,Basic,workers,PayPal,0.0,2878.76
+03/22/19,2019,03,151412,Female,41.0,Married,Michigan,Silver,Employees,PayPal,1.0,225.14
+03/22/19,2019,03,151413,Male,59.0,Single,Missouri,Platinum,workers,Other,1.0,2452.97
+03/22/19,2019,03,151414,Female,64.0,Married,Vermont,Platinum,workers,Other,1.0,2054.68
+03/23/19,2019,03,151415,Female,15.0,Single,New York,Basic,self-employed,PayPal,1.0,1690.62
+03/23/19,2019,03,151417,Male,62.0,Married,Vermont,Basic,Employees,Card,1.0,2875.62
+03/23/19,2019,03,151418,Male,41.0,Single,Virginia,Basic,Employees,Card,1.0,1326.62
+03/24/19,2019,03,151420,Female,18.0,Single,Florida,Silver,workers,PayPal,1.0,2493.01
+03/24/19,2019,03,151421,Male,63.0,Married,Indiana,Gold,self-employed,Card,1.0,414.51
+03/25/19,2019,03,151422,Female,71.0,Married,Oklahoma,Gold,workers,PayPal,1.0,1865.09
+03/25/19,2019,03,151424,Female,51.0,Married,Oklahoma,Platinum,workers,PayPal,1.0,1165.53
+03/25/19,2019,03,151426,Female,78.0,Single,Indiana,Basic,Employees,PayPal,1.0,1264.81
+03/26/19,2019,03,151427,Male,70.0,Married,South Dakota,Platinum,Employees,PayPal,1.0,1989.96
+03/27/19,2019,03,151429,Male,16.0,Married,Idaho,Basic,self-employed,PayPal,1.0,387.77
+03/28/19,2019,03,151430,Female,18.0,Single,Illinois,Basic,Unemployment,PayPal,1.0,2589.36
+03/29/19,2019,03,151431,Female,53.0,Single,Virginia,Platinum,workers,PayPal,0.0,1494.1
+03/29/19,2019,03,151432,Female,47.0,Single,South Carolina,Silver,workers,Card,1.0,2779.66
+03/29/19,2019,03,151433,Male,57.0,Married,New Jersey,Platinum,Unemployment,Other,1.0,841.23
+03/29/19,2019,03,151435,Male,19.0,Married,Massachusetts,Gold,workers,Other,1.0,2694.54
+03/29/19,2019,03,151436,Male,64.0,Single,Mississippi,Basic,Employees,Card,0.0,2432.67
+03/29/19,2019,03,151437,Male,57.0,Single,Nevada,Basic,self-employed,PayPal,1.0,80.64
+03/30/19,2019,03,151438,Female,67.0,Married,South Carolina,Basic,workers,PayPal,1.0,2960.41
+03/30/19,2019,03,151439,Female,53.0,Married,New Hampshire,Basic,workers,Other,0.0,2600.69
+03/30/19,2019,03,151440,Female,68.0,Married,Ohio,Basic,Employees,PayPal,1.0,550.44
+03/31/19,2019,03,151443,Female,76.0,Single,Vermont,Platinum,Employees,Other,1.0,1672.01
+03/31/19,2019,03,151444,Female,60.0,Single,New Jersey,Basic,self-employed,Card,1.0,1891.16
+03/31/19,2019,03,151445,Female,45.0,Married,Arizona,Basic,workers,Card,1.0,1692.07
+04/01/19,2019,04,151446,Male,54.0,Single,West Virginia,Gold,self-employed,PayPal,1.0,485.43
+04/01/19,2019,04,151447,Female,57.0,Single,Georgia,Basic,Unemployment,PayPal,1.0,625.29
+04/01/19,2019,04,151448,Male,48.0,Single,Wisconsin,Basic,self-employed,PayPal,1.0,1471.54
+04/02/19,2019,04,151450,Male,27.0,Single,California,Basic,Employees,PayPal,1.0,1929.33
+04/02/19,2019,04,151452,Male,57.0,Married,Texas,Silver,Employees,PayPal,1.0,2670.72
+04/03/19,2019,04,151454,Male,34.0,Married,Texas,Basic,self-employed,Card,0.0,1901.16
+04/04/19,2019,04,151455,Female,48.0,Married,Alaska,Gold,workers,Card,0.0,1728.06
+04/04/19,2019,04,151457,Female,49.0,Single,Hawaii,Basic,workers,PayPal,1.0,1822.31
+04/04/19,2019,04,151458,Female,77.0,Single,Arizona,Basic,self-employed,Card,0.0,711.52
+04/06/19,2019,04,151461,Female,15.0,Married,Arizona,Basic,self-employed,PayPal,1.0,198.48
+04/06/19,2019,04,151462,Female,58.0,Married,Mississippi,Basic,workers,PayPal,1.0,418.28
+04/06/19,2019,04,151463,Male,27.0,Single,Oregon,Silver,workers,PayPal,0.0,913.81
+04/07/19,2019,04,151465,Female,36.0,Married,Texas,Platinum,Employees,Card,0.0,1608.01
+04/07/19,2019,04,151466,Male,43.0,Married,Montana,Basic,Unemployment,PayPal,1.0,2681.13
+04/07/19,2019,04,151468,Female,59.0,Married,Iowa,Gold,Employees,PayPal,0.0,2410.23
+04/08/19,2019,04,151469,Female,73.0,Married,Texas,Basic,workers,PayPal,1.0,63.2
+04/08/19,2019,04,151471,Female,51.0,Married,South Dakota,Silver,workers,PayPal,1.0,2558.27
+04/08/19,2019,04,151472,Female,51.0,Married,Vermont,Basic,self-employed,Other,1.0,603.47
+04/09/19,2019,04,151473,Female,45.0,Single,Colorado,Silver,Employees,Card,0.0,2790.3
+04/10/19,2019,04,151474,Female,50.0,Married,South Carolina,Platinum,Employees,PayPal,1.0,801.07
+04/10/19,2019,04,151475,Female,56.0,Married,Wyoming,Basic,Employees,PayPal,1.0,250.81
+04/10/19,2019,04,151476,Female,74.0,Married,Florida,Basic,workers,Other,1.0,2076.39
+04/10/19,2019,04,151478,Male,22.0,Single,Pennsylvania,Basic,Employees,PayPal,1.0,2928.57
+04/11/19,2019,04,151479,Female,71.0,Single,Vermont,Platinum,Employees,PayPal,1.0,1707.96
+04/11/19,2019,04,151480,Male,59.0,Married,Mississippi,Basic,self-employed,Card,1.0,2501.05
+04/11/19,2019,04,151481,Female,46.0,Married,Oklahoma,Basic,Employees,Card,1.0,1757.27
+04/11/19,2019,04,151482,Male,47.0,Single,Georgia,Platinum,workers,PayPal,1.0,1994.46
+04/11/19,2019,04,151484,Male,56.0,Single,Florida,Missing,workers,Other,1.0,1600.96
+04/12/19,2019,04,151485,Female,55.0,Married,Arizona,Basic,self-employed,Other,1.0,2773.68
+04/12/19,2019,04,151486,Male,43.0,Single,Nebraska,Silver,self-employed,PayPal,1.0,2749.66
+04/13/19,2019,04,151488,Female,37.0,Single,Arizona,Silver,workers,Other,1.0,1733.91
+04/13/19,2019,04,151490,Female,73.0,Married,Wisconsin,Basic,Unemployment,PayPal,1.0,2787.95
+04/14/19,2019,04,151491,Male,48.0,Married,California,Platinum,workers,PayPal,1.0,910.97
+04/14/19,2019,04,151492,Female,78.0,Single,Oregon,Silver,workers,PayPal,0.0,7.44
+04/14/19,2019,04,151493,Male,53.0,Single,Colorado,Basic,Employees,Card,1.0,1342.22
+04/15/19,2019,04,151495,Female,55.0,Married,North Dakota,Basic,Employees,PayPal,1.0,2084.64
+04/16/19,2019,04,151496,Female,63.0,Single,Hawaii,Silver,workers,PayPal,0.0,945.7
+04/16/19,2019,04,151497,Female,15.0,Single,South Dakota,Missing,Employees,PayPal,0.0,1380.2
+04/17/19,2019,04,151498,Male,57.0,Single,Kentucky,Basic,Unemployment,PayPal,0.0,663.43
+04/17/19,2019,04,151501,Male,28.0,Single,Alaska,Platinum,Employees,PayPal,0.0,1834.95
+04/17/19,2019,04,151502,Male,18.0,Married,Arizona,Basic,Unemployment,Card,1.0,1835.84
+04/17/19,2019,04,151503,Female,35.0,Single,Illinois,Gold,workers,Card,1.0,1884.42
+04/18/19,2019,04,151504,Female,70.0,Married,Nevada,Basic,Employees,PayPal,1.0,1176.71
+04/19/19,2019,04,151505,Female,50.0,Married,Vermont,Basic,Employees,PayPal,0.0,53.82
+04/19/19,2019,04,151506,Female,54.0,Married,Maine,Platinum,workers,PayPal,0.0,982.39
+04/19/19,2019,04,151507,Female,48.0,Married,Kentucky,Basic,workers,PayPal,1.0,1690.7
+04/20/19,2019,04,151509,Female,30.0,Married,Michigan,Platinum,Employees,PayPal,1.0,2703.18
+04/20/19,2019,04,151510,Female,38.0,Married,Texas,Basic,Employees,PayPal,0.0,281.95
+04/20/19,2019,04,151511,Male,32.0,Married,Hawaii,Basic,self-employed,Other,1.0,338.98
+04/21/19,2019,04,151512,Male,67.0,Married,Pennsylvania,Silver,workers,PayPal,0.0,883.97
+04/21/19,2019,04,151513,Female,58.0,Married,Vermont,Silver,Employees,PayPal,1.0,2861.87
+04/21/19,2019,04,151514,Male,31.0,Married,Oregon,Basic,Unemployment,Other,1.0,975.49
+04/21/19,2019,04,151515,Male,42.0,Single,Ohio,Basic,workers,Other,1.0,421.83
+04/21/19,2019,04,151516,Male,62.0,Married,Alaska,Basic,Employees,Other,1.0,588.88
+04/21/19,2019,04,151517,Male,54.0,Single,New York,Platinum,Employees,Other,0.0,2463.7
+04/21/19,2019,04,151518,Male,66.0,Single,Connecticut,Silver,workers,PayPal,0.0,639.44
+04/21/19,2019,04,151519,Female,43.0,Single,Oklahoma,Basic,workers,PayPal,0.0,52.2
+04/22/19,2019,04,151523,Female,42.0,Married,Michigan,Basic,Employees,Other,1.0,2969.97
+04/22/19,2019,04,151524,Male,70.0,Married,Kansas,Basic,self-employed,PayPal,0.0,492.4
+04/23/19,2019,04,151525,Female,42.0,Married,Pennsylvania,Basic,workers,PayPal,1.0,131.92
+04/23/19,2019,04,151526,Male,22.0,Married,New Hampshire,Silver,Employees,Other,1.0,2621.53
+04/24/19,2019,04,151527,Female,17.0,Married,Kentucky,Basic,Employees,Card,0.0,2062.18
+04/25/19,2019,04,151529,Male,54.0,Married,Florida,Missing,Employees,Card,1.0,877.61
+04/25/19,2019,04,151530,Female,55.0,Married,California,Basic,Employees,PayPal,0.0,2491.79
+04/26/19,2019,04,151531,Female,30.0,Married,North Carolina,Missing,self-employed,Card,1.0,2660.45
+04/26/19,2019,04,151532,Male,61.0,Single,New York,Silver,Employees,Other,0.0,2910.02
+04/26/19,2019,04,151533,Male,48.0,Married,Oklahoma,Basic,self-employed,PayPal,1.0,2929.12
+04/26/19,2019,04,151534,Female,42.0,Married,New Jersey,Basic,Unemployment,PayPal,0.0,1095.86
+04/27/19,2019,04,151536,Male,31.0,Single,New York,Gold,Unemployment,PayPal,1.0,138.0
+04/27/19,2019,04,151537,Female,78.0,Married,Massachusetts,Basic,Employees,Other,0.0,2557.47
+04/28/19,2019,04,151539,Female,37.0,Single,Oklahoma,Missing,Unemployment,Card,1.0,1888.32
+04/29/19,2019,04,151540,Female,49.0,Single,Pennsylvania,Silver,Unemployment,Other,0.0,1664.69
+04/29/19,2019,04,151541,Male,72.0,Married,Alabama,Basic,workers,PayPal,1.0,118.72
+04/29/19,2019,04,151542,Female,74.0,Married,Indiana,Silver,Employees,Card,1.0,2679.12
+04/30/19,2019,04,151544,Female,18.0,Single,Idaho,Basic,Employees,PayPal,1.0,1725.46
+04/30/19,2019,04,151545,Male,65.0,Married,Maine,Basic,self-employed,Card,1.0,977.77
+04/30/19,2019,04,151546,Female,56.0,Single,West Virginia,Missing,self-employed,Card,1.0,2585.48
+05/01/19,2019,05,151547,Male,50.0,Married,Washington,Silver,Employees,PayPal,1.0,2000.87
+05/01/19,2019,05,151548,Female,70.0,Married,Alaska,Platinum,self-employed,Other,1.0,692.48
+05/01/19,2019,05,151550,Female,54.0,Married,Indiana,Basic,Employees,Card,1.0,1465.74
+05/01/19,2019,05,151551,Male,31.0,Married,Arkansas,Basic,workers,Card,0.0,417.24
+05/02/19,2019,05,151552,Male,63.0,Single,Maine,Basic,Employees,Other,1.0,2707.84
+05/02/19,2019,05,151553,Female,26.0,Single,Virginia,Basic,Employees,PayPal,1.0,2043.82
+05/03/19,2019,05,151555,Female,50.0,Single,Rhode Island,Silver,Employees,Card,0.0,140.97
+05/03/19,2019,05,151556,Male,70.0,Single,Kansas,Basic,Employees,Other,1.0,1559.0
+05/03/19,2019,05,151557,Male,75.0,Married,New Mexico,Gold,workers,PayPal,0.0,2935.68
+05/04/19,2019,05,151558,Male,25.0,Single,Texas,Basic,Employees,Other,1.0,1432.66
+05/04/19,2019,05,151559,Female,57.0,Married,Oregon,Platinum,self-employed,Other,0.0,151.83
+05/04/19,2019,05,151560,Male,42.0,Single,Pennsylvania,Gold,workers,PayPal,1.0,446.72
+05/06/19,2019,05,151561,Male,54.0,Married,Alabama,Basic,Unemployment,PayPal,1.0,1264.38
+05/06/19,2019,05,151562,Male,50.0,Married,Georgia,Platinum,workers,PayPal,0.0,1935.65
+05/07/19,2019,05,151563,Female,39.0,Single,Arkansas,Platinum,Employees,PayPal,0.0,1795.28
+05/07/19,2019,05,151564,Male,52.0,Single,Nebraska,Gold,self-employed,PayPal,1.0,993.37
+05/07/19,2019,05,151565,Female,53.0,Married,Alabama,Basic,Employees,Card,0.0,1317.05
+05/08/19,2019,05,151566,Male,44.0,Single,Missouri,Gold,Employees,Other,1.0,1557.57
+05/09/19,2019,05,151571,Female,64.0,Single,Illinois,Silver,Unemployment,Card,1.0,788.82
+05/09/19,2019,05,151572,Male,47.0,Married,Hawaii,Missing,workers,PayPal,1.0,1239.29
+05/09/19,2019,05,151573,Male,43.0,Single,Hawaii,Silver,Employees,Card,0.0,2450.0
+05/10/19,2019,05,151574,Female,40.0,Married,Wyoming,Basic,Employees,Card,1.0,1787.8
+05/10/19,2019,05,151575,Female,31.0,Single,Maryland,Silver,Employees,Other,1.0,2870.8
+05/10/19,2019,05,151576,Female,51.0,Single,Oklahoma,Silver,self-employed,Card,1.0,979.14
+05/10/19,2019,05,151577,Male,26.0,Single,Missouri,Silver,Employees,PayPal,1.0,1521.48
+05/10/19,2019,05,151578,Male,28.0,Married,Colorado,Platinum,Employees,PayPal,1.0,2673.29
+05/11/19,2019,05,151579,Male,67.0,Married,Ohio,Basic,workers,PayPal,1.0,198.04
+05/11/19,2019,05,151580,Male,56.0,Married,Oregon,Gold,workers,PayPal,1.0,288.93
+05/11/19,2019,05,151581,Female,65.0,Married,Maine,Basic,self-employed,PayPal,1.0,2564.8
+05/12/19,2019,05,151582,Female,24.0,Married,New Jersey,Missing,workers,Card,1.0,147.79
+05/12/19,2019,05,151584,Female,26.0,Married,Pennsylvania,Missing,Unemployment,Card,1.0,376.84
+05/12/19,2019,05,151585,Male,68.0,Married,Louisiana,Silver,self-employed,Other,0.0,2437.16
+05/12/19,2019,05,151586,Male,61.0,Single,Nebraska,Silver,Employees,PayPal,1.0,2966.93
+05/12/19,2019,05,151589,Female,51.0,Single,Arkansas,Platinum,Employees,PayPal,0.0,1160.61
+05/13/19,2019,05,151590,Male,32.0,Single,Maine,Basic,workers,PayPal,1.0,408.35
+05/13/19,2019,05,151592,Male,60.0,Married,Michigan,Basic,workers,Other,0.0,1675.8
+05/14/19,2019,05,151593,Male,42.0,Married,Utah,Basic,workers,Other,1.0,2618.52
+05/14/19,2019,05,151594,Male,48.0,Married,New Hampshire,Gold,Unemployment,Other,1.0,2656.04
+05/15/19,2019,05,151595,Female,27.0,Married,Utah,Basic,Employees,Card,1.0,861.86
+05/15/19,2019,05,151596,Male,36.0,Married,South Carolina,Silver,Employees,PayPal,1.0,1447.65
+05/15/19,2019,05,151597,Male,54.0,Single,North Carolina,Platinum,Employees,Card,1.0,2936.96
+05/16/19,2019,05,151598,Female,61.0,Married,Rhode Island,Silver,Employees,Other,0.0,70.0
+05/16/19,2019,05,151599,Female,28.0,Married,Nebraska,Platinum,Unemployment,Card,1.0,1575.98
+05/16/19,2019,05,151600,Male,30.0,Married,West Virginia,Platinum,Employees,Card,0.0,2825.66
+05/17/19,2019,05,151603,Male,70.0,Single,Iowa,Basic,self-employed,Card,0.0,672.2
+05/18/19,2019,05,151604,Male,65.0,Married,Georgia,Platinum,Unemployment,Other,0.0,1556.9
+05/19/19,2019,05,151605,Male,46.0,Single,Georgia,Basic,workers,Other,1.0,858.76
+05/19/19,2019,05,151606,Female,46.0,Married,Minnesota,Gold,Employees,Card,1.0,2035.45
+05/19/19,2019,05,151607,Female,24.0,Single,Georgia,Basic,Employees,Card,1.0,2899.42
+05/20/19,2019,05,151609,Female,72.0,Single,Michigan,Basic,workers,Card,0.0,1680.73
+05/20/19,2019,05,151610,Male,19.0,Single,New Jersey,Basic,self-employed,PayPal,1.0,1401.18
+05/20/19,2019,05,151612,Female,30.0,Married,Connecticut,Platinum,Employees,PayPal,1.0,28.27
+05/20/19,2019,05,151613,Female,20.0,Married,Wisconsin,Basic,self-employed,PayPal,0.0,1350.76
+05/21/19,2019,05,151614,Male,64.0,Single,Illinois,Silver,Unemployment,PayPal,1.0,889.38
+05/21/19,2019,05,151615,Female,71.0,Married,Arkansas,Basic,Employees,Card,1.0,2883.69
+05/22/19,2019,05,151616,Male,50.0,Married,Mississippi,Silver,workers,PayPal,1.0,1623.72
+05/23/19,2019,05,151617,Female,63.0,Single,North Dakota,Silver,workers,PayPal,1.0,2619.18
+05/23/19,2019,05,151618,Female,32.0,Married,Maine,Basic,self-employed,Card,0.0,1233.36
+05/24/19,2019,05,151620,Female,65.0,Married,California,Basic,Employees,PayPal,1.0,1134.46
+05/24/19,2019,05,151621,Female,63.0,Single,Louisiana,Basic,Employees,Other,1.0,958.83
+05/24/19,2019,05,151622,Male,38.0,Single,Alaska,Basic,Unemployment,PayPal,1.0,1526.24
+05/24/19,2019,05,151623,Female,48.0,Married,Vermont,Platinum,Employees,Card,0.0,1310.51
+05/24/19,2019,05,151624,Male,55.0,Married,New York,Basic,workers,PayPal,1.0,392.63
+05/24/19,2019,05,151625,Female,44.0,Married,Vermont,Basic,Employees,Card,1.0,1217.31
+05/25/19,2019,05,151627,Male,65.0,Single,Arizona,Basic,self-employed,Other,1.0,2469.58
+05/26/19,2019,05,151628,Male,72.0,Married,Michigan,Basic,Employees,Card,0.0,602.97
+05/26/19,2019,05,151629,Male,50.0,Married,New Jersey,Basic,Employees,Card,1.0,2083.16
+05/27/19,2019,05,151630,Female,42.0,Single,Georgia,Platinum,workers,PayPal,0.0,1582.94
+05/27/19,2019,05,151631,Male,44.0,Married,Minnesota,Platinum,workers,Card,0.0,575.17
+05/27/19,2019,05,151632,Female,39.0,Married,Florida,Gold,workers,Card,1.0,1913.57
+05/28/19,2019,05,151633,Female,42.0,Single,Arizona,Basic,Employees,Other,0.0,1519.64
+05/28/19,2019,05,151634,Female,52.0,Single,Maryland,Basic,Employees,PayPal,1.0,809.64
+05/28/19,2019,05,151636,Male,49.0,Married,Pennsylvania,Basic,Employees,PayPal,1.0,1154.13
+05/28/19,2019,05,151637,Female,41.0,Single,Oregon,Basic,Employees,PayPal,1.0,218.64
+05/29/19,2019,05,151640,Male,54.0,Married,Nebraska,Basic,Employees,Card,1.0,682.48
+05/29/19,2019,05,151642,Female,65.0,Single,Alabama,Silver,workers,PayPal,0.0,2520.85
+05/30/19,2019,05,151643,Male,44.0,Single,California,Basic,Employees,PayPal,1.0,977.74
+05/31/19,2019,05,151645,Female,29.0,Married,Arkansas,Silver,self-employed,Card,1.0,2966.21
+05/31/19,2019,05,151646,Male,68.0,Married,Connecticut,Missing,Employees,Other,0.0,141.03
+06/01/19,2019,06,151647,Female,66.0,Married,Georgia,Platinum,Employees,Card,0.0,502.91
+06/01/19,2019,06,151648,Male,31.0,Married,Alaska,Silver,workers,PayPal,1.0,1371.52
+06/01/19,2019,06,151649,Male,77.0,Single,Minnesota,Missing,self-employed,PayPal,1.0,853.19
+06/02/19,2019,06,151651,Male,20.0,Married,Florida,Basic,Employees,PayPal,1.0,2862.92
+06/02/19,2019,06,151652,Female,36.0,Single,New Jersey,Gold,Employees,PayPal,1.0,2558.0
+06/02/19,2019,06,151653,Female,18.0,Married,Arizona,Missing,workers,PayPal,0.0,1440.43
+06/02/19,2019,06,151654,Female,53.0,Married,Missouri,Gold,Employees,Other,1.0,895.47
+06/03/19,2019,06,151655,Male,17.0,Single,Oklahoma,Platinum,Unemployment,PayPal,0.0,2061.81
+06/04/19,2019,06,151657,Female,32.0,Married,Maine,Basic,Employees,Card,1.0,333.86
+06/04/19,2019,06,151659,Male,43.0,Married,North Carolina,Missing,self-employed,Card,0.0,1734.3
+06/04/19,2019,06,151660,Female,60.0,Single,Wyoming,Silver,workers,PayPal,0.0,1870.31
+06/05/19,2019,06,151661,Female,42.0,Single,Indiana,Platinum,self-employed,PayPal,1.0,2763.73
+06/05/19,2019,06,151662,Male,24.0,Married,Alaska,Basic,Employees,PayPal,1.0,904.22
+06/05/19,2019,06,151663,Female,71.0,Single,Georgia,Basic,Employees,Card,1.0,838.78
+06/05/19,2019,06,151664,Female,22.0,Single,Vermont,Basic,workers,Other,1.0,2656.59
+06/05/19,2019,06,151665,Male,42.0,Married,Minnesota,Silver,self-employed,Card,1.0,717.16
+06/05/19,2019,06,151666,Male,71.0,Single,West Virginia,Gold,self-employed,Card,1.0,187.04
+06/05/19,2019,06,151667,Male,38.0,Married,Virginia,Silver,Unemployment,PayPal,0.0,1124.36
+06/07/19,2019,06,151668,Female,64.0,Single,South Dakota,Silver,workers,PayPal,1.0,35.65
+06/07/19,2019,06,151669,Male,71.0,Married,Wisconsin,Silver,workers,PayPal,1.0,2526.89
+06/07/19,2019,06,151670,Male,40.0,Single,Kentucky,Platinum,workers,PayPal,1.0,2544.75
+06/07/19,2019,06,151671,Male,43.0,Single,Vermont,Basic,workers,PayPal,0.0,1430.28
+06/07/19,2019,06,151672,Female,36.0,Married,Maryland,Silver,workers,Other,0.0,1648.55
+06/07/19,2019,06,151673,Male,65.0,Married,Arizona,Gold,self-employed,PayPal,1.0,2998.62
+06/08/19,2019,06,151674,Female,76.0,Married,Massachusetts,Gold,Employees,Other,0.0,1455.74
+06/08/19,2019,06,151675,Female,15.0,Married,Pennsylvania,Basic,Employees,PayPal,0.0,1194.19
+06/08/19,2019,06,151676,Female,37.0,Married,Virginia,Basic,workers,Other,1.0,2455.62
+06/08/19,2019,06,151677,Male,52.0,Married,New Mexico,Basic,self-employed,Card,0.0,2559.47
+06/09/19,2019,06,151678,Male,30.0,Single,New York,Basic,workers,Card,1.0,832.12
+06/10/19,2019,06,151682,Male,37.0,Married,North Dakota,Platinum,self-employed,Card,1.0,1701.43
+06/11/19,2019,06,151683,Female,70.0,Married,Delaware,Basic,workers,PayPal,1.0,2910.99
+06/12/19,2019,06,151684,Male,26.0,Married,New York,Silver,workers,Other,0.0,2091.42
+06/12/19,2019,06,151685,Male,16.0,Married,Virginia,Platinum,workers,PayPal,1.0,2879.28
+06/14/19,2019,06,151688,Female,30.0,Married,Louisiana,Silver,Employees,PayPal,0.0,400.91
+06/14/19,2019,06,151689,Male,38.0,Married,Montana,Basic,workers,PayPal,1.0,2978.21
+06/15/19,2019,06,151690,Male,33.0,Married,Rhode Island,Platinum,self-employed,Other,1.0,1544.59
+06/15/19,2019,06,151691,Female,26.0,Single,Idaho,Platinum,self-employed,Card,1.0,1134.36
+06/15/19,2019,06,151692,Female,49.0,Single,Nebraska,Silver,Employees,PayPal,1.0,2946.34
+06/15/19,2019,06,151693,Female,30.0,Married,California,Basic,Employees,Other,1.0,603.13
+06/15/19,2019,06,151694,Female,76.0,Married,California,Silver,workers,Other,1.0,623.83
+06/16/19,2019,06,151695,Female,26.0,Single,Kentucky,Missing,Unemployment,PayPal,0.0,880.27
+06/17/19,2019,06,151698,Female,60.0,Single,North Dakota,Basic,workers,Card,1.0,374.63
+06/17/19,2019,06,151700,Male,30.0,Married,Arizona,Basic,workers,PayPal,1.0,20.77
+06/18/19,2019,06,151702,Female,72.0,Married,Maine,Basic,self-employed,PayPal,1.0,600.17
+06/19/19,2019,06,151703,Female,41.0,Married,California,Silver,Employees,PayPal,1.0,867.63
+06/19/19,2019,06,151704,Female,34.0,Married,Pennsylvania,Basic,Employees,PayPal,1.0,962.6
+06/19/19,2019,06,151705,Male,26.0,Married,Pennsylvania,Missing,Employees,Card,1.0,1949.59
+06/19/19,2019,06,151707,Female,69.0,Married,West Virginia,Gold,Employees,PayPal,1.0,1377.65
+06/20/19,2019,06,151708,Female,45.0,Married,Minnesota,Basic,workers,PayPal,1.0,25.6
+06/20/19,2019,06,151709,Female,76.0,Single,Kansas,Silver,Employees,PayPal,1.0,82.27
+06/20/19,2019,06,151710,Male,50.0,Married,Mississippi,Basic,workers,PayPal,1.0,1586.92
+06/21/19,2019,06,151711,Male,51.0,Single,Florida,Basic,workers,PayPal,0.0,2857.3
+06/21/19,2019,06,151712,Female,49.0,Married,South Dakota,Basic,Employees,Card,0.0,1282.76
+06/21/19,2019,06,151713,Male,55.0,Married,West Virginia,Basic,Employees,Other,1.0,2473.97
+06/21/19,2019,06,151714,Female,65.0,Single,West Virginia,Basic,workers,Card,0.0,311.71
+06/21/19,2019,06,151715,Female,62.0,Married,Illinois,Basic,Employees,PayPal,0.0,1109.49
+06/22/19,2019,06,151718,Female,44.0,Single,Hawaii,Silver,Employees,PayPal,1.0,1719.4
+06/22/19,2019,06,151719,Male,24.0,Single,California,Missing,self-employed,PayPal,0.0,2774.37
+06/23/19,2019,06,151720,Male,43.0,Married,Massachusetts,Basic,Employees,Card,1.0,890.6
+06/24/19,2019,06,151722,Male,46.0,Married,Wisconsin,Silver,workers,PayPal,0.0,1964.04
+06/24/19,2019,06,151723,Female,29.0,Married,Nevada,Basic,workers,Card,1.0,2612.34
+06/24/19,2019,06,151725,Female,72.0,Married,Colorado,Silver,Employees,PayPal,1.0,380.86
+06/24/19,2019,06,151726,Female,24.0,Single,Minnesota,Basic,self-employed,Other,0.0,939.5
+06/24/19,2019,06,151727,Male,72.0,Single,Nevada,Basic,self-employed,PayPal,1.0,545.2
+06/25/19,2019,06,151729,Male,69.0,Single,Arizona,Basic,workers,Other,1.0,2030.73
+06/26/19,2019,06,151731,Female,44.0,Single,Florida,Silver,Employees,Card,0.0,2485.69
+06/26/19,2019,06,151732,Female,59.0,Single,Montana,Basic,Employees,PayPal,1.0,317.1
+06/27/19,2019,06,151733,Female,66.0,Married,New Jersey,Platinum,workers,Card,0.0,429.48
+06/27/19,2019,06,151734,Male,72.0,Single,Utah,Basic,workers,PayPal,1.0,2729.61
+06/27/19,2019,06,151736,Male,47.0,Single,New York,Basic,Employees,PayPal,1.0,2060.59
+06/28/19,2019,06,151737,Male,33.0,Married,Wyoming,Basic,workers,Other,1.0,675.92
+06/28/19,2019,06,151738,Female,69.0,Single,Oregon,Gold,workers,Other,1.0,837.71
+06/29/19,2019,06,151741,Female,17.0,Married,Maryland,Basic,Employees,Card,1.0,660.88
+06/30/19,2019,06,151742,Female,39.0,Single,California,Silver,Employees,Card,0.0,328.67
+06/30/19,2019,06,151743,Male,52.0,Married,Arkansas,Basic,workers,Card,1.0,692.8
+06/30/19,2019,06,151744,Male,51.0,Married,Oklahoma,Basic,Unemployment,Other,0.0,430.27
+06/30/19,2019,06,151746,Male,48.0,Married,Kansas,Basic,workers,Card,1.0,1062.23
+07/01/19,2019,07,151747,Male,71.0,Married,North Carolina,Basic,Employees,Card,1.0,2886.21
+07/01/19,2019,07,151748,Female,52.0,Married,Washington,Missing,workers,PayPal,1.0,1799.67
+07/01/19,2019,07,151750,Female,17.0,Married,Vermont,Basic,workers,Card,1.0,246.28
+07/02/19,2019,07,151751,Female,42.0,Single,Delaware,Basic,Unemployment,Card,0.0,977.8
+07/03/19,2019,07,151752,Male,43.0,Single,Virginia,Basic,self-employed,PayPal,0.0,1070.56
+07/03/19,2019,07,151753,Male,49.0,Married,Missouri,Missing,Unemployment,PayPal,1.0,1414.92
+07/04/19,2019,07,151754,Male,50.0,Married,Louisiana,Basic,workers,PayPal,1.0,834.24
+07/04/19,2019,07,151756,Male,46.0,Single,South Carolina,Gold,workers,PayPal,0.0,2.16
+07/05/19,2019,07,151758,Female,41.0,Single,Texas,Basic,Employees,Card,1.0,1608.42
+07/05/19,2019,07,151759,Male,36.0,Single,West Virginia,Silver,Employees,Card,0.0,1642.21
+07/05/19,2019,07,151760,Female,61.0,Married,Kansas,Basic,self-employed,Other,1.0,1699.31
+07/05/19,2019,07,151761,Male,47.0,Single,Vermont,Gold,self-employed,PayPal,0.0,2923.63
+07/06/19,2019,07,151762,Female,37.0,Married,Maryland,Basic,workers,Card,0.0,614.83
+07/06/19,2019,07,151763,Male,64.0,Married,Washington,Silver,Employees,Other,1.0,2757.65
+07/06/19,2019,07,151764,Male,38.0,Married,Delaware,Basic,workers,Card,0.0,926.55
+07/07/19,2019,07,151766,Female,20.0,Single,Oregon,Missing,Employees,PayPal,1.0,1535.36
+07/08/19,2019,07,151768,Male,49.0,Single,Indiana,Silver,workers,PayPal,1.0,789.08
+07/09/19,2019,07,151769,Female,47.0,Married,Alaska,Basic,workers,Card,1.0,1988.38
+07/10/19,2019,07,151772,Male,50.0,Married,New Hampshire,Basic,Employees,PayPal,1.0,1775.72
+07/11/19,2019,07,151773,Male,43.0,Single,Maryland,Platinum,self-employed,PayPal,1.0,1720.85
+07/12/19,2019,07,151774,Male,66.0,Single,Montana,Basic,Employees,Card,1.0,2549.44
+07/12/19,2019,07,151775,Male,19.0,Married,Wisconsin,Basic,workers,Other,0.0,2909.2
+07/13/19,2019,07,151777,Male,51.0,Single,North Carolina,Missing,Employees,PayPal,1.0,2997.15
+07/13/19,2019,07,151778,Male,24.0,Single,Washington,Platinum,workers,PayPal,0.0,2042.64
+07/14/19,2019,07,151779,Male,32.0,Single,Massachusetts,Gold,workers,PayPal,1.0,2453.04
+07/15/19,2019,07,151781,Male,46.0,Married,Nevada,Basic,self-employed,Other,1.0,681.71
+07/16/19,2019,07,151782,Female,60.0,Married,Hawaii,Basic,Employees,Card,0.0,1601.24
+07/16/19,2019,07,151783,Female,43.0,Single,Hawaii,Gold,self-employed,Card,0.0,1450.98
+07/17/19,2019,07,151785,Female,62.0,Married,Wisconsin,Basic,Employees,Card,1.0,84.67
+07/17/19,2019,07,151786,Male,39.0,Married,Colorado,Basic,Employees,PayPal,1.0,2917.66
+07/17/19,2019,07,151787,Female,73.0,Single,Oregon,Basic,Employees,Card,0.0,2041.54
+07/17/19,2019,07,151788,Male,38.0,Married,Arizona,Basic,workers,PayPal,1.0,1710.21
+07/17/19,2019,07,151789,Male,71.0,Married,Louisiana,Silver,Employees,Card,1.0,2548.2
+07/17/19,2019,07,151790,Male,54.0,Married,Nevada,Basic,self-employed,PayPal,0.0,1115.13
+07/17/19,2019,07,151792,Female,42.0,Married,Michigan,Basic,Employees,Card,1.0,2775.69
+07/18/19,2019,07,151794,Female,25.0,Single,Georgia,Basic,self-employed,Card,1.0,1381.78
+07/18/19,2019,07,151796,Male,34.0,Single,Oregon,Basic,workers,Other,0.0,581.83
+07/19/19,2019,07,151797,Male,71.0,Single,Kentucky,Basic,workers,PayPal,0.0,2037.59
+07/19/19,2019,07,151798,Female,75.0,Single,Colorado,Basic,self-employed,Card,1.0,836.55
+07/19/19,2019,07,151801,Female,56.0,Single,Nebraska,Silver,workers,PayPal,1.0,1234.26
+07/20/19,2019,07,151802,Male,32.0,Single,Florida,Gold,Employees,PayPal,0.0,1504.25
+07/20/19,2019,07,151803,Male,24.0,Married,New Hampshire,Platinum,workers,Card,0.0,897.1
+07/21/19,2019,07,151804,Female,46.0,Married,Oregon,Platinum,Employees,Card,1.0,1746.47
+07/21/19,2019,07,151805,Male,43.0,Married,Alabama,Silver,Employees,PayPal,1.0,87.88
+07/21/19,2019,07,151806,Male,18.0,Single,Illinois,Platinum,Employees,Other,0.0,1650.69
+07/21/19,2019,07,151807,Male,21.0,Married,Georgia,Basic,workers,PayPal,1.0,2611.18
+07/21/19,2019,07,151808,Male,64.0,Married,Arkansas,Silver,workers,Card,1.0,1760.23
+07/22/19,2019,07,151809,Male,54.0,Single,Arizona,Platinum,self-employed,Other,0.0,1860.03
+07/22/19,2019,07,151810,Female,15.0,Single,Montana,Platinum,Unemployment,Card,0.0,2754.9
+07/23/19,2019,07,151811,Female,24.0,Married,Alabama,Basic,workers,PayPal,0.0,270.93
+07/23/19,2019,07,151813,Female,67.0,Single,Utah,Basic,self-employed,Card,0.0,1364.98
+07/23/19,2019,07,151815,Female,68.0,Single,Michigan,Basic,workers,PayPal,1.0,104.54
+07/23/19,2019,07,151816,Female,43.0,Married,South Dakota,Basic,self-employed,Other,1.0,2527.24
+07/24/19,2019,07,151817,Male,64.0,Married,Idaho,Silver,workers,PayPal,1.0,1935.35
+07/25/19,2019,07,151818,Female,46.0,Single,Missouri,Basic,Unemployment,Card,0.0,129.95
+07/25/19,2019,07,151820,Female,41.0,Single,Hawaii,Basic,self-employed,PayPal,1.0,2623.07
+07/25/19,2019,07,151821,Female,77.0,Single,Utah,Gold,workers,Other,1.0,1902.46
+07/25/19,2019,07,151822,Female,38.0,Single,New Hampshire,Gold,self-employed,PayPal,1.0,1873.51
+07/26/19,2019,07,151823,Female,50.0,Married,Vermont,Gold,workers,Other,1.0,1349.31
+07/26/19,2019,07,151824,Female,46.0,Married,Ohio,Platinum,workers,Card,1.0,2081.86
+07/27/19,2019,07,151825,Male,64.0,Married,Louisiana,Platinum,workers,Card,0.0,841.44
+07/28/19,2019,07,151828,Male,69.0,Married,Oregon,Basic,Employees,Other,1.0,306.16
+07/28/19,2019,07,151829,Male,59.0,Married,Maryland,Basic,self-employed,PayPal,0.0,533.64
+07/29/19,2019,07,151831,Female,40.0,Married,Florida,Platinum,workers,PayPal,1.0,696.84
+07/29/19,2019,07,151832,Female,75.0,Single,Michigan,Basic,workers,PayPal,0.0,169.82
+07/29/19,2019,07,151835,Male,45.0,Married,Tennessee,Missing,Employees,PayPal,1.0,117.56
+07/29/19,2019,07,151836,Male,36.0,Married,Washington,Silver,workers,Card,1.0,2055.39
+07/30/19,2019,07,151837,Female,40.0,Single,Illinois,Basic,Unemployment,PayPal,1.0,1160.65
+07/30/19,2019,07,151838,Female,68.0,Married,Arkansas,Silver,workers,PayPal,1.0,1044.78
+07/30/19,2019,07,151839,Female,55.0,Single,Connecticut,Gold,workers,Other,1.0,2776.96
+07/31/19,2019,07,151840,Male,32.0,Single,Arizona,Silver,Unemployment,PayPal,0.0,762.74
+07/31/19,2019,07,151841,Female,72.0,Single,New Mexico,Basic,self-employed,PayPal,1.0,1717.11
+08/01/19,2019,08,151842,Female,62.0,Single,Minnesota,Platinum,Unemployment,Other,1.0,1650.65
+08/01/19,2019,08,151843,Female,55.0,Married,Pennsylvania,Basic,Unemployment,Other,1.0,2917.55
+08/02/19,2019,08,151844,Female,18.0,Single,Michigan,Missing,self-employed,PayPal,0.0,1689.33
+08/02/19,2019,08,151846,Female,53.0,Married,Oklahoma,Silver,Employees,PayPal,0.0,279.19
+08/03/19,2019,08,151847,Male,61.0,Single,Hawaii,Basic,workers,Other,1.0,2863.09
+08/05/19,2019,08,151849,Male,24.0,Married,Rhode Island,Basic,workers,Card,1.0,1157.79
+08/05/19,2019,08,151851,Male,24.0,Married,North Dakota,Silver,Employees,PayPal,0.0,1802.33
+08/05/19,2019,08,151852,Female,35.0,Married,Connecticut,Gold,Employees,PayPal,0.0,702.87
+08/05/19,2019,08,151853,Female,65.0,Married,Arizona,Platinum,workers,PayPal,0.0,1534.1
+08/05/19,2019,08,151854,Male,35.0,Single,Indiana,Missing,Unemployment,PayPal,1.0,1357.68
+08/06/19,2019,08,151855,Female,22.0,Married,Michigan,Gold,Employees,PayPal,0.0,2960.52
+08/06/19,2019,08,151856,Female,15.0,Married,Florida,Basic,Employees,Other,1.0,756.95
+08/06/19,2019,08,151857,Female,65.0,Married,West Virginia,Basic,workers,PayPal,1.0,264.74
+08/07/19,2019,08,151859,Female,63.0,Married,Massachusetts,Gold,self-employed,PayPal,1.0,2487.49
+08/08/19,2019,08,151860,Male,47.0,Single,Arizona,Basic,Employees,Card,1.0,677.54
+08/08/19,2019,08,151861,Female,38.0,Married,South Dakota,Platinum,Employees,PayPal,1.0,501.86
+08/08/19,2019,08,151863,Male,16.0,Single,New York,Silver,Employees,PayPal,1.0,1297.29
+08/08/19,2019,08,151864,Male,57.0,Single,Massachusetts,Basic,Employees,PayPal,0.0,697.55
+08/08/19,2019,08,151865,Male,55.0,Married,New Mexico,Basic,workers,Other,1.0,1121.06
+08/08/19,2019,08,151866,Female,55.0,Single,North Carolina,Missing,workers,Other,1.0,391.88
+08/09/19,2019,08,151867,Female,28.0,Single,Utah,Platinum,Unemployment,PayPal,1.0,945.26
+08/10/19,2019,08,151868,Female,37.0,Married,Montana,Basic,Employees,Other,1.0,397.91
+08/10/19,2019,08,151869,Male,35.0,Married,Texas,Basic,Unemployment,Card,0.0,2917.04
+08/10/19,2019,08,151871,Female,63.0,Married,South Dakota,Gold,workers,Other,1.0,675.06
+08/11/19,2019,08,151872,Male,78.0,Married,New Mexico,Basic,Employees,Card,0.0,1020.2
+08/12/19,2019,08,151873,Male,56.0,Single,Nebraska,Basic,self-employed,Other,1.0,158.6
+08/12/19,2019,08,151874,Female,53.0,Married,Washington,Platinum,workers,PayPal,1.0,218.06
+08/12/19,2019,08,151875,Female,34.0,Married,Wisconsin,Basic,workers,Card,0.0,2814.33
+08/13/19,2019,08,151877,Female,30.0,Single,Alaska,Basic,Employees,Card,0.0,1875.29
+08/14/19,2019,08,151878,Female,31.0,Single,Kansas,Platinum,self-employed,PayPal,0.0,875.04
+08/14/19,2019,08,151879,Female,57.0,Married,West Virginia,Platinum,Employees,PayPal,0.0,148.88
+08/14/19,2019,08,151882,Male,31.0,Single,Maine,Basic,self-employed,Other,0.0,216.26
+08/14/19,2019,08,151883,Male,33.0,Single,Georgia,Platinum,Employees,PayPal,1.0,191.01
+08/14/19,2019,08,151885,Female,50.0,Single,Wyoming,Gold,Employees,Card,1.0,159.32
+08/15/19,2019,08,151886,Male,26.0,Single,Montana,Gold,workers,PayPal,0.0,1150.77
+08/15/19,2019,08,151887,Male,31.0,Single,South Dakota,Platinum,workers,PayPal,1.0,1124.26
+08/15/19,2019,08,151889,Male,67.0,Single,Mississippi,Basic,workers,Other,1.0,947.92
+08/15/19,2019,08,151890,Male,34.0,Married,South Dakota,Missing,self-employed,Other,1.0,182.09
+08/16/19,2019,08,151891,Female,56.0,Married,Idaho,Basic,Employees,Other,0.0,408.06
+08/16/19,2019,08,151892,Female,34.0,Married,New Mexico,Platinum,self-employed,Card,1.0,1589.97
+08/16/19,2019,08,151893,Female,48.0,Married,Missouri,Gold,workers,Card,1.0,2971.3
+08/17/19,2019,08,151894,Male,40.0,Married,North Carolina,Silver,workers,Other,1.0,1651.4
+08/17/19,2019,08,151896,Female,75.0,Married,Alaska,Gold,Employees,PayPal,0.0,2615.89
+08/17/19,2019,08,151897,Female,57.0,Married,Oregon,Silver,Employees,Card,1.0,1872.97
+08/18/19,2019,08,151899,Female,40.0,Married,Massachusetts,Gold,Unemployment,PayPal,1.0,2705.93
+08/18/19,2019,08,151900,Male,43.0,Married,Texas,Silver,Unemployment,Card,1.0,604.11
+08/19/19,2019,08,151901,Male,72.0,Single,New York,Silver,Unemployment,Card,0.0,1488.16
+08/20/19,2019,08,151903,Male,35.0,Married,Rhode Island,Gold,Employees,Other,1.0,2032.63
+08/20/19,2019,08,151904,Female,37.0,Married,Arkansas,Gold,Unemployment,PayPal,1.0,887.97
+08/21/19,2019,08,151905,Female,19.0,Married,Oklahoma,Silver,Employees,PayPal,1.0,725.91
+08/22/19,2019,08,151907,Male,43.0,Married,Virginia,Silver,self-employed,Card,1.0,42.98
+08/23/19,2019,08,151908,Female,19.0,Married,Nevada,Gold,Employees,Other,1.0,1895.93
+08/23/19,2019,08,151910,Female,31.0,Single,Illinois,Silver,workers,PayPal,1.0,1322.08
+08/23/19,2019,08,151911,Female,40.0,Single,Washington,Silver,workers,PayPal,1.0,182.35
+08/24/19,2019,08,151912,Female,37.0,Married,New Mexico,Basic,Unemployment,Other,1.0,287.77
+08/24/19,2019,08,151913,Female,73.0,Married,Iowa,Basic,workers,PayPal,1.0,1106.89
+08/24/19,2019,08,151914,Female,29.0,Married,Maine,Basic,self-employed,Card,0.0,1295.42
+08/25/19,2019,08,151915,Male,42.0,Single,West Virginia,Gold,self-employed,Card,0.0,608.33
+08/25/19,2019,08,151916,Female,53.0,Married,Oregon,Basic,workers,PayPal,1.0,639.25
+08/25/19,2019,08,151917,Female,15.0,Single,New Jersey,Silver,self-employed,PayPal,1.0,1417.01
+08/25/19,2019,08,151918,Female,58.0,Married,Maine,Basic,self-employed,Other,1.0,2536.59
+08/25/19,2019,08,151919,Female,74.0,Married,Georgia,Basic,workers,PayPal,1.0,861.93
+08/26/19,2019,08,151922,Female,45.0,Single,Ohio,Basic,Employees,Other,0.0,1954.97
+08/27/19,2019,08,151924,Male,63.0,Married,Minnesota,Silver,Employees,Card,1.0,1142.52
+08/27/19,2019,08,151925,Male,56.0,Single,Georgia,Basic,workers,PayPal,1.0,1567.64
+08/28/19,2019,08,151926,Female,62.0,Married,Kentucky,Platinum,self-employed,PayPal,1.0,1326.95
+08/28/19,2019,08,151928,Male,35.0,Married,Nevada,Gold,self-employed,PayPal,0.0,1935.0
+08/29/19,2019,08,151929,Male,25.0,Married,Idaho,Silver,self-employed,Other,1.0,2568.34
+08/30/19,2019,08,151930,Male,25.0,Single,Colorado,Platinum,workers,PayPal,1.0,1198.81
+08/30/19,2019,08,151931,Male,44.0,Single,Illinois,Basic,Employees,Card,1.0,2996.82
+08/30/19,2019,08,151932,Female,22.0,Married,California,Basic,workers,PayPal,1.0,1510.28
+08/30/19,2019,08,151933,Male,49.0,Single,Connecticut,Silver,self-employed,PayPal,0.0,896.07
+08/30/19,2019,08,151934,Male,54.0,Single,Minnesota,Basic,self-employed,PayPal,0.0,227.66
+09/01/19,2019,09,151936,Male,54.0,Single,Kentucky,Basic,workers,PayPal,1.0,2654.79
+09/01/19,2019,09,151937,Female,39.0,Single,New York,Missing,workers,PayPal,1.0,1426.26
+09/01/19,2019,09,151939,Female,56.0,Single,New Hampshire,Basic,Employees,Card,1.0,1049.31
+09/02/19,2019,09,151941,Male,63.0,Married,Louisiana,Basic,self-employed,PayPal,0.0,383.85
+09/02/19,2019,09,151942,Female,72.0,Single,Arizona,Missing,workers,Card,1.0,540.38
+09/03/19,2019,09,151944,Female,78.0,Married,New Hampshire,Basic,self-employed,PayPal,1.0,2966.31
+09/04/19,2019,09,151946,Female,40.0,Married,Louisiana,Basic,workers,Other,1.0,326.44
+09/05/19,2019,09,151948,Male,24.0,Married,Arizona,Platinum,workers,PayPal,1.0,1486.56
+09/05/19,2019,09,151949,Male,78.0,Married,California,Basic,workers,PayPal,1.0,1106.53
+09/06/19,2019,09,151950,Male,36.0,Married,West Virginia,Basic,Employees,PayPal,0.0,2540.97
+09/06/19,2019,09,151951,Female,66.0,Married,South Carolina,Silver,Employees,Other,1.0,696.5
+09/07/19,2019,09,151952,Male,59.0,Married,New Mexico,Basic,Employees,Other,1.0,1062.47
+09/08/19,2019,09,151953,Female,44.0,Single,Wyoming,Basic,self-employed,PayPal,0.0,2960.98
+09/08/19,2019,09,151954,Male,66.0,Single,Nebraska,Basic,workers,PayPal,1.0,81.37
+09/08/19,2019,09,151955,Male,18.0,Married,Vermont,Gold,workers,PayPal,0.0,1521.84
+09/08/19,2019,09,151956,Male,53.0,Married,Indiana,Basic,self-employed,Other,1.0,2070.51
+09/10/19,2019,09,151959,Male,62.0,Married,New York,Missing,workers,PayPal,1.0,1804.6
+09/12/19,2019,09,151961,Male,18.0,Married,Ohio,Basic,Employees,PayPal,0.0,1733.78
+09/12/19,2019,09,151963,Female,59.0,Married,California,Missing,workers,Card,0.0,880.28
+09/13/19,2019,09,151964,Male,36.0,Married,Colorado,Silver,Employees,PayPal,1.0,1276.2
+09/13/19,2019,09,151966,Male,50.0,Married,Arkansas,Silver,Employees,PayPal,1.0,393.8
+09/14/19,2019,09,151967,Female,24.0,Single,North Dakota,Basic,workers,PayPal,1.0,2902.97
+09/14/19,2019,09,151968,Female,71.0,Married,Idaho,Basic,workers,Card,1.0,1657.33
+09/14/19,2019,09,151970,Female,46.0,Single,Maine,Basic,Employees,Card,1.0,1031.63
+09/15/19,2019,09,151971,Female,55.0,Single,Missouri,Platinum,workers,PayPal,1.0,779.96
+09/15/19,2019,09,151972,Male,52.0,Single,Colorado,Basic,Employees,Other,1.0,1868.24
+09/15/19,2019,09,151973,Female,29.0,Married,Rhode Island,Missing,self-employed,PayPal,1.0,2513.36
+09/16/19,2019,09,151974,Male,32.0,Single,Arkansas,Basic,Employees,PayPal,1.0,2733.0
+09/16/19,2019,09,151975,Male,66.0,Single,Indiana,Basic,workers,PayPal,1.0,435.3
+09/17/19,2019,09,151977,Female,17.0,Married,West Virginia,Basic,self-employed,PayPal,1.0,1746.63
+09/18/19,2019,09,151978,Male,37.0,Single,Wyoming,Silver,self-employed,PayPal,0.0,1833.14
+09/19/19,2019,09,151980,Male,48.0,Married,Connecticut,Basic,workers,PayPal,1.0,1068.9
+09/19/19,2019,09,151981,Female,56.0,Single,Maine,Gold,Employees,PayPal,1.0,2687.66
+09/19/19,2019,09,151982,Female,61.0,Married,Missouri,Basic,workers,PayPal,1.0,623.55
+09/20/19,2019,09,151983,Female,28.0,Married,Virginia,Platinum,self-employed,PayPal,1.0,498.27
+09/20/19,2019,09,151985,Female,76.0,Married,Michigan,Gold,Employees,Card,1.0,539.1
+09/20/19,2019,09,151986,Female,75.0,Married,Tennessee,Missing,self-employed,Other,0.0,333.9
+09/21/19,2019,09,151987,Female,74.0,Married,Massachusetts,Basic,Employees,Other,1.0,68.46
+09/22/19,2019,09,151988,Male,69.0,Single,Georgia,Missing,Employees,PayPal,1.0,294.04
+09/22/19,2019,09,151989,Male,52.0,Married,Indiana,Silver,Employees,PayPal,0.0,675.01
+09/23/19,2019,09,151990,Female,33.0,Single,Wisconsin,Platinum,self-employed,PayPal,1.0,1809.6
+09/23/19,2019,09,151991,Female,33.0,Married,Wisconsin,Gold,workers,Card,0.0,1085.15
+09/23/19,2019,09,151992,Female,35.0,Married,California,Basic,Unemployment,Card,0.0,564.27
+09/23/19,2019,09,151993,Female,60.0,Married,California,Silver,Employees,Card,1.0,2407.99
+09/24/19,2019,09,151996,Male,20.0,Single,Virginia,Basic,Employees,PayPal,1.0,234.15
+09/24/19,2019,09,151997,Female,69.0,Single,Arizona,Basic,workers,PayPal,1.0,195.25
+09/25/19,2019,09,151998,Female,30.0,Married,Michigan,Basic,self-employed,Other,1.0,490.23
+09/25/19,2019,09,151999,Female,34.0,Single,Arkansas,Platinum,self-employed,Card,1.0,636.89
+09/25/19,2019,09,152000,Male,40.0,Married,Hawaii,Silver,Employees,PayPal,1.0,1931.67
+09/25/19,2019,09,152001,Male,37.0,Married,Tennessee,Silver,Employees,Card,0.0,1948.66
+09/25/19,2019,09,152002,Female,22.0,Single,South Dakota,Gold,Employees,Card,0.0,2007.54
+09/25/19,2019,09,152003,Female,26.0,Married,West Virginia,Missing,self-employed,Card,1.0,2020.07
+09/25/19,2019,09,152004,Female,43.0,Single,Idaho,Gold,Employees,PayPal,1.0,1227.65
+09/26/19,2019,09,152005,Female,39.0,Married,Massachusetts,Silver,workers,PayPal,0.0,2010.7
+09/27/19,2019,09,152006,Female,46.0,Single,Washington,Gold,Employees,Card,1.0,553.18
+09/27/19,2019,09,152007,Male,31.0,Single,Oregon,Silver,self-employed,Card,1.0,2584.24
+09/28/19,2019,09,152008,Male,70.0,Single,Kentucky,Silver,self-employed,Card,1.0,1503.63
+09/28/19,2019,09,152009,Female,72.0,Single,New Mexico,Basic,workers,PayPal,1.0,361.19
+09/28/19,2019,09,152010,Female,67.0,Married,Tennessee,Silver,workers,Card,0.0,2918.71
+09/29/19,2019,09,152011,Male,78.0,Single,Idaho,Platinum,workers,PayPal,1.0,1421.55
+09/30/19,2019,09,152013,Female,30.0,Married,Mississippi,Basic,Employees,PayPal,1.0,532.29
+09/30/19,2019,09,152016,Female,26.0,Single,Arizona,Basic,workers,PayPal,1.0,1799.49
+10/01/19,2019,10,152017,Female,59.0,Single,Virginia,Platinum,workers,Other,1.0,235.99
+10/01/19,2019,10,152018,Female,28.0,Married,California,Gold,workers,Card,1.0,1887.3
+10/01/19,2019,10,152019,Male,53.0,Single,Alabama,Basic,Employees,PayPal,1.0,114.85
+10/01/19,2019,10,152020,Female,47.0,Married,Texas,Basic,Employees,PayPal,1.0,1679.77
+10/01/19,2019,10,152021,Female,41.0,Married,South Carolina,Basic,workers,Card,0.0,486.79
+10/01/19,2019,10,152022,Male,73.0,Married,Tennessee,Basic,workers,Other,1.0,663.83
+10/01/19,2019,10,152023,Male,48.0,Single,West Virginia,Platinum,Employees,Other,1.0,44.75
+10/01/19,2019,10,152024,Female,71.0,Single,Connecticut,Basic,Employees,Other,1.0,2640.15
+10/02/19,2019,10,152026,Male,69.0,Married,Maryland,Basic,Employees,PayPal,0.0,1121.33
+10/02/19,2019,10,152027,Female,20.0,Single,Colorado,Basic,Employees,PayPal,1.0,910.33
+10/02/19,2019,10,152028,Male,41.0,Married,Arkansas,Missing,Employees,PayPal,1.0,56.13
+10/02/19,2019,10,152029,Male,55.0,Married,North Carolina,Silver,Employees,Card,1.0,1828.98
+10/03/19,2019,10,152030,Female,37.0,Married,New Mexico,Basic,workers,Card,0.0,1122.19
+10/03/19,2019,10,152031,Female,34.0,Single,Arkansas,Gold,self-employed,PayPal,1.0,72.69
+10/04/19,2019,10,152032,Female,28.0,Single,Nevada,Basic,Employees,Card,1.0,1286.07
+10/05/19,2019,10,152033,Female,63.0,Married,New Mexico,Gold,Employees,Card,1.0,1913.23
+10/05/19,2019,10,152034,Female,30.0,Single,New Jersey,Basic,workers,Other,0.0,1513.31
+10/05/19,2019,10,152035,Female,24.0,Married,Nebraska,Basic,workers,Card,1.0,1083.55
+10/06/19,2019,10,152036,Male,62.0,Married,North Dakota,Basic,workers,PayPal,0.0,1724.57
+10/07/19,2019,10,152038,Female,51.0,Single,North Carolina,Platinum,Employees,Card,1.0,2567.73
+10/08/19,2019,10,152039,Male,55.0,Single,North Dakota,Silver,Employees,Card,1.0,719.14
+10/08/19,2019,10,152040,Male,63.0,Married,Maine,Basic,workers,PayPal,0.0,1908.42
+10/08/19,2019,10,152041,Female,19.0,Single,Washington,Basic,workers,Card,1.0,1283.18
+10/08/19,2019,10,152043,Male,55.0,Married,Ohio,Basic,self-employed,Other,1.0,2864.12
+10/09/19,2019,10,152044,Female,47.0,Single,Alaska,Basic,Employees,PayPal,1.0,1094.78
+10/09/19,2019,10,152046,Female,54.0,Married,Delaware,Basic,Employees,Other,1.0,2557.92
+10/10/19,2019,10,152047,Male,63.0,Married,Alabama,Basic,self-employed,PayPal,1.0,2876.36
+10/10/19,2019,10,152048,Male,26.0,Single,Maryland,Silver,Unemployment,PayPal,1.0,5.55
+10/10/19,2019,10,152051,Male,36.0,Married,Mississippi,Basic,self-employed,Other,1.0,1824.67
+10/11/19,2019,10,152052,Female,78.0,Married,California,Gold,workers,PayPal,1.0,1493.76
+10/11/19,2019,10,152053,Female,41.0,Married,Oklahoma,Basic,workers,PayPal,0.0,568.27
+10/11/19,2019,10,152054,Female,49.0,Married,Vermont,Basic,Employees,PayPal,1.0,2904.15
+10/12/19,2019,10,152055,Female,21.0,Single,Georgia,Basic,Employees,Card,1.0,34.43
+10/12/19,2019,10,152056,Male,75.0,Single,North Dakota,Platinum,workers,Card,1.0,2068.44
+10/12/19,2019,10,152057,Female,32.0,Single,Wisconsin,Gold,self-employed,Card,1.0,2609.7
+10/12/19,2019,10,152058,Female,70.0,Single,California,Missing,self-employed,Other,1.0,534.76
+10/12/19,2019,10,152059,Female,75.0,Married,Nebraska,Missing,self-employed,Other,0.0,2645.93
+10/12/19,2019,10,152060,Female,64.0,Married,Arizona,Basic,workers,PayPal,1.0,74.93
+10/12/19,2019,10,152061,Female,49.0,Married,Rhode Island,Silver,Employees,Other,0.0,2624.0
+10/13/19,2019,10,152062,Male,56.0,Married,Michigan,Silver,Employees,Card,0.0,2086.0
+10/13/19,2019,10,152063,Female,72.0,Single,North Dakota,Basic,workers,Card,1.0,1357.6
+10/14/19,2019,10,152065,Female,40.0,Single,Arizona,Gold,self-employed,Other,1.0,2513.75
+10/14/19,2019,10,152066,Male,26.0,Married,Florida,Missing,workers,PayPal,0.0,2705.36
+10/14/19,2019,10,152067,Male,42.0,Single,Alabama,Basic,Employees,Other,0.0,1691.62
+10/15/19,2019,10,152068,Male,65.0,Single,West Virginia,Missing,workers,Card,0.0,1840.03
+10/15/19,2019,10,152069,Female,46.0,Single,Michigan,Platinum,Unemployment,Card,0.0,2051.18
+10/15/19,2019,10,152070,Male,51.0,Married,Alabama,Platinum,self-employed,Other,1.0,1367.77
+10/16/19,2019,10,152071,Male,71.0,Single,Alaska,Basic,Employees,Other,0.0,768.38
+10/16/19,2019,10,152074,Female,59.0,Married,Delaware,Basic,workers,Other,0.0,2466.37
+10/16/19,2019,10,152075,Female,27.0,Single,Delaware,Basic,Employees,PayPal,1.0,936.39
+10/16/19,2019,10,152076,Male,36.0,Single,Kansas,Basic,Unemployment,Card,0.0,2744.96
+10/16/19,2019,10,152077,Female,44.0,Single,Rhode Island,Platinum,Employees,Card,1.0,1595.06
+10/16/19,2019,10,152078,Female,24.0,Married,Wyoming,Basic,Unemployment,PayPal,1.0,566.58
+10/17/19,2019,10,152080,Male,75.0,Married,Louisiana,Platinum,workers,Other,1.0,429.08
+10/18/19,2019,10,152081,Male,40.0,Single,Mississippi,Basic,Unemployment,Other,0.0,1462.02
+10/18/19,2019,10,152082,Male,42.0,Married,Maine,Basic,Employees,Card,1.0,39.84
+10/18/19,2019,10,152083,Female,64.0,Single,Minnesota,Silver,workers,Other,1.0,1734.67
+10/18/19,2019,10,152084,Male,26.0,Single,Massachusetts,Gold,self-employed,Card,1.0,297.61
+10/18/19,2019,10,152085,Male,21.0,Single,Wyoming,Basic,workers,Other,1.0,492.74
+10/19/19,2019,10,152086,Male,63.0,Single,Delaware,Silver,workers,PayPal,1.0,872.01
+10/19/19,2019,10,152087,Male,21.0,Married,Wisconsin,Platinum,self-employed,Card,1.0,417.6
+10/19/19,2019,10,152088,Female,46.0,Single,Arkansas,Silver,workers,PayPal,1.0,1430.93
+10/19/19,2019,10,152090,Female,45.0,Single,Georgia,Platinum,workers,Card,1.0,341.39
+10/20/19,2019,10,152091,Female,61.0,Single,Louisiana,Basic,Employees,PayPal,0.0,901.66
+10/20/19,2019,10,152092,Male,78.0,Single,Vermont,Basic,workers,PayPal,0.0,192.77
+10/20/19,2019,10,152093,Male,73.0,Married,South Dakota,Platinum,Unemployment,PayPal,1.0,1713.58
+10/21/19,2019,10,152094,Female,17.0,Single,Minnesota,Platinum,Employees,Card,1.0,99.77
+10/21/19,2019,10,152096,Female,65.0,Single,Louisiana,Gold,Employees,PayPal,0.0,1208.88
+10/21/19,2019,10,152097,Male,22.0,Married,Wisconsin,Basic,workers,PayPal,0.0,471.95
+10/22/19,2019,10,152098,Male,43.0,Single,West Virginia,Basic,workers,PayPal,1.0,2065.03
+10/23/19,2019,10,152100,Female,51.0,Married,Ohio,Basic,Unemployment,PayPal,1.0,678.47
+10/23/19,2019,10,152101,Male,50.0,Married,Colorado,Basic,Employees,PayPal,1.0,1412.72
+10/24/19,2019,10,152102,Female,59.0,Married,Minnesota,Platinum,self-employed,Card,1.0,2053.25
+10/25/19,2019,10,152104,Male,33.0,Married,Oklahoma,Basic,workers,PayPal,0.0,1681.59
+10/25/19,2019,10,152105,Male,28.0,Married,Utah,Basic,Employees,Card,1.0,975.11
+10/27/19,2019,10,152108,Male,72.0,Single,New Hampshire,Silver,workers,Card,1.0,1822.43
+10/28/19,2019,10,152109,Female,67.0,Single,Colorado,Gold,Unemployment,Card,1.0,577.53
+10/28/19,2019,10,152110,Male,69.0,Married,Florida,Basic,Employees,Other,0.0,2649.13
+10/28/19,2019,10,152111,Female,31.0,Single,New Hampshire,Basic,Employees,Other,1.0,1479.67
+10/28/19,2019,10,152112,Female,52.0,Single,Georgia,Basic,workers,PayPal,1.0,1894.89
+10/29/19,2019,10,152113,Male,75.0,Married,Hawaii,Platinum,Employees,PayPal,1.0,1687.41
+10/29/19,2019,10,152114,Female,51.0,Single,West Virginia,Platinum,Unemployment,Card,0.0,522.04
+10/29/19,2019,10,152115,Male,49.0,Single,Rhode Island,Silver,Employees,PayPal,0.0,1579.61
+10/29/19,2019,10,152116,Male,18.0,Single,Illinois,Basic,self-employed,PayPal,1.0,2939.09
+10/29/19,2019,10,152119,Female,47.0,Married,North Dakota,Basic,Unemployment,Other,1.0,1208.12
+11/01/19,2019,11,152120,Female,45.0,Single,Massachusetts,Silver,workers,Other,0.0,149.78
+11/01/19,2019,11,152121,Female,26.0,Single,Kentucky,Basic,workers,Card,1.0,308.26
+11/01/19,2019,11,152122,Female,53.0,Married,Iowa,Silver,Employees,Card,1.0,1901.61
+11/02/19,2019,11,152123,Female,35.0,Married,Minnesota,Missing,workers,Card,1.0,1713.07
+11/02/19,2019,11,152124,Female,41.0,Married,Minnesota,Basic,Employees,PayPal,1.0,199.6
+11/02/19,2019,11,152125,Female,31.0,Married,Arkansas,Gold,Employees,Card,1.0,747.96
+11/04/19,2019,11,152127,Female,32.0,Married,Pennsylvania,Platinum,Employees,PayPal,1.0,388.15
+11/04/19,2019,11,152129,Female,47.0,Married,Florida,Gold,Employees,Other,0.0,1655.82
+11/05/19,2019,11,152130,Male,18.0,Married,Virginia,Silver,Employees,PayPal,1.0,2683.09
+11/06/19,2019,11,152131,Female,77.0,Single,Wisconsin,Basic,self-employed,Other,1.0,2978.08
+11/06/19,2019,11,152132,Male,43.0,Married,Texas,Silver,Employees,Card,0.0,1726.25
+11/06/19,2019,11,152133,Male,19.0,Married,Rhode Island,Basic,Unemployment,Other,1.0,536.85
+11/07/19,2019,11,152134,Male,52.0,Married,Mississippi,Gold,Employees,PayPal,1.0,2809.83
+11/08/19,2019,11,152137,Female,69.0,Single,Washington,Basic,Employees,PayPal,1.0,313.56
+11/09/19,2019,11,152138,Female,61.0,Married,Georgia,Gold,Employees,PayPal,0.0,296.68
+11/09/19,2019,11,152139,Female,60.0,Single,Utah,Basic,Employees,Card,0.0,1488.16
+11/09/19,2019,11,152140,Female,62.0,Married,Iowa,Basic,Unemployment,PayPal,0.0,1712.63
+11/09/19,2019,11,152141,Female,37.0,Married,Rhode Island,Silver,workers,PayPal,1.0,2937.06
+11/10/19,2019,11,152142,Female,28.0,Married,Illinois,Missing,Unemployment,PayPal,1.0,328.05
+11/10/19,2019,11,152143,Female,67.0,Married,West Virginia,Gold,Employees,Card,1.0,1091.15
+11/11/19,2019,11,152144,Male,42.0,Single,Tennessee,Platinum,Employees,Card,1.0,524.62
+11/11/19,2019,11,152145,Male,28.0,Single,New Hampshire,Missing,workers,Card,1.0,1401.27
+11/12/19,2019,11,152146,Female,64.0,Married,Illinois,Basic,Employees,PayPal,1.0,6.79
+11/12/19,2019,11,152147,Male,43.0,Single,Hawaii,Gold,workers,PayPal,1.0,173.93
+11/12/19,2019,11,152148,Male,48.0,Single,Michigan,Gold,workers,Card,1.0,1105.0
+11/12/19,2019,11,152149,Male,64.0,Married,Wyoming,Silver,self-employed,PayPal,0.0,53.36
+11/13/19,2019,11,152150,Female,56.0,Married,Nevada,Basic,workers,Other,1.0,5.31
+11/13/19,2019,11,152151,Female,32.0,Married,Massachusetts,Silver,self-employed,PayPal,0.0,1028.15
+11/13/19,2019,11,152152,Male,45.0,Married,Illinois,Platinum,workers,PayPal,1.0,428.22
+11/15/19,2019,11,152154,Female,28.0,Single,Oregon,Gold,Unemployment,PayPal,1.0,278.44
+11/15/19,2019,11,152155,Male,36.0,Married,Ohio,Basic,Employees,Other,0.0,1850.08
+11/15/19,2019,11,152156,Female,78.0,Single,Delaware,Missing,Employees,Card,1.0,1697.09
+11/16/19,2019,11,152157,Male,19.0,Married,Texas,Basic,Employees,PayPal,0.0,780.39
+11/16/19,2019,11,152158,Female,51.0,Single,Massachusetts,Platinum,Employees,Card,0.0,2047.51
+11/17/19,2019,11,152160,Male,30.0,Married,Florida,Platinum,Employees,Card,1.0,1304.2
+11/17/19,2019,11,152161,Female,21.0,Married,Maryland,Silver,Employees,Card,0.0,2056.18
+11/18/19,2019,11,152162,Female,40.0,Single,Rhode Island,Basic,Employees,PayPal,1.0,61.04
+11/18/19,2019,11,152163,Male,63.0,Married,Tennessee,Silver,Employees,PayPal,0.0,2847.16
+11/18/19,2019,11,152165,Female,22.0,Married,Mississippi,Basic,workers,Card,1.0,615.38
+11/19/19,2019,11,152166,Female,19.0,Married,New York,Basic,Employees,Card,0.0,2473.87
+11/20/19,2019,11,152167,Female,48.0,Married,Maine,Basic,workers,PayPal,1.0,1045.45
+11/20/19,2019,11,152168,Male,32.0,Married,Maryland,Basic,Unemployment,PayPal,1.0,373.75
+11/20/19,2019,11,152169,Male,18.0,Single,Indiana,Platinum,Unemployment,PayPal,1.0,438.81
+11/20/19,2019,11,152170,Female,72.0,Single,California,Platinum,Employees,PayPal,0.0,967.58
+11/20/19,2019,11,152171,Female,68.0,Single,Michigan,Basic,Employees,PayPal,0.0,464.7
+11/21/19,2019,11,152172,Male,39.0,Married,Michigan,Gold,workers,Card,1.0,509.15
+11/21/19,2019,11,152173,Male,42.0,Single,Iowa,Platinum,Employees,PayPal,1.0,364.73
+11/21/19,2019,11,152174,Female,68.0,Married,New Hampshire,Basic,Employees,PayPal,0.0,1633.77
+11/21/19,2019,11,152175,Female,52.0,Married,Iowa,Platinum,Employees,PayPal,0.0,678.1
+11/21/19,2019,11,152176,Female,63.0,Single,Washington,Silver,Unemployment,Card,0.0,1021.98
+11/21/19,2019,11,152178,Male,62.0,Single,Pennsylvania,Silver,Employees,PayPal,0.0,1163.3
+11/22/19,2019,11,152179,Female,38.0,Single,Minnesota,Basic,Unemployment,Card,0.0,1745.71
+11/23/19,2019,11,152180,Male,73.0,Married,Arizona,Silver,Employees,PayPal,1.0,1871.75
+11/23/19,2019,11,152181,Female,52.0,Married,Texas,Basic,self-employed,Other,0.0,1165.97
+11/24/19,2019,11,152183,Male,34.0,Married,Montana,Basic,self-employed,Card,0.0,1713.15
+11/24/19,2019,11,152184,Female,76.0,Married,New Jersey,Platinum,Employees,Card,1.0,1875.03
+11/24/19,2019,11,152185,Female,72.0,Married,Vermont,Platinum,workers,Card,1.0,1002.79
+11/24/19,2019,11,152186,Male,66.0,Married,Utah,Silver,self-employed,Card,1.0,59.97
+11/25/19,2019,11,152189,Female,42.0,Single,Missouri,Basic,workers,PayPal,1.0,2541.56
+11/25/19,2019,11,152190,Male,55.0,Married,Hawaii,Basic,Employees,PayPal,1.0,2712.52
+11/25/19,2019,11,152193,Male,28.0,Married,Maryland,Basic,Employees,Card,1.0,363.29
+11/26/19,2019,11,152194,Male,56.0,Single,Idaho,Platinum,workers,Card,0.0,2479.25
+11/26/19,2019,11,152195,Female,61.0,Married,Georgia,Platinum,self-employed,Card,1.0,1902.46
+11/27/19,2019,11,152197,Female,32.0,Married,Washington,Missing,workers,Card,1.0,957.05
+11/28/19,2019,11,152198,Male,62.0,Single,Vermont,Basic,Unemployment,PayPal,0.0,23.14
+11/29/19,2019,11,152199,Female,18.0,Married,New York,Basic,self-employed,PayPal,1.0,1340.65
+11/29/19,2019,11,152200,Male,45.0,Married,New York,Basic,Unemployment,PayPal,1.0,720.75
+11/29/19,2019,11,152202,Male,53.0,Married,Missouri,Platinum,self-employed,Other,0.0,2490.18
+12/01/19,2019,12,152203,Male,48.0,Married,Kansas,Basic,Employees,PayPal,1.0,1015.45
+12/01/19,2019,12,152204,Female,41.0,Single,Delaware,Basic,Employees,Card,1.0,2570.56
+12/02/19,2019,12,152205,Female,22.0,Single,Minnesota,Basic,Employees,Card,0.0,1114.5
+12/02/19,2019,12,152206,Male,70.0,Single,Oklahoma,Basic,Employees,Card,1.0,261.44
+12/03/19,2019,12,152207,Male,16.0,Married,Illinois,Gold,workers,Other,0.0,657.98
+12/03/19,2019,12,152208,Female,77.0,Single,West Virginia,Basic,Employees,Other,1.0,1935.38
+12/03/19,2019,12,152210,Female,68.0,Single,Alaska,Platinum,Employees,Other,1.0,1711.74
+12/04/19,2019,12,152212,Female,37.0,Single,Pennsylvania,Gold,self-employed,PayPal,0.0,473.25
+12/04/19,2019,12,152213,Female,56.0,Single,Florida,Basic,workers,Other,0.0,2726.95
+12/04/19,2019,12,152214,Male,71.0,Married,West Virginia,Missing,self-employed,PayPal,1.0,761.23
+12/04/19,2019,12,152215,Male,70.0,Married,Mississippi,Basic,workers,Card,0.0,1911.54
+12/04/19,2019,12,152216,Female,36.0,Married,Kentucky,Silver,Employees,Card,0.0,102.99
+12/04/19,2019,12,152217,Female,50.0,Married,Nevada,Basic,workers,PayPal,0.0,423.98
+12/05/19,2019,12,152218,Male,69.0,Single,North Carolina,Basic,self-employed,PayPal,1.0,561.16
+12/06/19,2019,12,152219,Male,19.0,Married,Arizona,Platinum,Employees,Other,1.0,613.35
+12/06/19,2019,12,152221,Male,36.0,Married,Vermont,Basic,Employees,PayPal,1.0,2785.61
+12/07/19,2019,12,152223,Male,43.0,Single,Montana,Platinum,workers,Other,1.0,2071.6
+12/07/19,2019,12,152224,Male,42.0,Married,Illinois,Platinum,Employees,PayPal,1.0,1331.74
+12/07/19,2019,12,152225,Male,34.0,Married,Nebraska,Silver,Employees,PayPal,0.0,642.73
+12/08/19,2019,12,152227,Male,20.0,Single,Connecticut,Basic,self-employed,PayPal,1.0,809.72
+12/08/19,2019,12,152229,Male,49.0,Single,Missouri,Missing,Employees,PayPal,0.0,2420.67
+12/08/19,2019,12,152230,Female,29.0,Married,New Jersey,Basic,self-employed,PayPal,0.0,425.62
+12/08/19,2019,12,152231,Female,25.0,Married,Delaware,Basic,Employees,Other,0.0,1348.65
+12/09/19,2019,12,152232,Female,72.0,Married,Rhode Island,Missing,Employees,PayPal,1.0,1654.25
+12/09/19,2019,12,152233,Female,44.0,Single,Hawaii,Platinum,self-employed,Other,0.0,962.62
+12/10/19,2019,12,152234,Male,59.0,Single,Delaware,Missing,workers,PayPal,1.0,202.84
+12/10/19,2019,12,152235,Female,51.0,Single,Louisiana,Gold,workers,PayPal,1.0,1691.26
+12/10/19,2019,12,152236,Female,57.0,Married,Michigan,Silver,self-employed,PayPal,0.0,505.36
+12/10/19,2019,12,152237,Male,18.0,Married,Maryland,Silver,self-employed,PayPal,1.0,2863.91
+12/11/19,2019,12,152238,Male,30.0,Married,Illinois,Basic,Employees,PayPal,0.0,603.34
+12/11/19,2019,12,152239,Male,18.0,Married,Texas,Basic,Employees,PayPal,1.0,2443.68
+12/12/19,2019,12,152241,Female,38.0,Married,Idaho,Basic,workers,Card,1.0,1985.91
+12/12/19,2019,12,152242,Female,34.0,Single,New York,Gold,workers,PayPal,0.0,1936.86
+12/12/19,2019,12,152243,Female,36.0,Single,Utah,Basic,Unemployment,Card,1.0,743.54
+12/12/19,2019,12,152244,Female,70.0,Single,Nevada,Basic,self-employed,PayPal,1.0,1474.73
+12/13/19,2019,12,152246,Female,35.0,Single,Indiana,Platinum,Employees,Card,0.0,459.96
+12/13/19,2019,12,152247,Male,46.0,Married,New Hampshire,Silver,self-employed,Card,1.0,258.66
+12/14/19,2019,12,152248,Female,74.0,Single,Mississippi,Platinum,workers,Other,1.0,1492.25
+12/14/19,2019,12,152249,Male,70.0,Single,New Hampshire,Missing,workers,Card,1.0,134.8
+12/14/19,2019,12,152250,Male,21.0,Single,Kentucky,Basic,workers,PayPal,0.0,1250.44
+12/14/19,2019,12,152251,Female,39.0,Single,Florida,Basic,self-employed,Card,1.0,1305.52
+12/15/19,2019,12,152252,Male,33.0,Single,West Virginia,Basic,workers,Card,0.0,1922.8
+12/15/19,2019,12,152254,Male,49.0,Married,California,Basic,workers,PayPal,1.0,337.17
+12/16/19,2019,12,152255,Female,34.0,Single,South Carolina,Platinum,workers,Other,1.0,635.17
+12/16/19,2019,12,152256,Male,64.0,Single,South Dakota,Basic,self-employed,PayPal,0.0,1282.24
+12/17/19,2019,12,152257,Female,36.0,Single,Nebraska,Platinum,self-employed,Other,0.0,947.09
+12/17/19,2019,12,152258,Male,51.0,Single,Arkansas,Platinum,Unemployment,PayPal,1.0,482.68
+12/18/19,2019,12,152260,Female,51.0,Single,Nevada,Silver,self-employed,PayPal,0.0,2733.8
+12/18/19,2019,12,152261,Female,58.0,Married,Illinois,Silver,workers,Other,1.0,1679.62
+12/19/19,2019,12,152262,Female,22.0,Married,South Dakota,Basic,self-employed,Card,1.0,1793.22
+12/20/19,2019,12,152263,Male,60.0,Married,Vermont,Silver,Employees,PayPal,1.0,26.55
+12/21/19,2019,12,152264,Male,20.0,Single,Louisiana,Platinum,Unemployment,PayPal,0.0,1158.67
+12/21/19,2019,12,152265,Male,55.0,Married,South Carolina,Basic,Employees,PayPal,1.0,1274.62
+12/21/19,2019,12,152266,Female,69.0,Married,Ohio,Basic,Employees,PayPal,0.0,2437.74
+12/21/19,2019,12,152267,Male,64.0,Married,Maryland,Platinum,Employees,Card,0.0,2981.36
+12/22/19,2019,12,152268,Male,73.0,Married,Idaho,Basic,Employees,Card,0.0,427.54
+12/22/19,2019,12,152269,Male,46.0,Married,North Dakota,Platinum,workers,Other,0.0,2830.43
+12/22/19,2019,12,152270,Male,78.0,Single,Massachusetts,Missing,Employees,Other,1.0,2662.19
+12/23/19,2019,12,152271,Female,22.0,Single,Indiana,Platinum,workers,Card,1.0,30.22
+12/24/19,2019,12,152272,Female,65.0,Married,Montana,Platinum,workers,PayPal,0.0,2903.6
+12/24/19,2019,12,152273,Male,37.0,Married,Iowa,Basic,Employees,PayPal,0.0,717.22
+12/25/19,2019,12,152275,Female,68.0,Single,Alaska,Missing,Employees,Other,0.0,664.72
+12/25/19,2019,12,152277,Female,50.0,Single,Rhode Island,Platinum,Unemployment,Other,0.0,1372.74
+12/26/19,2019,12,152279,Male,49.0,Married,Connecticut,Platinum,workers,PayPal,1.0,1469.28
+12/26/19,2019,12,152281,Male,53.0,Single,Iowa,Platinum,Employees,PayPal,1.0,1898.51
+12/26/19,2019,12,152282,Female,46.0,Married,Maryland,Basic,Employees,Card,1.0,2508.04
+12/27/19,2019,12,152283,Female,50.0,Single,Wyoming,Basic,self-employed,Card,0.0,1823.93
+12/27/19,2019,12,152284,Female,62.0,Married,Montana,Basic,workers,Other,1.0,1435.92
+12/27/19,2019,12,152285,Female,59.0,Married,Alabama,Platinum,workers,Card,1.0,2747.99
+12/27/19,2019,12,152286,Male,55.0,Married,Louisiana,Basic,workers,Card,0.0,577.32
+12/29/19,2019,12,152288,Female,56.0,Single,New Jersey,Silver,Unemployment,PayPal,0.0,2780.61
+12/29/19,2019,12,152289,Female,56.0,Single,Louisiana,Basic,workers,Card,1.0,1980.54
+12/29/19,2019,12,152290,Female,78.0,Married,Florida,Silver,Employees,Card,0.0,2446.79
+12/30/19,2019,12,152291,Male,48.0,Married,Nebraska,Basic,Employees,Other,0.0,34.88
+12/31/19,2019,12,152292,Male,66.0,Married,West Virginia,Basic,Employees,Other,1.0,294.43
+12/31/19,2019,12,152293,Female,24.0,Married,Rhode Island,Basic,Employees,Card,1.0,2979.76
+01/01/20,2020,01,152294,Male,34.0,Married,Washington,Silver,Employees,PayPal,1.0,794.29
+01/01/20,2020,01,152295,Male,68.0,Married,New Jersey,Gold,Unemployment,Other,1.0,2458.89
+01/01/20,2020,01,152296,Female,51.0,Married,Rhode Island,Basic,Employees,Card,1.0,1941.55
+01/01/20,2020,01,152297,Female,73.0,Married,Alabama,Silver,self-employed,Other,0.0,851.25
+01/01/20,2020,01,152298,Female,75.0,Married,North Dakota,Basic,self-employed,PayPal,1.0,2820.05
+01/01/20,2020,01,152299,Female,63.0,Single,Kentucky,Missing,Employees,PayPal,0.0,2569.93
+01/03/20,2020,01,152302,Male,46.0,Married,Maine,Basic,workers,PayPal,0.0,790.74
+01/03/20,2020,01,152303,Female,21.0,Married,South Dakota,Platinum,self-employed,Card,0.0,2884.04
+01/03/20,2020,01,152304,Female,35.0,Single,Vermont,Basic,Employees,Card,1.0,2707.55
+01/03/20,2020,01,152305,Male,53.0,Single,California,Platinum,Employees,PayPal,1.0,1108.32
+01/04/20,2020,01,152306,Male,27.0,Married,Oklahoma,Platinum,workers,Card,0.0,175.7
+01/04/20,2020,01,152307,Male,76.0,Married,Washington,Basic,Employees,Other,1.0,2556.55
+01/05/20,2020,01,152309,Female,44.0,Single,Arizona,Basic,Unemployment,Card,0.0,2476.4
+01/05/20,2020,01,152310,Female,35.0,Married,Colorado,Gold,self-employed,PayPal,1.0,2513.16
+01/05/20,2020,01,152311,Male,35.0,Married,West Virginia,Silver,workers,Other,1.0,2987.96
+01/06/20,2020,01,152312,Female,26.0,Single,Georgia,Basic,Employees,PayPal,1.0,542.38
+01/06/20,2020,01,152313,Female,75.0,Married,Georgia,Basic,Employees,Other,1.0,441.12
+01/06/20,2020,01,152314,Female,18.0,Single,Ohio,Missing,Employees,PayPal,1.0,321.63
+01/06/20,2020,01,152315,Male,78.0,Single,West Virginia,Basic,workers,Other,0.0,2429.9
+01/06/20,2020,01,152316,Male,20.0,Single,Virginia,Basic,self-employed,PayPal,1.0,2616.98
+01/06/20,2020,01,152318,Female,22.0,Married,Idaho,Basic,workers,Other,1.0,2954.96
+01/07/20,2020,01,152319,Female,41.0,Married,New Mexico,Platinum,workers,Other,1.0,2612.81
+01/07/20,2020,01,152320,Male,70.0,Single,Maryland,Basic,Employees,Card,0.0,2961.06
+01/07/20,2020,01,152322,Female,78.0,Single,Missouri,Basic,workers,PayPal,0.0,1407.33
+01/07/20,2020,01,152323,Male,29.0,Married,Colorado,Basic,self-employed,Other,1.0,2693.76
+01/08/20,2020,01,152324,Male,58.0,Married,Minnesota,Platinum,Employees,Other,1.0,1215.66
+01/08/20,2020,01,152325,Male,65.0,Single,New York,Basic,Employees,PayPal,1.0,1584.5
+01/08/20,2020,01,152326,Female,35.0,Single,Maine,Basic,workers,PayPal,1.0,978.26
+01/09/20,2020,01,152327,Female,17.0,Married,Rhode Island,Platinum,self-employed,Other,0.0,1907.39
+01/09/20,2020,01,152328,Male,27.0,Single,Nebraska,Platinum,Employees,Other,1.0,1020.47
+01/09/20,2020,01,152329,Female,67.0,Single,Missouri,Basic,Employees,Card,1.0,1988.96
+01/09/20,2020,01,152331,Male,47.0,Married,Georgia,Platinum,workers,PayPal,1.0,840.32
+01/10/20,2020,01,152334,Male,68.0,Married,Missouri,Gold,Employees,PayPal,1.0,2409.45
+01/10/20,2020,01,152336,Male,44.0,Married,New York,Basic,workers,PayPal,1.0,2511.17
+01/10/20,2020,01,152337,Female,48.0,Single,Illinois,Missing,Unemployment,Other,0.0,1766.96
+01/10/20,2020,01,152339,Male,55.0,Married,Minnesota,Platinum,workers,PayPal,0.0,1812.71
+01/11/20,2020,01,152340,Male,71.0,Single,California,Missing,Unemployment,PayPal,1.0,458.09
+01/11/20,2020,01,152341,Male,18.0,Married,Tennessee,Basic,self-employed,PayPal,0.0,212.17
+01/11/20,2020,01,152342,Female,67.0,Single,Georgia,Basic,self-employed,PayPal,1.0,1728.48
+01/12/20,2020,01,152343,Male,66.0,Married,Colorado,Missing,Employees,PayPal,0.0,2642.99
+01/12/20,2020,01,152344,Male,48.0,Married,Mississippi,Platinum,Employees,PayPal,1.0,1068.04
+01/12/20,2020,01,152345,Female,25.0,Married,Nebraska,Basic,workers,PayPal,0.0,1735.07
+01/12/20,2020,01,152346,Female,76.0,Married,Pennsylvania,Basic,Employees,PayPal,0.0,1501.44
+01/13/20,2020,01,152347,Female,39.0,Married,Indiana,Platinum,workers,PayPal,1.0,1766.51
+01/13/20,2020,01,152348,Male,56.0,Single,Michigan,Basic,workers,Card,1.0,345.89
+01/13/20,2020,01,152350,Female,68.0,Married,Hawaii,Platinum,Employees,PayPal,0.0,1739.24
+01/13/20,2020,01,152351,Male,60.0,Single,Nevada,Missing,workers,PayPal,1.0,1473.73
+01/13/20,2020,01,152352,Female,73.0,Married,Tennessee,Silver,workers,PayPal,1.0,1886.15
+01/14/20,2020,01,152353,Male,75.0,Married,Washington,Basic,Employees,Card,0.0,1540.3
+01/14/20,2020,01,152354,Female,43.0,Married,Texas,Platinum,Employees,PayPal,0.0,1239.5
+01/16/20,2020,01,152357,Male,78.0,Married,California,Missing,Employees,Other,1.0,150.76
+01/17/20,2020,01,152359,Female,65.0,Married,Wisconsin,Basic,workers,PayPal,0.0,1178.68
+01/17/20,2020,01,152360,Female,58.0,Single,Oklahoma,Silver,Employees,PayPal,0.0,2962.48
+01/18/20,2020,01,152362,Male,66.0,Married,South Dakota,Basic,self-employed,PayPal,0.0,2489.81
+01/18/20,2020,01,152363,Male,25.0,Single,Arizona,Silver,Employees,PayPal,0.0,2942.85
+01/18/20,2020,01,152364,Female,44.0,Single,Michigan,Basic,Employees,Other,0.0,1968.96
+01/18/20,2020,01,152365,Female,30.0,Single,Michigan,Basic,self-employed,PayPal,0.0,2985.7
+01/18/20,2020,01,152366,Female,71.0,Single,Delaware,Basic,Employees,PayPal,0.0,14.42
+01/19/20,2020,01,152367,Female,21.0,Single,Louisiana,Basic,Unemployment,PayPal,1.0,2019.49
+01/19/20,2020,01,152368,Male,62.0,Married,Iowa,Basic,self-employed,PayPal,1.0,784.89
+01/19/20,2020,01,152369,Female,32.0,Married,West Virginia,Basic,Unemployment,Card,1.0,1248.69
+01/19/20,2020,01,152370,Female,51.0,Single,Florida,Basic,workers,Other,1.0,544.83
+01/19/20,2020,01,152371,Female,21.0,Married,New Jersey,Silver,Employees,PayPal,1.0,2889.7
+01/19/20,2020,01,152372,Female,56.0,Married,Delaware,Gold,Employees,Card,1.0,709.16
+01/20/20,2020,01,152373,Male,67.0,Single,Kentucky,Gold,self-employed,PayPal,1.0,1495.9
+01/21/20,2020,01,152374,Female,60.0,Married,Iowa,Basic,workers,Card,0.0,1676.4
+01/21/20,2020,01,152375,Female,20.0,Single,Wisconsin,Missing,Employees,Card,0.0,2034.02
+01/22/20,2020,01,152376,Male,38.0,Single,Florida,Basic,workers,Card,0.0,1021.21
+01/22/20,2020,01,152377,Male,69.0,Married,Georgia,Platinum,workers,PayPal,1.0,2478.1
+01/23/20,2020,01,152378,Male,47.0,Married,New York,Platinum,Employees,PayPal,1.0,929.97
+01/23/20,2020,01,152379,Male,28.0,Married,Indiana,Silver,self-employed,PayPal,0.0,1465.07
+01/23/20,2020,01,152380,Female,20.0,Married,Arizona,Missing,workers,PayPal,1.0,2722.23
+01/23/20,2020,01,152381,Male,67.0,Single,Utah,Silver,Employees,PayPal,1.0,2528.22
+01/23/20,2020,01,152382,Male,28.0,Married,Vermont,Basic,Employees,PayPal,0.0,1758.32
+01/25/20,2020,01,152384,Male,19.0,Married,Wisconsin,Basic,workers,Card,1.0,496.36
+01/25/20,2020,01,152385,Female,17.0,Married,North Dakota,Basic,workers,Other,0.0,951.22
+01/25/20,2020,01,152386,Female,77.0,Single,South Carolina,Basic,Employees,PayPal,1.0,287.21
+01/25/20,2020,01,152388,Female,48.0,Single,Nebraska,Missing,Employees,PayPal,0.0,2056.77
+01/25/20,2020,01,152389,Female,45.0,Married,Illinois,Silver,workers,PayPal,1.0,25.18
+01/25/20,2020,01,152390,Female,71.0,Single,California,Basic,workers,Card,1.0,2090.91
+01/27/20,2020,01,152391,Male,57.0,Married,California,Missing,Employees,Other,1.0,1146.3
+01/27/20,2020,01,152392,Male,27.0,Single,Minnesota,Basic,Employees,PayPal,1.0,1297.99
+01/28/20,2020,01,152393,Female,39.0,Single,Oklahoma,Basic,workers,Card,1.0,553.6
+01/28/20,2020,01,152394,Female,20.0,Married,Utah,Gold,Employees,PayPal,0.0,2733.41
+01/28/20,2020,01,152395,Male,70.0,Single,West Virginia,Basic,workers,Card,0.0,300.28
+01/28/20,2020,01,152396,Female,30.0,Married,Maine,Gold,workers,Card,0.0,631.84
+01/29/20,2020,01,152397,Male,60.0,Single,Missouri,Basic,self-employed,Other,1.0,1551.07
+01/29/20,2020,01,152398,Female,54.0,Married,Wyoming,Basic,Employees,Other,1.0,2674.77
+01/30/20,2020,01,152400,Female,76.0,Married,Alaska,Basic,Employees,PayPal,0.0,1207.82
+01/30/20,2020,01,152401,Female,49.0,Married,Pennsylvania,Platinum,Unemployment,Card,0.0,601.43
+01/30/20,2020,01,152402,Male,66.0,Single,Hawaii,Basic,Employees,PayPal,0.0,1330.79
+01/30/20,2020,01,152403,Female,49.0,Married,South Dakota,Gold,Employees,PayPal,1.0,999.93
+01/30/20,2020,01,152404,Female,37.0,Single,Colorado,Missing,workers,PayPal,1.0,118.48
+01/30/20,2020,01,152405,Male,74.0,Married,Louisiana,Basic,workers,Other,1.0,933.78
+01/31/20,2020,01,152406,Male,77.0,Married,Georgia,Missing,workers,Card,0.0,1270.63
+01/31/20,2020,01,152407,Male,39.0,Married,Louisiana,Missing,Employees,PayPal,0.0,1396.59
+01/31/20,2020,01,152408,Female,42.0,Married,Montana,Gold,Employees,PayPal,1.0,915.11
+01/31/20,2020,01,152409,Female,41.0,Single,Ohio,Basic,workers,Card,0.0,1098.07
+02/01/20,2020,02,152411,Male,41.0,Single,Massachusetts,Basic,Employees,Other,1.0,1958.74
+02/01/20,2020,02,152412,Female,15.0,Married,Illinois,Silver,workers,Card,1.0,1228.67
+02/01/20,2020,02,152414,Female,16.0,Married,Utah,Platinum,self-employed,Other,0.0,2457.09
+02/02/20,2020,02,152416,Male,68.0,Single,Massachusetts,Basic,self-employed,Other,1.0,2969.59
+02/03/20,2020,02,152417,Female,25.0,Married,Georgia,Silver,Employees,PayPal,1.0,2626.08
+02/03/20,2020,02,152418,Female,57.0,Single,South Carolina,Missing,workers,Card,1.0,1438.69
+02/05/20,2020,02,152419,Female,67.0,Married,New Hampshire,Silver,workers,Card,1.0,1659.67
+02/05/20,2020,02,152420,Male,75.0,Married,Washington,Platinum,workers,PayPal,1.0,1747.54
+02/06/20,2020,02,152423,Male,51.0,Married,Ohio,Gold,workers,Other,0.0,295.67
+02/06/20,2020,02,152424,Female,39.0,Married,Ohio,Missing,self-employed,Card,0.0,1659.23
+02/08/20,2020,02,152425,Male,30.0,Married,Florida,Basic,workers,Other,1.0,1056.1
+02/08/20,2020,02,152426,Female,70.0,Married,Rhode Island,Silver,workers,Other,0.0,988.82
+02/09/20,2020,02,152427,Male,70.0,Married,Florida,Basic,self-employed,PayPal,1.0,153.01
+02/09/20,2020,02,152428,Female,21.0,Single,Georgia,Platinum,workers,PayPal,0.0,438.2
+02/10/20,2020,02,152429,Female,62.0,Married,Tennessee,Basic,Unemployment,Other,1.0,1728.43
+02/10/20,2020,02,152430,Male,44.0,Single,Michigan,Silver,self-employed,PayPal,0.0,1590.63
+02/11/20,2020,02,152433,Female,51.0,Married,Montana,Basic,Employees,Other,0.0,2582.89
+02/12/20,2020,02,152434,Female,54.0,Married,Alaska,Basic,Unemployment,Card,1.0,1118.41
+02/13/20,2020,02,152436,Male,50.0,Single,New Jersey,Silver,self-employed,PayPal,0.0,454.37
+02/14/20,2020,02,152437,Female,44.0,Single,Florida,Basic,workers,PayPal,0.0,1778.33
+02/14/20,2020,02,152438,Male,42.0,Married,Nebraska,Basic,workers,Other,1.0,1613.31
+02/15/20,2020,02,152439,Male,41.0,Married,West Virginia,Platinum,workers,Other,1.0,2501.89
+02/15/20,2020,02,152441,Female,78.0,Married,North Dakota,Basic,Employees,Card,0.0,99.55
+02/16/20,2020,02,152442,Female,16.0,Married,Nevada,Platinum,workers,Card,1.0,2988.13
+02/16/20,2020,02,152443,Female,49.0,Single,Missouri,Basic,Unemployment,Card,1.0,1600.78
+02/16/20,2020,02,152444,Female,62.0,Married,Idaho,Silver,self-employed,Other,0.0,2481.34
+02/16/20,2020,02,152445,Male,65.0,Single,Minnesota,Basic,workers,PayPal,1.0,567.18
+02/16/20,2020,02,152447,Female,47.0,Single,Indiana,Basic,Employees,Card,1.0,567.78
+02/16/20,2020,02,152448,Male,22.0,Married,Arizona,Basic,Employees,Other,1.0,1021.49
+02/17/20,2020,02,152449,Female,58.0,Single,Maine,Basic,workers,Other,1.0,1771.53
+02/18/20,2020,02,152451,Female,72.0,Single,New Mexico,Missing,workers,Other,0.0,2402.44
+02/18/20,2020,02,152452,Male,22.0,Single,Colorado,Platinum,Employees,PayPal,1.0,2789.94
+02/18/20,2020,02,152453,Male,21.0,Married,Delaware,Basic,workers,Card,0.0,1167.4
+02/18/20,2020,02,152454,Male,62.0,Single,North Carolina,Basic,Unemployment,Card,1.0,1757.1
+02/19/20,2020,02,152455,Female,77.0,Married,Washington,Silver,workers,PayPal,1.0,881.16
+02/19/20,2020,02,152456,Female,62.0,Married,Massachusetts,Basic,Employees,PayPal,1.0,2640.97
+02/19/20,2020,02,152457,Male,48.0,Married,Oklahoma,Gold,Employees,Card,1.0,1522.01
+02/19/20,2020,02,152458,Female,22.0,Married,Maine,Basic,Unemployment,PayPal,1.0,1405.08
+02/20/20,2020,02,152459,Male,78.0,Single,Virginia,Gold,Employees,Card,0.0,1764.55
+02/20/20,2020,02,152460,Male,75.0,Married,Nebraska,Basic,workers,Other,1.0,820.94
+02/20/20,2020,02,152461,Male,70.0,Married,Rhode Island,Platinum,Employees,Other,1.0,2772.92
+02/20/20,2020,02,152462,Male,77.0,Married,Kentucky,Silver,Employees,Other,1.0,583.11
+02/21/20,2020,02,152463,Female,58.0,Single,Illinois,Basic,workers,PayPal,1.0,405.51
+02/21/20,2020,02,152464,Female,44.0,Married,Iowa,Basic,self-employed,PayPal,1.0,2903.28
+02/21/20,2020,02,152465,Female,71.0,Single,South Dakota,Gold,Employees,PayPal,0.0,2706.14
+02/21/20,2020,02,152466,Female,15.0,Married,Minnesota,Basic,Unemployment,PayPal,1.0,330.61
+02/22/20,2020,02,152468,Female,29.0,Single,Florida,Platinum,Employees,Other,0.0,781.71
+02/23/20,2020,02,152469,Female,61.0,Married,Minnesota,Missing,Employees,PayPal,1.0,2919.78
+02/23/20,2020,02,152470,Male,50.0,Married,Indiana,Basic,workers,Card,1.0,1829.21
+02/24/20,2020,02,152471,Male,67.0,Single,Arkansas,Basic,Unemployment,PayPal,0.0,166.09
+02/24/20,2020,02,152472,Male,66.0,Married,Wisconsin,Basic,Employees,Other,0.0,1272.77
+02/24/20,2020,02,152473,Male,47.0,Married,Pennsylvania,Platinum,Employees,PayPal,0.0,2633.65
+02/24/20,2020,02,152474,Male,16.0,Married,Tennessee,Basic,Employees,PayPal,0.0,795.97
+02/24/20,2020,02,152475,Female,38.0,Single,Ohio,Basic,Employees,Other,0.0,1060.68
+02/25/20,2020,02,152476,Female,62.0,Married,New Mexico,Platinum,Employees,PayPal,1.0,1401.41
+02/25/20,2020,02,152477,Male,40.0,Single,Georgia,Silver,Employees,PayPal,1.0,966.13
+02/26/20,2020,02,152479,Female,22.0,Married,Mississippi,Basic,workers,Other,1.0,1624.2
+02/26/20,2020,02,152480,Female,36.0,Single,New Mexico,Gold,self-employed,Other,0.0,203.83
+02/26/20,2020,02,152481,Male,53.0,Single,Michigan,Platinum,Employees,PayPal,1.0,1793.15
+02/26/20,2020,02,152483,Female,29.0,Single,Oregon,Missing,self-employed,Other,0.0,2580.54
+02/27/20,2020,02,152484,Female,78.0,Married,Kentucky,Basic,Employees,PayPal,1.0,818.33
+02/28/20,2020,02,152485,Male,53.0,Single,New Mexico,Basic,Employees,PayPal,1.0,2948.12
+02/28/20,2020,02,152486,Female,26.0,Single,New Jersey,Basic,Employees,Card,0.0,131.54
+02/28/20,2020,02,152487,Male,43.0,Married,Idaho,Silver,Employees,Card,1.0,2902.45
+02/28/20,2020,02,152488,Female,71.0,Single,Nevada,Platinum,Employees,PayPal,1.0,1301.11
+02/28/20,2020,02,152489,Female,75.0,Married,Maryland,Platinum,Employees,PayPal,1.0,2740.01
+02/29/20,2020,02,152490,Male,38.0,Single,Michigan,Silver,workers,PayPal,1.0,2813.89
+03/02/20,2020,03,152491,Male,60.0,Single,Oregon,Gold,workers,PayPal,0.0,1142.85
+03/02/20,2020,03,152492,Male,26.0,Married,Maryland,Silver,Employees,PayPal,1.0,8.67
+03/03/20,2020,03,152493,Male,76.0,Single,Maine,Basic,self-employed,PayPal,0.0,2757.85
+03/04/20,2020,03,152494,Male,32.0,Single,Kentucky,Silver,workers,PayPal,1.0,2750.32
+03/04/20,2020,03,152495,Female,51.0,Married,Alaska,Basic,Employees,Other,1.0,2594.75
+03/05/20,2020,03,152499,Female,63.0,Single,Oregon,Basic,workers,PayPal,1.0,1462.64
+03/06/20,2020,03,152500,Female,56.0,Married,Florida,Basic,Unemployment,Other,1.0,2741.78
+03/06/20,2020,03,152501,Female,72.0,Single,Arizona,Gold,Employees,Other,1.0,2906.76
+03/07/20,2020,03,152502,Male,51.0,Single,Idaho,Basic,Employees,PayPal,1.0,1100.58
+03/07/20,2020,03,152503,Female,58.0,Married,Massachusetts,Basic,Employees,PayPal,0.0,290.5
+03/07/20,2020,03,152504,Male,19.0,Single,Minnesota,Silver,workers,Other,1.0,1762.99
+03/07/20,2020,03,152505,Male,59.0,Married,New Hampshire,Silver,self-employed,PayPal,1.0,1177.86
+03/07/20,2020,03,152506,Female,43.0,Single,Pennsylvania,Silver,Employees,PayPal,1.0,501.28
+03/08/20,2020,03,152507,Female,58.0,Single,New Jersey,Platinum,self-employed,Card,1.0,508.39
+03/08/20,2020,03,152508,Male,37.0,Married,Rhode Island,Silver,Unemployment,Card,0.0,2480.31
+03/08/20,2020,03,152509,Male,77.0,Single,Texas,Silver,workers,Other,1.0,332.43
+03/09/20,2020,03,152510,Female,40.0,Married,Delaware,Basic,Employees,PayPal,1.0,902.85
+03/09/20,2020,03,152511,Female,37.0,Married,South Carolina,Silver,workers,PayPal,1.0,1383.85
+03/10/20,2020,03,152514,Female,39.0,Married,Indiana,Silver,self-employed,Other,1.0,810.56
+03/10/20,2020,03,152515,Female,27.0,Married,Kentucky,Silver,workers,Other,0.0,2957.04
+03/11/20,2020,03,152516,Female,19.0,Married,Utah,Gold,Unemployment,Card,0.0,1101.86
+03/11/20,2020,03,152517,Male,65.0,Married,California,Basic,Unemployment,PayPal,1.0,884.14
+03/13/20,2020,03,152519,Male,19.0,Married,Wisconsin,Platinum,workers,PayPal,0.0,719.49
+03/13/20,2020,03,152520,Male,16.0,Married,Mississippi,Platinum,workers,Other,1.0,1222.43
+03/13/20,2020,03,152521,Female,37.0,Married,Nevada,Silver,self-employed,Other,0.0,507.25
+03/13/20,2020,03,152522,Female,30.0,Single,Texas,Missing,Employees,PayPal,0.0,2457.09
+03/14/20,2020,03,152523,Female,34.0,Married,Kentucky,Basic,Employees,Card,0.0,2015.07
+03/17/20,2020,03,152526,Male,17.0,Married,Wisconsin,Platinum,self-employed,Card,0.0,411.33
+03/17/20,2020,03,152527,Male,60.0,Married,Georgia,Basic,self-employed,PayPal,1.0,2712.47
+03/17/20,2020,03,152528,Male,76.0,Married,North Carolina,Platinum,workers,PayPal,0.0,1133.76
+03/17/20,2020,03,152529,Male,43.0,Single,New Mexico,Platinum,self-employed,PayPal,1.0,828.36
+03/18/20,2020,03,152530,Male,19.0,Married,Georgia,Silver,self-employed,Other,1.0,1035.28
+03/18/20,2020,03,152531,Female,68.0,Single,Connecticut,Missing,Employees,Other,0.0,2420.7
+03/18/20,2020,03,152532,Male,54.0,Married,Florida,Basic,Employees,PayPal,1.0,1012.36
+03/20/20,2020,03,152534,Female,72.0,Single,Tennessee,Missing,self-employed,PayPal,0.0,238.21
+03/20/20,2020,03,152535,Male,32.0,Single,Arkansas,Basic,Unemployment,PayPal,0.0,2546.71
+03/20/20,2020,03,152536,Female,34.0,Single,Missouri,Platinum,Unemployment,Other,0.0,2655.2
+03/20/20,2020,03,152537,Female,52.0,Married,Ohio,Basic,Employees,Card,1.0,2772.71
+03/21/20,2020,03,152538,Male,38.0,Married,Washington,Gold,self-employed,PayPal,1.0,1714.81
+03/23/20,2020,03,152541,Female,28.0,Single,Illinois,Platinum,Employees,Card,1.0,1105.48
+03/23/20,2020,03,152542,Female,50.0,Single,New Hampshire,Missing,self-employed,PayPal,0.0,2541.8
+03/23/20,2020,03,152543,Female,47.0,Married,Tennessee,Silver,Employees,Card,1.0,1735.23
+03/23/20,2020,03,152544,Female,32.0,Married,Kentucky,Basic,self-employed,PayPal,0.0,2940.55
+03/24/20,2020,03,152545,Female,68.0,Single,Missouri,Missing,Unemployment,Card,1.0,2401.06
+03/24/20,2020,03,152546,Male,55.0,Married,Arizona,Basic,Unemployment,Card,0.0,1855.15
+03/24/20,2020,03,152547,Male,25.0,Single,West Virginia,Basic,Employees,PayPal,1.0,450.85
+03/24/20,2020,03,152548,Female,21.0,Single,Massachusetts,Silver,workers,PayPal,1.0,283.61
+03/24/20,2020,03,152549,Female,32.0,Married,Florida,Basic,Unemployment,Card,1.0,200.88
+03/24/20,2020,03,152550,Female,71.0,Single,Kentucky,Silver,self-employed,PayPal,0.0,1364.29
+03/25/20,2020,03,152551,Female,77.0,Single,Georgia,Platinum,workers,Other,1.0,1844.08
+03/25/20,2020,03,152553,Male,47.0,Married,North Carolina,Basic,workers,Card,0.0,1877.79
+03/26/20,2020,03,152554,Female,49.0,Single,Connecticut,Basic,Employees,Card,1.0,485.26
+03/26/20,2020,03,152555,Female,61.0,Single,Maine,Basic,workers,Other,1.0,250.49
+03/27/20,2020,03,152556,Female,77.0,Single,Texas,Basic,Employees,Card,1.0,1838.09
+03/27/20,2020,03,152557,Female,17.0,Single,Alabama,Platinum,workers,Other,1.0,1578.58
+03/27/20,2020,03,152558,Male,77.0,Married,Colorado,Missing,self-employed,Card,0.0,2826.56
+03/27/20,2020,03,152559,Female,19.0,Married,Washington,Silver,Employees,Other,0.0,2730.17
+03/30/20,2020,03,152562,Female,59.0,Married,Wisconsin,Basic,workers,PayPal,0.0,123.42
+03/31/20,2020,03,152563,Male,45.0,Married,Kansas,Basic,workers,Card,1.0,2534.05
+03/31/20,2020,03,152564,Female,36.0,Single,Washington,Basic,workers,Card,1.0,590.22
+03/31/20,2020,03,152565,Male,45.0,Married,Illinois,Basic,workers,Other,0.0,1364.74
+03/31/20,2020,03,152566,Male,58.0,Married,Maine,Basic,Employees,PayPal,1.0,76.54
+03/31/20,2020,03,152567,Male,77.0,Married,Virginia,Gold,workers,PayPal,1.0,426.6
+04/01/20,2020,04,152568,Male,55.0,Married,New York,Basic,self-employed,PayPal,0.0,1112.58
+04/01/20,2020,04,152569,Female,48.0,Single,Minnesota,Basic,workers,Card,1.0,1689.39
+04/01/20,2020,04,152570,Female,68.0,Married,Delaware,Basic,Employees,PayPal,0.0,228.12
+04/02/20,2020,04,152571,Female,24.0,Single,West Virginia,Basic,Employees,Card,1.0,1141.44
+04/03/20,2020,04,152572,Female,49.0,Single,Colorado,Gold,Employees,Other,1.0,840.99
+04/03/20,2020,04,152573,Female,66.0,Married,Texas,Platinum,workers,PayPal,0.0,1152.59
+04/04/20,2020,04,152574,Female,32.0,Married,Hawaii,Basic,Employees,Card,1.0,857.79
+04/04/20,2020,04,152575,Male,15.0,Married,Illinois,Platinum,self-employed,Card,1.0,2417.48
+04/04/20,2020,04,152576,Female,26.0,Married,South Dakota,Basic,Employees,PayPal,0.0,256.89
+04/05/20,2020,04,152577,Male,16.0,Married,Wyoming,Gold,self-employed,Card,0.0,714.17
+04/05/20,2020,04,152579,Female,71.0,Married,Nevada,Platinum,Employees,PayPal,0.0,1561.04
+04/06/20,2020,04,152581,Female,18.0,Married,Arkansas,Missing,Employees,PayPal,0.0,754.73
+04/06/20,2020,04,152582,Male,41.0,Married,Pennsylvania,Basic,self-employed,Other,1.0,2865.28
+04/07/20,2020,04,152584,Female,16.0,Single,Idaho,Basic,workers,Other,0.0,1794.19
+04/08/20,2020,04,152586,Male,69.0,Married,Indiana,Basic,Employees,PayPal,0.0,1898.75
+04/09/20,2020,04,152587,Female,33.0,Single,Kentucky,Basic,Unemployment,Card,0.0,669.93
+04/09/20,2020,04,152588,Female,36.0,Single,California,Basic,self-employed,PayPal,1.0,393.94
+04/09/20,2020,04,152589,Female,19.0,Single,Montana,Gold,Employees,PayPal,1.0,214.11
+04/11/20,2020,04,152592,Male,41.0,Single,Washington,Basic,workers,Other,0.0,714.35
+04/12/20,2020,04,152594,Female,49.0,Married,Louisiana,Platinum,Employees,PayPal,0.0,2846.0
+04/13/20,2020,04,152596,Male,60.0,Married,Oregon,Basic,Employees,Other,1.0,2491.1
+04/13/20,2020,04,152597,Male,51.0,Single,Louisiana,Gold,self-employed,PayPal,1.0,1493.06
+04/13/20,2020,04,152598,Male,56.0,Married,Hawaii,Silver,workers,PayPal,1.0,1239.01
+04/13/20,2020,04,152599,Female,28.0,Married,Massachusetts,Basic,Employees,Card,0.0,1398.36
+04/14/20,2020,04,152601,Male,74.0,Married,Kansas,Platinum,self-employed,Other,0.0,473.24
+04/14/20,2020,04,152602,Male,28.0,Married,Washington,Silver,Unemployment,Card,1.0,292.45
+04/14/20,2020,04,152603,Male,58.0,Single,Idaho,Basic,self-employed,Other,1.0,741.93
+04/15/20,2020,04,152604,Male,20.0,Single,Wyoming,Basic,workers,PayPal,1.0,2582.51
+04/15/20,2020,04,152605,Female,21.0,Single,California,Silver,workers,Other,1.0,977.61
+04/15/20,2020,04,152606,Female,34.0,Married,Massachusetts,Basic,Employees,PayPal,0.0,247.8
+04/16/20,2020,04,152607,Female,57.0,Married,Iowa,Basic,workers,Other,1.0,402.66
+04/16/20,2020,04,152608,Female,35.0,Single,Colorado,Gold,Employees,PayPal,1.0,395.99
+04/17/20,2020,04,152609,Female,58.0,Married,Colorado,Basic,workers,PayPal,1.0,2903.98
+04/17/20,2020,04,152610,Male,37.0,Single,Illinois,Platinum,self-employed,Card,1.0,1583.01
+04/17/20,2020,04,152611,Female,51.0,Married,New Jersey,Silver,workers,PayPal,0.0,1665.44
+04/18/20,2020,04,152612,Female,73.0,Married,Minnesota,Missing,self-employed,PayPal,1.0,2774.5
+04/18/20,2020,04,152613,Female,42.0,Married,Oregon,Silver,Unemployment,Card,1.0,2659.77
+04/19/20,2020,04,152615,Male,50.0,Married,New Hampshire,Gold,self-employed,PayPal,1.0,586.68
+04/19/20,2020,04,152617,Male,71.0,Married,Mississippi,Basic,Employees,Other,1.0,810.74
+04/20/20,2020,04,152618,Female,42.0,Married,Illinois,Platinum,workers,Card,1.0,557.7
+04/20/20,2020,04,152619,Male,75.0,Married,New York,Platinum,workers,PayPal,1.0,815.59
+04/20/20,2020,04,152620,Female,29.0,Single,New York,Missing,self-employed,PayPal,0.0,1565.0
+04/21/20,2020,04,152621,Male,38.0,Married,New Mexico,Platinum,Employees,Card,1.0,2469.32
+04/21/20,2020,04,152622,Female,48.0,Single,Illinois,Basic,Employees,Other,0.0,2790.76
+04/21/20,2020,04,152623,Male,61.0,Married,North Dakota,Basic,workers,PayPal,1.0,1198.33
+04/21/20,2020,04,152624,Male,37.0,Married,North Carolina,Basic,Employees,PayPal,1.0,1847.18
+04/22/20,2020,04,152625,Female,44.0,Single,Arizona,Basic,Employees,Other,1.0,2873.01
+04/24/20,2020,04,152627,Female,33.0,Single,Arkansas,Silver,self-employed,Other,0.0,2721.75
+04/25/20,2020,04,152628,Female,63.0,Single,Minnesota,Basic,self-employed,Card,0.0,2562.56
+04/26/20,2020,04,152629,Female,27.0,Married,Illinois,Platinum,workers,PayPal,0.0,693.59
+04/27/20,2020,04,152630,Female,50.0,Single,Utah,Basic,Employees,Card,0.0,952.25
+04/27/20,2020,04,152631,Male,41.0,Single,California,Basic,Employees,PayPal,0.0,224.65
+04/28/20,2020,04,152632,Female,73.0,Single,Nebraska,Silver,workers,Card,0.0,164.69
+04/28/20,2020,04,152633,Female,53.0,Married,Minnesota,Basic,self-employed,PayPal,0.0,1957.02
+04/29/20,2020,04,152634,Male,55.0,Married,Wyoming,Basic,workers,PayPal,1.0,2976.07
+04/29/20,2020,04,152635,Male,53.0,Married,Delaware,Silver,self-employed,PayPal,0.0,1344.45
+04/29/20,2020,04,152637,Female,55.0,Married,Mississippi,Basic,Employees,Card,1.0,720.13
+04/29/20,2020,04,152638,Male,70.0,Married,South Carolina,Basic,Employees,PayPal,0.0,2793.46
+04/29/20,2020,04,152639,Female,22.0,Single,Arkansas,Gold,self-employed,Card,0.0,242.49
+04/30/20,2020,04,152640,Female,45.0,Single,Connecticut,Platinum,Employees,PayPal,0.0,2511.86
+05/01/20,2020,05,152642,Female,39.0,Married,Hawaii,Gold,Employees,Card,0.0,324.4
+05/01/20,2020,05,152643,Female,27.0,Single,New York,Platinum,workers,PayPal,0.0,386.88
+05/03/20,2020,05,152644,Male,33.0,Single,South Dakota,Basic,workers,Other,0.0,409.17
+05/03/20,2020,05,152645,Female,47.0,Married,Utah,Silver,Employees,PayPal,0.0,147.56
+05/03/20,2020,05,152646,Male,21.0,Single,Mississippi,Platinum,Unemployment,PayPal,1.0,2921.43
+05/03/20,2020,05,152647,Male,61.0,Single,Idaho,Missing,workers,Card,1.0,2677.17
+05/05/20,2020,05,152649,Male,28.0,Married,Pennsylvania,Silver,workers,PayPal,0.0,682.37
+05/05/20,2020,05,152650,Male,64.0,Married,Illinois,Basic,workers,Card,1.0,1183.79
+05/05/20,2020,05,152651,Female,72.0,Married,Rhode Island,Silver,Employees,PayPal,1.0,891.19
+05/05/20,2020,05,152652,Male,17.0,Single,Kentucky,Silver,Unemployment,PayPal,1.0,1809.36
+05/06/20,2020,05,152653,Male,67.0,Married,New Hampshire,Basic,Employees,PayPal,1.0,1838.74
+05/07/20,2020,05,152654,Female,16.0,Married,Massachusetts,Silver,workers,PayPal,1.0,950.46
+05/07/20,2020,05,152655,Female,72.0,Married,Mississippi,Basic,self-employed,PayPal,1.0,348.16
+05/07/20,2020,05,152656,Female,37.0,Married,New York,Basic,Employees,Card,0.0,2003.85
+05/07/20,2020,05,152657,Male,52.0,Married,Kentucky,Platinum,workers,Other,1.0,1040.72
+05/07/20,2020,05,152658,Male,17.0,Married,South Carolina,Gold,Employees,Card,1.0,580.48
+05/08/20,2020,05,152659,Male,27.0,Married,Florida,Gold,self-employed,PayPal,1.0,1877.91
+05/08/20,2020,05,152660,Female,35.0,Single,Connecticut,Platinum,Employees,Other,0.0,1141.54
+05/09/20,2020,05,152661,Male,57.0,Single,North Carolina,Silver,workers,PayPal,0.0,1919.51
+05/10/20,2020,05,152663,Female,33.0,Single,Louisiana,Platinum,Employees,Card,1.0,1859.43
+05/11/20,2020,05,152665,Female,54.0,Married,Delaware,Basic,workers,PayPal,1.0,1826.02
+05/11/20,2020,05,152666,Male,42.0,Single,Kansas,Silver,self-employed,PayPal,1.0,1763.71
+05/12/20,2020,05,152667,Male,59.0,Single,Kentucky,Platinum,workers,Card,1.0,969.93
+05/12/20,2020,05,152668,Female,72.0,Married,Oregon,Missing,Employees,Card,1.0,1113.41
+05/12/20,2020,05,152669,Female,45.0,Married,Wyoming,Platinum,workers,Card,0.0,56.06
+05/13/20,2020,05,152670,Female,76.0,Married,Oregon,Basic,workers,PayPal,0.0,1476.77
+05/13/20,2020,05,152671,Male,22.0,Married,Maine,Basic,self-employed,PayPal,0.0,2648.71
+05/13/20,2020,05,152672,Female,28.0,Married,Alabama,Platinum,self-employed,Other,1.0,1424.7
+05/13/20,2020,05,152674,Male,37.0,Married,Connecticut,Silver,self-employed,PayPal,1.0,2940.37
+05/13/20,2020,05,152675,Female,43.0,Married,Iowa,Silver,workers,Card,1.0,1889.07
+05/14/20,2020,05,152676,Male,16.0,Married,Nevada,Basic,self-employed,Other,1.0,1047.63
+05/14/20,2020,05,152677,Female,62.0,Married,New Hampshire,Basic,self-employed,Other,1.0,1914.37
+05/15/20,2020,05,152679,Female,64.0,Single,North Carolina,Silver,self-employed,PayPal,1.0,1276.36
+05/15/20,2020,05,152680,Female,16.0,Married,Tennessee,Basic,Employees,PayPal,1.0,701.22
+05/15/20,2020,05,152681,Male,71.0,Married,New Mexico,Gold,Unemployment,Other,1.0,540.65
+05/17/20,2020,05,152682,Female,36.0,Single,Texas,Basic,workers,Card,0.0,1943.78
+05/17/20,2020,05,152683,Female,24.0,Married,North Dakota,Basic,workers,Other,0.0,192.45
+05/18/20,2020,05,152685,Female,62.0,Married,Mississippi,Silver,workers,Other,1.0,31.13
+05/18/20,2020,05,152686,Male,37.0,Married,Arkansas,Platinum,Unemployment,PayPal,1.0,1927.09
+05/19/20,2020,05,152687,Male,47.0,Married,New Mexico,Basic,workers,PayPal,1.0,1708.52
+05/19/20,2020,05,152688,Female,21.0,Single,Pennsylvania,Silver,workers,Card,1.0,975.61
+05/19/20,2020,05,152689,Female,71.0,Single,Wyoming,Platinum,Unemployment,Card,1.0,1190.23
+05/19/20,2020,05,152690,Female,21.0,Married,New Mexico,Basic,self-employed,Other,0.0,334.86
+05/19/20,2020,05,152691,Female,32.0,Married,Vermont,Basic,workers,PayPal,0.0,570.48
+05/20/20,2020,05,152692,Male,58.0,Married,Ohio,Basic,self-employed,Other,0.0,1746.89
+05/20/20,2020,05,152693,Female,18.0,Married,Georgia,Basic,workers,Other,1.0,2926.09
+05/20/20,2020,05,152694,Male,71.0,Married,Oregon,Basic,Unemployment,Other,1.0,975.54
+05/22/20,2020,05,152697,Female,59.0,Married,New Jersey,Silver,Employees,Other,1.0,2571.83
+05/23/20,2020,05,152699,Female,55.0,Married,Oregon,Platinum,Unemployment,Card,0.0,114.52
+05/24/20,2020,05,152704,Female,35.0,Married,New Jersey,Basic,self-employed,PayPal,1.0,2561.53
+05/24/20,2020,05,152705,Male,48.0,Married,Minnesota,Missing,Employees,Card,0.0,138.99
+05/25/20,2020,05,152707,Male,50.0,Married,New Hampshire,Gold,self-employed,Card,1.0,1729.95
+05/25/20,2020,05,152708,Female,28.0,Married,Nevada,Gold,self-employed,PayPal,1.0,1056.61
+05/25/20,2020,05,152709,Male,56.0,Married,New York,Basic,Employees,PayPal,1.0,2901.83
+05/25/20,2020,05,152710,Female,56.0,Married,Colorado,Basic,self-employed,Card,1.0,2557.1
+05/25/20,2020,05,152711,Female,71.0,Married,Louisiana,Basic,Employees,PayPal,1.0,1322.31
+05/26/20,2020,05,152712,Male,24.0,Married,Maine,Platinum,Unemployment,PayPal,0.0,244.89
+05/26/20,2020,05,152713,Female,61.0,Single,Hawaii,Basic,Employees,Card,1.0,693.43
+05/27/20,2020,05,152714,Female,27.0,Single,Colorado,Silver,workers,Card,0.0,1185.2
+05/28/20,2020,05,152716,Female,63.0,Single,Pennsylvania,Platinum,self-employed,PayPal,1.0,2409.86
+05/28/20,2020,05,152717,Female,70.0,Married,South Carolina,Missing,Employees,PayPal,1.0,1317.93
+05/29/20,2020,05,152719,Female,53.0,Married,Iowa,Basic,self-employed,PayPal,1.0,2640.96
+05/29/20,2020,05,152720,Female,71.0,Married,Idaho,Basic,Employees,Other,0.0,228.71
+05/29/20,2020,05,152721,Male,31.0,Married,Virginia,Basic,Employees,PayPal,1.0,108.47
+05/30/20,2020,05,152722,Female,73.0,Single,New Jersey,Silver,Employees,PayPal,0.0,1683.58
+05/30/20,2020,05,152723,Female,54.0,Single,Illinois,Basic,workers,Card,1.0,1762.21
+05/30/20,2020,05,152724,Male,63.0,Married,Ohio,Gold,workers,PayPal,1.0,645.51
+05/30/20,2020,05,152725,Female,61.0,Married,Montana,Basic,workers,PayPal,1.0,1755.41
+05/30/20,2020,05,152726,Male,60.0,Single,Delaware,Gold,Employees,PayPal,1.0,55.65
+05/31/20,2020,05,152727,Male,56.0,Single,Connecticut,Silver,workers,PayPal,0.0,1358.84
+05/31/20,2020,05,152728,Female,50.0,Single,New Mexico,Missing,Employees,Other,1.0,1323.49
+05/31/20,2020,05,152729,Female,63.0,Single,Missouri,Basic,self-employed,Other,0.0,2725.43
+06/01/20,2020,06,152730,Female,59.0,Married,Wisconsin,Silver,Employees,Card,0.0,50.83
+06/01/20,2020,06,152731,Male,17.0,Married,Nebraska,Platinum,workers,PayPal,0.0,547.97
+06/02/20,2020,06,152732,Female,76.0,Married,New Jersey,Basic,Unemployment,PayPal,1.0,659.75
+06/02/20,2020,06,152733,Male,63.0,Married,Missouri,Gold,Employees,PayPal,1.0,809.09
+06/03/20,2020,06,152734,Female,68.0,Single,South Dakota,Platinum,Employees,PayPal,1.0,2975.5
+06/03/20,2020,06,152735,Male,19.0,Married,Maine,Missing,workers,Other,0.0,1909.48
+06/03/20,2020,06,152737,Male,56.0,Married,Wisconsin,Silver,workers,PayPal,1.0,731.05
+06/03/20,2020,06,152738,Male,60.0,Single,Washington,Missing,workers,Other,1.0,2403.94
+06/04/20,2020,06,152739,Male,16.0,Married,Maine,Basic,self-employed,PayPal,1.0,994.84
+06/05/20,2020,06,152741,Female,17.0,Married,Iowa,Missing,workers,Other,1.0,619.26
+06/05/20,2020,06,152742,Male,78.0,Married,Massachusetts,Basic,Employees,PayPal,1.0,1150.72
+06/06/20,2020,06,152743,Male,54.0,Single,West Virginia,Platinum,self-employed,Other,1.0,964.18
+06/06/20,2020,06,152744,Female,44.0,Single,New Jersey,Basic,Unemployment,PayPal,0.0,1972.91
+06/07/20,2020,06,152746,Female,35.0,Single,Georgia,Basic,Employees,Card,1.0,189.69
+06/07/20,2020,06,152748,Female,67.0,Married,Kansas,Platinum,workers,Other,0.0,524.88
+06/07/20,2020,06,152749,Female,36.0,Single,North Carolina,Silver,Employees,Other,1.0,209.75
+06/08/20,2020,06,152750,Female,77.0,Married,Colorado,Gold,Employees,Other,1.0,2480.85
+06/08/20,2020,06,152751,Male,48.0,Married,Pennsylvania,Basic,Unemployment,PayPal,1.0,1755.6
+06/08/20,2020,06,152752,Male,78.0,Married,New Mexico,Basic,Unemployment,Card,1.0,95.05
+06/08/20,2020,06,152753,Female,39.0,Single,Oklahoma,Platinum,Unemployment,Card,0.0,1557.5
+06/09/20,2020,06,152754,Female,68.0,Married,Wyoming,Silver,workers,PayPal,1.0,1354.59
+06/09/20,2020,06,152755,Female,69.0,Married,Minnesota,Platinum,Unemployment,Other,1.0,2455.66
+06/11/20,2020,06,152757,Male,74.0,Married,South Dakota,Basic,Employees,PayPal,1.0,2477.45
+06/11/20,2020,06,152758,Female,34.0,Married,Rhode Island,Basic,Unemployment,PayPal,0.0,1132.75
+06/12/20,2020,06,152760,Female,67.0,Single,Tennessee,Platinum,Employees,Other,1.0,1689.87
+06/12/20,2020,06,152761,Female,49.0,Married,Colorado,Silver,Employees,PayPal,1.0,2401.32
+06/13/20,2020,06,152762,Male,67.0,Married,Georgia,Basic,workers,Card,0.0,1847.47
+06/15/20,2020,06,152763,Male,28.0,Married,Mississippi,Basic,self-employed,Card,1.0,1430.18
+06/16/20,2020,06,152764,Male,70.0,Married,Indiana,Basic,workers,Other,1.0,2819.18
+06/16/20,2020,06,152765,Female,31.0,Single,Florida,Basic,Employees,Other,0.0,281.3
+06/16/20,2020,06,152766,Female,52.0,Married,New Mexico,Basic,Employees,PayPal,1.0,1049.48
+06/17/20,2020,06,152768,Female,62.0,Single,Texas,Basic,self-employed,PayPal,1.0,1023.12
+06/17/20,2020,06,152769,Female,45.0,Single,Louisiana,Platinum,workers,PayPal,1.0,469.5
+06/17/20,2020,06,152770,Male,21.0,Married,Indiana,Platinum,self-employed,PayPal,0.0,2684.41
+06/18/20,2020,06,152771,Male,41.0,Married,Idaho,Gold,Employees,PayPal,0.0,414.17
+06/18/20,2020,06,152772,Female,17.0,Single,Vermont,Silver,Employees,Card,1.0,1687.03
+06/18/20,2020,06,152773,Female,25.0,Single,Oklahoma,Silver,workers,Card,1.0,431.49
+06/19/20,2020,06,152775,Female,24.0,Married,California,Silver,Employees,Other,1.0,469.54
+06/19/20,2020,06,152776,Female,64.0,Single,Tennessee,Basic,Unemployment,Other,1.0,1504.4
+06/20/20,2020,06,152777,Female,18.0,Married,Missouri,Platinum,Unemployment,Other,1.0,2699.0
+06/21/20,2020,06,152778,Female,50.0,Single,Georgia,Missing,Employees,PayPal,1.0,2734.44
+06/21/20,2020,06,152779,Female,20.0,Married,Vermont,Basic,workers,Card,1.0,374.79
+06/21/20,2020,06,152780,Female,26.0,Married,Ohio,Silver,Unemployment,Card,1.0,936.79
+06/22/20,2020,06,152782,Male,50.0,Single,Virginia,Basic,workers,PayPal,0.0,1670.13
+06/22/20,2020,06,152783,Female,78.0,Married,Delaware,Silver,Employees,Card,0.0,1982.88
+06/23/20,2020,06,152784,Female,53.0,Single,New Jersey,Silver,Employees,PayPal,0.0,1912.05
+06/23/20,2020,06,152785,Female,56.0,Single,Michigan,Silver,self-employed,PayPal,1.0,1653.94
+06/24/20,2020,06,152787,Male,64.0,Single,Vermont,Platinum,Employees,Other,0.0,2059.46
+06/24/20,2020,06,152788,Male,25.0,Married,Rhode Island,Basic,Employees,Other,1.0,2760.05
+06/24/20,2020,06,152790,Female,41.0,Married,Rhode Island,Platinum,Unemployment,PayPal,1.0,2570.96
+06/24/20,2020,06,152791,Male,29.0,Single,Nebraska,Basic,self-employed,PayPal,1.0,1977.35
+06/25/20,2020,06,152792,Male,46.0,Married,Utah,Platinum,workers,PayPal,1.0,256.52
+06/25/20,2020,06,152795,Female,67.0,Single,Ohio,Missing,Employees,Other,1.0,2898.65
+06/25/20,2020,06,152796,Male,56.0,Single,Washington,Basic,Employees,PayPal,0.0,1096.02
+06/25/20,2020,06,152797,Male,78.0,Single,Pennsylvania,Gold,Employees,Other,1.0,2477.3
+06/25/20,2020,06,152798,Female,74.0,Married,Montana,Basic,workers,Card,0.0,1297.82
+06/26/20,2020,06,152799,Female,15.0,Married,Michigan,Platinum,Employees,Card,1.0,2707.13
+06/26/20,2020,06,152800,Female,32.0,Married,Missouri,Gold,Employees,Other,0.0,1410.48
+06/27/20,2020,06,152801,Female,24.0,Married,Texas,Missing,workers,PayPal,0.0,1779.77
+06/27/20,2020,06,152802,Female,25.0,Married,Nevada,Basic,self-employed,PayPal,1.0,749.03
+06/27/20,2020,06,152803,Male,38.0,Married,Illinois,Silver,Unemployment,Other,1.0,2791.22
+06/28/20,2020,06,152804,Male,36.0,Single,Nevada,Silver,Unemployment,Other,1.0,695.22
+06/28/20,2020,06,152805,Male,48.0,Single,Arkansas,Basic,Employees,Other,1.0,2436.03
+06/28/20,2020,06,152806,Female,53.0,Single,Michigan,Basic,Employees,Other,1.0,1332.48
+06/29/20,2020,06,152807,Male,48.0,Single,Delaware,Gold,workers,PayPal,0.0,260.49
+06/29/20,2020,06,152808,Female,35.0,Married,Georgia,Missing,Employees,PayPal,0.0,27.0
+06/29/20,2020,06,152809,Female,20.0,Single,Nebraska,Basic,Employees,Card,0.0,1446.68
+06/30/20,2020,06,152810,Female,42.0,Married,South Carolina,Basic,Employees,Other,0.0,1406.11
+07/01/20,2020,07,152811,Male,39.0,Married,Wisconsin,Basic,self-employed,Card,1.0,179.72
+07/03/20,2020,07,152813,Male,45.0,Married,Indiana,Basic,Employees,Card,0.0,2047.61
+07/04/20,2020,07,152815,Female,51.0,Single,Oklahoma,Platinum,Employees,PayPal,1.0,1261.34
+07/04/20,2020,07,152816,Female,59.0,Single,Massachusetts,Basic,Employees,Other,0.0,1247.08
+07/04/20,2020,07,152817,Female,26.0,Single,Maine,Silver,self-employed,PayPal,1.0,1156.49
+07/04/20,2020,07,152818,Female,51.0,Married,Kansas,Platinum,workers,PayPal,1.0,1242.69
+07/04/20,2020,07,152819,Female,55.0,Single,Virginia,Basic,Employees,Card,1.0,1709.49
+07/05/20,2020,07,152820,Female,19.0,Married,Utah,Silver,Employees,PayPal,1.0,1470.07
+07/05/20,2020,07,152822,Female,78.0,Single,Tennessee,Basic,workers,PayPal,1.0,86.13
+07/05/20,2020,07,152823,Male,26.0,Married,Montana,Basic,workers,Other,1.0,1938.9
+07/05/20,2020,07,152824,Female,40.0,Married,Arkansas,Basic,Employees,Card,1.0,956.22
+07/06/20,2020,07,152825,Male,34.0,Single,New Mexico,Gold,workers,PayPal,0.0,2943.23
+07/06/20,2020,07,152827,Female,28.0,Single,Alabama,Gold,Employees,PayPal,0.0,1706.13
+07/06/20,2020,07,152828,Female,49.0,Married,Kentucky,Silver,Employees,Card,0.0,1244.44
+07/07/20,2020,07,152829,Male,75.0,Married,New Hampshire,Silver,Employees,PayPal,1.0,879.69
+07/08/20,2020,07,152830,Male,38.0,Single,Florida,Silver,Unemployment,Card,1.0,592.18
+07/08/20,2020,07,152832,Male,31.0,Single,Oklahoma,Platinum,workers,Card,1.0,2453.53
+07/09/20,2020,07,152835,Male,76.0,Single,Wyoming,Platinum,Employees,PayPal,1.0,1734.75
+07/09/20,2020,07,152837,Male,62.0,Single,Massachusetts,Basic,Unemployment,PayPal,1.0,909.53
+07/09/20,2020,07,152838,Male,57.0,Married,Montana,Platinum,Employees,Card,0.0,1359.64
+07/10/20,2020,07,152839,Female,69.0,Single,Georgia,Missing,Employees,PayPal,1.0,610.43
+07/11/20,2020,07,152840,Female,39.0,Single,Illinois,Missing,workers,Card,0.0,1007.89
+07/12/20,2020,07,152841,Male,58.0,Married,Connecticut,Basic,Unemployment,Other,1.0,2455.55
+07/13/20,2020,07,152845,Male,51.0,Single,Massachusetts,Basic,Employees,PayPal,1.0,1515.2
+07/13/20,2020,07,152846,Female,50.0,Single,Vermont,Basic,workers,Other,1.0,927.66
+07/13/20,2020,07,152847,Female,47.0,Married,Illinois,Basic,self-employed,Card,0.0,831.81
+07/14/20,2020,07,152849,Male,56.0,Single,Idaho,Silver,self-employed,PayPal,1.0,142.06
+07/14/20,2020,07,152850,Male,76.0,Married,Arkansas,Platinum,Unemployment,PayPal,0.0,775.85
+07/14/20,2020,07,152853,Female,18.0,Married,Missouri,Silver,Employees,PayPal,1.0,1746.45
+07/14/20,2020,07,152854,Female,68.0,Single,Arkansas,Basic,Employees,Other,1.0,569.55
+07/15/20,2020,07,152855,Male,72.0,Single,Rhode Island,Basic,workers,Card,1.0,2727.77
+07/15/20,2020,07,152857,Female,72.0,Single,Mississippi,Basic,Employees,Card,0.0,2859.19
+07/16/20,2020,07,152858,Male,78.0,Single,Virginia,Basic,self-employed,Other,0.0,575.15
+07/17/20,2020,07,152859,Male,42.0,Single,West Virginia,Gold,Employees,Other,1.0,532.06
+07/18/20,2020,07,152860,Male,22.0,Single,Oregon,Basic,Employees,PayPal,0.0,432.25
+07/19/20,2020,07,152862,Female,70.0,Married,Iowa,Basic,workers,PayPal,1.0,1763.31
+07/20/20,2020,07,152863,Female,54.0,Married,Georgia,Platinum,workers,PayPal,1.0,1285.09
+07/20/20,2020,07,152864,Male,42.0,Married,Arizona,Platinum,self-employed,Card,1.0,932.8
+07/22/20,2020,07,152866,Female,48.0,Married,Alaska,Basic,Employees,PayPal,0.0,830.35
+07/23/20,2020,07,152867,Female,31.0,Married,South Carolina,Basic,self-employed,Other,1.0,2778.69
+07/24/20,2020,07,152868,Female,20.0,Single,North Carolina,Silver,workers,PayPal,1.0,2463.71
+07/24/20,2020,07,152869,Male,63.0,Single,Michigan,Basic,self-employed,PayPal,1.0,2777.64
+07/24/20,2020,07,152870,Male,24.0,Married,Missouri,Gold,Employees,Other,1.0,2977.78
+07/24/20,2020,07,152871,Female,36.0,Married,New Jersey,Basic,self-employed,PayPal,0.0,1713.06
+07/25/20,2020,07,152872,Female,73.0,Single,New Hampshire,Platinum,workers,Card,0.0,1480.73
+07/25/20,2020,07,152873,Female,44.0,Married,Rhode Island,Silver,self-employed,Card,0.0,81.6
+07/25/20,2020,07,152874,Female,48.0,Single,New Jersey,Missing,Unemployment,PayPal,0.0,1076.42
+07/26/20,2020,07,152876,Female,64.0,Married,New Jersey,Basic,workers,Card,0.0,1809.51
+07/26/20,2020,07,152877,Female,26.0,Married,Nevada,Gold,Employees,PayPal,0.0,1594.05
+07/27/20,2020,07,152878,Female,24.0,Married,Hawaii,Missing,Employees,Card,1.0,1399.66
+07/27/20,2020,07,152879,Female,47.0,Single,Delaware,Silver,Employees,PayPal,0.0,2712.34
+07/27/20,2020,07,152880,Male,41.0,Single,South Dakota,Gold,workers,Card,1.0,193.47
+07/27/20,2020,07,152881,Male,35.0,Single,Montana,Silver,self-employed,Card,1.0,1912.21
+07/27/20,2020,07,152882,Male,75.0,Single,South Carolina,Silver,Employees,PayPal,1.0,1813.83
+07/27/20,2020,07,152883,Female,58.0,Married,South Dakota,Basic,Employees,Other,0.0,1257.05
+07/27/20,2020,07,152884,Female,27.0,Single,Utah,Basic,Employees,Card,0.0,477.56
+07/28/20,2020,07,152885,Female,30.0,Single,Vermont,Silver,workers,Card,1.0,684.07
+07/28/20,2020,07,152886,Female,53.0,Single,Illinois,Silver,workers,PayPal,1.0,2498.29
+07/29/20,2020,07,152888,Female,53.0,Single,Maine,Silver,Employees,PayPal,1.0,2807.19
+07/29/20,2020,07,152889,Male,29.0,Single,Iowa,Silver,workers,PayPal,1.0,1399.61
+07/30/20,2020,07,152891,Male,15.0,Married,Maryland,Basic,workers,Card,1.0,1622.68
+07/31/20,2020,07,152892,Male,44.0,Married,Kentucky,Missing,Employees,PayPal,0.0,2620.07
+07/31/20,2020,07,152893,Female,53.0,Married,Delaware,Silver,Employees,Card,1.0,1083.79
+08/02/20,2020,08,152894,Male,46.0,Single,South Carolina,Platinum,Employees,PayPal,1.0,2047.83
+08/03/20,2020,08,152895,Female,76.0,Married,Arizona,Basic,self-employed,PayPal,1.0,1858.94
+08/03/20,2020,08,152896,Female,70.0,Married,New Hampshire,Missing,self-employed,Other,1.0,1194.36
+08/03/20,2020,08,152897,Female,37.0,Married,Delaware,Platinum,self-employed,PayPal,0.0,924.05
+08/04/20,2020,08,152898,Male,27.0,Married,Illinois,Missing,self-employed,PayPal,0.0,1020.51
+08/05/20,2020,08,152900,Female,65.0,Married,Delaware,Basic,self-employed,Other,0.0,1923.68
+08/06/20,2020,08,152901,Female,39.0,Married,Florida,Platinum,Unemployment,PayPal,1.0,515.31
+08/07/20,2020,08,152903,Male,42.0,Single,Kansas,Basic,Unemployment,PayPal,1.0,611.85
+08/07/20,2020,08,152905,Male,41.0,Married,North Dakota,Platinum,self-employed,PayPal,1.0,1258.21
+08/07/20,2020,08,152906,Female,57.0,Married,Delaware,Basic,Employees,Other,1.0,1613.7
+08/07/20,2020,08,152907,Female,22.0,Single,Washington,Basic,Employees,Other,1.0,1025.38
+08/07/20,2020,08,152908,Male,40.0,Single,Vermont,Basic,Employees,PayPal,1.0,2447.15
+08/08/20,2020,08,152909,Female,49.0,Married,Delaware,Platinum,Employees,Other,1.0,757.25
+08/08/20,2020,08,152912,Female,51.0,Married,Wisconsin,Basic,Employees,Card,1.0,691.88
+08/08/20,2020,08,152913,Male,34.0,Single,Delaware,Basic,Employees,Other,0.0,1086.39
+08/08/20,2020,08,152914,Male,35.0,Married,Wyoming,Silver,Unemployment,Other,1.0,1281.02
+08/09/20,2020,08,152915,Female,54.0,Married,Maryland,Basic,Unemployment,PayPal,0.0,2837.11
+08/09/20,2020,08,152916,Male,20.0,Married,Alaska,Basic,Employees,Other,1.0,956.47
+08/09/20,2020,08,152917,Male,28.0,Married,North Dakota,Gold,workers,PayPal,1.0,1169.07
+08/09/20,2020,08,152918,Female,57.0,Married,California,Silver,Employees,Other,1.0,909.76
+08/10/20,2020,08,152919,Male,47.0,Married,North Dakota,Missing,workers,PayPal,1.0,2488.07
+08/10/20,2020,08,152920,Male,35.0,Married,New Jersey,Missing,Employees,Card,1.0,2502.4
+08/11/20,2020,08,152921,Male,24.0,Married,South Dakota,Silver,self-employed,PayPal,0.0,2450.77
+08/12/20,2020,08,152923,Female,21.0,Married,Pennsylvania,Platinum,self-employed,PayPal,1.0,1738.33
+08/12/20,2020,08,152924,Female,49.0,Single,South Dakota,Basic,self-employed,Card,0.0,2716.49
+08/12/20,2020,08,152925,Male,61.0,Married,Connecticut,Platinum,workers,Card,0.0,1399.42
+08/12/20,2020,08,152926,Male,46.0,Married,Maine,Basic,workers,PayPal,0.0,865.54
+08/13/20,2020,08,152928,Female,28.0,Married,Louisiana,Platinum,workers,PayPal,1.0,2045.09
+08/13/20,2020,08,152929,Male,49.0,Married,West Virginia,Gold,self-employed,Card,1.0,1220.29
+08/14/20,2020,08,152932,Female,15.0,Married,Connecticut,Basic,self-employed,PayPal,1.0,297.52
+08/14/20,2020,08,152933,Male,71.0,Married,Iowa,Basic,workers,Other,0.0,1909.8
+08/15/20,2020,08,152934,Female,22.0,Married,Massachusetts,Basic,workers,Other,1.0,2037.06
+08/15/20,2020,08,152935,Female,26.0,Married,New Hampshire,Silver,self-employed,Other,0.0,1131.36
+08/16/20,2020,08,152936,Male,78.0,Married,Colorado,Basic,Employees,Other,0.0,1018.32
+08/16/20,2020,08,152937,Female,22.0,Married,Arkansas,Silver,self-employed,Other,1.0,632.71
+08/16/20,2020,08,152938,Male,48.0,Married,Connecticut,Missing,Unemployment,PayPal,1.0,1133.85
+08/16/20,2020,08,152939,Female,37.0,Single,Kentucky,Basic,workers,PayPal,1.0,2059.67
+08/16/20,2020,08,152940,Female,40.0,Married,Virginia,Platinum,workers,Card,1.0,2060.98
+08/17/20,2020,08,152942,Female,50.0,Married,Mississippi,Basic,self-employed,Other,0.0,2073.99
+08/17/20,2020,08,152943,Male,18.0,Married,Mississippi,Platinum,self-employed,Other,0.0,723.41
+08/17/20,2020,08,152944,Male,16.0,Single,Alaska,Basic,Employees,Other,1.0,2450.39
+08/17/20,2020,08,152945,Female,71.0,Single,Missouri,Basic,workers,PayPal,0.0,2471.27
+08/17/20,2020,08,152946,Male,30.0,Single,South Carolina,Silver,workers,Card,1.0,617.17
+08/17/20,2020,08,152947,Male,78.0,Single,Massachusetts,Silver,Employees,Other,1.0,938.46
+08/18/20,2020,08,152948,Male,27.0,Married,Mississippi,Platinum,workers,PayPal,1.0,1092.08
+08/18/20,2020,08,152949,Female,67.0,Single,Hawaii,Basic,self-employed,PayPal,1.0,102.33
+08/18/20,2020,08,152950,Male,45.0,Married,Illinois,Gold,Employees,Other,1.0,828.31
+08/18/20,2020,08,152951,Female,72.0,Married,Montana,Gold,workers,Other,1.0,2536.61
+08/18/20,2020,08,152953,Female,74.0,Married,Alaska,Basic,Employees,Card,1.0,141.5
+08/18/20,2020,08,152954,Male,61.0,Single,New Mexico,Silver,workers,Other,1.0,1844.52
+08/19/20,2020,08,152955,Female,35.0,Married,Iowa,Gold,Employees,PayPal,1.0,891.61
+08/21/20,2020,08,152958,Female,35.0,Single,Mississippi,Silver,Employees,Card,1.0,2514.29
+08/21/20,2020,08,152959,Female,26.0,Single,Indiana,Platinum,Employees,Other,1.0,378.51
+08/21/20,2020,08,152961,Female,65.0,Married,Wisconsin,Silver,workers,PayPal,1.0,218.78
+08/22/20,2020,08,152962,Male,45.0,Single,Arkansas,Gold,Employees,PayPal,1.0,1762.76
+08/22/20,2020,08,152963,Male,34.0,Single,Alaska,Basic,workers,PayPal,0.0,867.14
+08/22/20,2020,08,152965,Male,32.0,Single,New Hampshire,Basic,Employees,PayPal,0.0,2609.52
+08/23/20,2020,08,152966,Male,41.0,Single,South Dakota,Platinum,self-employed,Card,1.0,1892.34
+08/23/20,2020,08,152967,Male,27.0,Married,North Dakota,Basic,workers,Card,0.0,2685.55
+08/23/20,2020,08,152968,Female,35.0,Single,Minnesota,Platinum,workers,PayPal,1.0,1212.74
+08/23/20,2020,08,152969,Male,51.0,Married,South Carolina,Basic,workers,Card,1.0,495.37
+08/23/20,2020,08,152970,Female,34.0,Single,Massachusetts,Basic,workers,Card,0.0,417.77
+08/24/20,2020,08,152971,Male,30.0,Single,Colorado,Basic,self-employed,PayPal,0.0,772.82
+08/24/20,2020,08,152972,Male,21.0,Single,Rhode Island,Silver,self-employed,Card,1.0,277.8
+08/25/20,2020,08,152973,Male,77.0,Married,Oregon,Missing,workers,Card,0.0,1449.98
+08/25/20,2020,08,152974,Male,31.0,Married,California,Silver,Employees,Other,1.0,550.23
+08/26/20,2020,08,152975,Female,18.0,Single,Kansas,Silver,Employees,PayPal,0.0,2540.03
+08/26/20,2020,08,152976,Male,30.0,Married,Idaho,Silver,self-employed,PayPal,1.0,1116.37
+08/26/20,2020,08,152977,Female,36.0,Married,Wyoming,Silver,Employees,PayPal,1.0,698.92
+08/27/20,2020,08,152978,Male,54.0,Married,Montana,Silver,workers,Card,1.0,1556.63
+08/27/20,2020,08,152979,Female,38.0,Married,New Mexico,Silver,self-employed,PayPal,0.0,1119.32
+08/27/20,2020,08,152980,Female,67.0,Married,Texas,Basic,workers,PayPal,1.0,1511.17
+08/28/20,2020,08,152982,Female,52.0,Married,Washington,Silver,Employees,PayPal,1.0,2066.55
+08/28/20,2020,08,152983,Male,55.0,Married,Colorado,Platinum,workers,PayPal,1.0,800.72
+08/28/20,2020,08,152985,Male,37.0,Single,West Virginia,Missing,workers,Card,0.0,488.18
+08/29/20,2020,08,152986,Male,75.0,Single,Alaska,Basic,workers,Card,1.0,2497.31
+08/29/20,2020,08,152990,Male,56.0,Married,South Carolina,Platinum,Employees,PayPal,1.0,809.8
+08/29/20,2020,08,152991,Male,18.0,Married,Florida,Platinum,Unemployment,Other,1.0,1692.57
+08/29/20,2020,08,152992,Male,55.0,Single,Oregon,Platinum,Employees,PayPal,1.0,1930.6
+08/29/20,2020,08,152993,Female,29.0,Single,California,Silver,workers,PayPal,1.0,1518.21
+08/29/20,2020,08,152994,Male,66.0,Single,Florida,Basic,Employees,Card,0.0,355.09
+08/29/20,2020,08,152995,Female,31.0,Single,Oregon,Basic,Employees,PayPal,1.0,578.93
+08/29/20,2020,08,152996,Male,17.0,Single,Alaska,Silver,Employees,Other,1.0,2764.48
+08/29/20,2020,08,152997,Female,68.0,Married,Iowa,Platinum,workers,PayPal,0.0,372.21
+08/30/20,2020,08,152998,Male,75.0,Single,North Carolina,Missing,Employees,PayPal,0.0,199.61
+08/30/20,2020,08,152999,Male,71.0,Married,Wyoming,Basic,Unemployment,PayPal,0.0,1647.3
+08/30/20,2020,08,153000,Female,53.0,Married,North Dakota,Basic,Employees,Card,0.0,1734.42
+08/31/20,2020,08,153001,Female,53.0,Married,Missouri,Gold,self-employed,Other,1.0,247.44
+08/31/20,2020,08,153002,Female,54.0,Married,Ohio,Basic,Employees,PayPal,0.0,2539.28
+09/02/20,2020,09,153003,Female,71.0,Single,Montana,Missing,Employees,Other,1.0,2940.18
+09/02/20,2020,09,153004,Male,25.0,Married,Louisiana,Platinum,Employees,PayPal,1.0,1243.87
+09/03/20,2020,09,153005,Male,30.0,Single,Arkansas,Silver,Unemployment,PayPal,1.0,1426.62
+09/03/20,2020,09,153006,Female,77.0,Married,Nebraska,Basic,Employees,PayPal,0.0,2455.7
+09/03/20,2020,09,153007,Male,35.0,Married,Wyoming,Basic,workers,Card,0.0,984.7
+09/04/20,2020,09,153008,Male,52.0,Single,Alaska,Silver,Employees,PayPal,1.0,91.32
+09/04/20,2020,09,153009,Female,65.0,Single,Connecticut,Gold,Employees,Card,1.0,2747.01
+09/04/20,2020,09,153010,Female,56.0,Married,Alaska,Silver,workers,PayPal,0.0,462.96
+09/04/20,2020,09,153011,Male,22.0,Married,Alabama,Missing,Employees,PayPal,0.0,350.72
+09/04/20,2020,09,153013,Female,60.0,Married,Maine,Missing,workers,Card,0.0,2615.63
+09/05/20,2020,09,153014,Female,59.0,Single,Colorado,Silver,self-employed,Other,0.0,2482.68
+09/05/20,2020,09,153015,Female,16.0,Married,Vermont,Basic,workers,Other,0.0,2582.06
+09/06/20,2020,09,153017,Male,53.0,Single,Arkansas,Basic,Employees,PayPal,1.0,756.77
+09/06/20,2020,09,153018,Male,24.0,Married,Oklahoma,Basic,Employees,Card,1.0,1760.72
+09/06/20,2020,09,153019,Male,76.0,Married,Montana,Basic,Employees,Other,1.0,1079.16
+09/06/20,2020,09,153020,Female,77.0,Married,Maryland,Platinum,workers,PayPal,1.0,2924.2
+09/06/20,2020,09,153022,Female,21.0,Married,Alabama,Silver,Unemployment,Card,1.0,2749.37
+09/06/20,2020,09,153023,Female,52.0,Married,South Dakota,Basic,workers,Card,1.0,1186.99
+09/07/20,2020,09,153024,Male,29.0,Single,New Jersey,Basic,workers,PayPal,0.0,2483.15
+09/08/20,2020,09,153026,Female,36.0,Married,Minnesota,Platinum,Unemployment,Other,1.0,1956.08
+09/09/20,2020,09,153027,Female,35.0,Single,Nevada,Basic,self-employed,PayPal,1.0,2819.1
+09/09/20,2020,09,153028,Female,63.0,Married,Arizona,Platinum,Employees,Other,1.0,104.94
+09/09/20,2020,09,153029,Female,34.0,Married,Kentucky,Basic,workers,PayPal,1.0,520.58
+09/09/20,2020,09,153030,Male,68.0,Married,Indiana,Basic,workers,Card,1.0,1836.9
+09/09/20,2020,09,153031,Female,73.0,Single,Idaho,Basic,self-employed,Card,1.0,2816.59
+09/09/20,2020,09,153032,Female,24.0,Married,Wyoming,Basic,Unemployment,PayPal,1.0,16.27
+09/10/20,2020,09,153033,Female,77.0,Married,Arizona,Basic,Employees,Other,1.0,1036.59
+09/12/20,2020,09,153034,Female,57.0,Married,New York,Basic,workers,Card,0.0,1890.94
+09/12/20,2020,09,153035,Female,58.0,Married,West Virginia,Missing,self-employed,Other,0.0,1874.12
+09/12/20,2020,09,153037,Female,73.0,Married,Mississippi,Basic,Employees,Card,0.0,431.2
+09/13/20,2020,09,153038,Female,75.0,Married,Nevada,Platinum,Employees,Card,1.0,1644.28
+09/14/20,2020,09,153039,Female,44.0,Single,Washington,Gold,workers,PayPal,1.0,242.71
+09/15/20,2020,09,153040,Male,38.0,Married,Delaware,Platinum,workers,PayPal,1.0,352.53
+09/15/20,2020,09,153042,Male,31.0,Married,New Jersey,Platinum,Employees,Other,1.0,1902.13
+09/15/20,2020,09,153043,Female,54.0,Single,Ohio,Gold,Employees,Card,0.0,869.32
+09/15/20,2020,09,153045,Female,24.0,Married,Wyoming,Silver,Employees,Card,0.0,385.6
+09/16/20,2020,09,153046,Male,66.0,Married,Washington,Missing,Employees,PayPal,1.0,352.63
+09/16/20,2020,09,153047,Female,77.0,Single,Connecticut,Platinum,Employees,PayPal,0.0,137.36
+09/16/20,2020,09,153048,Female,69.0,Married,Washington,Platinum,Employees,Card,0.0,825.15
+09/17/20,2020,09,153049,Female,42.0,Single,New Jersey,Basic,workers,Card,1.0,760.47
+09/17/20,2020,09,153050,Male,20.0,Married,Kentucky,Platinum,Unemployment,PayPal,1.0,832.07
+09/18/20,2020,09,153051,Female,75.0,Single,Hawaii,Basic,Employees,Card,0.0,1267.48
+09/18/20,2020,09,153052,Male,20.0,Single,Hawaii,Basic,self-employed,PayPal,1.0,1119.94
+09/18/20,2020,09,153053,Female,36.0,Single,Tennessee,Platinum,self-employed,Other,1.0,2677.95
+09/18/20,2020,09,153055,Male,24.0,Married,West Virginia,Basic,Unemployment,Other,1.0,1857.82
+09/19/20,2020,09,153056,Female,18.0,Married,Vermont,Basic,Unemployment,PayPal,1.0,534.11
+09/19/20,2020,09,153057,Female,63.0,Single,Illinois,Silver,workers,PayPal,1.0,2447.83
+09/21/20,2020,09,153061,Male,32.0,Single,Vermont,Basic,Employees,Card,1.0,34.45
+09/21/20,2020,09,153062,Male,47.0,Married,New Jersey,Platinum,Employees,PayPal,0.0,2036.57
+09/21/20,2020,09,153063,Male,34.0,Married,Indiana,Missing,self-employed,PayPal,1.0,2669.55
+09/21/20,2020,09,153064,Female,26.0,Married,Alabama,Silver,workers,Card,0.0,2520.87
+09/22/20,2020,09,153065,Male,43.0,Single,Idaho,Silver,workers,Card,1.0,388.15
+09/23/20,2020,09,153067,Male,17.0,Single,Hawaii,Missing,Employees,Card,0.0,172.4
+09/23/20,2020,09,153068,Female,30.0,Married,Oklahoma,Gold,Employees,Other,1.0,807.71
+09/23/20,2020,09,153070,Male,38.0,Single,Minnesota,Basic,Unemployment,PayPal,0.0,1450.28
+09/23/20,2020,09,153072,Male,31.0,Married,Ohio,Platinum,Employees,PayPal,1.0,2870.05
+09/24/20,2020,09,153073,Male,35.0,Single,Pennsylvania,Silver,Employees,PayPal,0.0,1645.67
+09/24/20,2020,09,153074,Female,71.0,Married,Arkansas,Basic,workers,PayPal,1.0,88.8
+09/24/20,2020,09,153075,Male,61.0,Single,Vermont,Basic,workers,Other,1.0,1840.99
+09/25/20,2020,09,153077,Male,16.0,Married,Kansas,Missing,self-employed,Card,1.0,1974.17
+09/25/20,2020,09,153078,Male,20.0,Married,Nevada,Platinum,self-employed,Other,0.0,2509.53
+09/26/20,2020,09,153079,Male,48.0,Married,Rhode Island,Basic,Unemployment,PayPal,0.0,164.35
+09/27/20,2020,09,153080,Female,27.0,Single,Minnesota,Platinum,Employees,Card,0.0,1344.98
+09/27/20,2020,09,153082,Male,40.0,Married,Rhode Island,Missing,Unemployment,PayPal,1.0,1753.77
+09/27/20,2020,09,153083,Female,62.0,Single,Missouri,Basic,workers,Card,1.0,267.21
+09/27/20,2020,09,153084,Male,16.0,Single,Iowa,Silver,workers,PayPal,1.0,1048.26
+09/28/20,2020,09,153085,Male,49.0,Married,New Jersey,Basic,workers,Card,1.0,1778.27
+09/28/20,2020,09,153086,Male,40.0,Married,Kentucky,Basic,workers,Card,0.0,1093.36
+09/28/20,2020,09,153088,Female,51.0,Single,Massachusetts,Basic,workers,Card,1.0,2724.02
+09/29/20,2020,09,153089,Female,44.0,Single,Maine,Missing,Unemployment,Card,1.0,1619.53
+09/29/20,2020,09,153091,Male,16.0,Married,Mississippi,Gold,Employees,Card,1.0,1342.6
+09/29/20,2020,09,153092,Male,54.0,Married,Alaska,Basic,workers,Other,1.0,2977.82
+09/29/20,2020,09,153093,Female,78.0,Single,Delaware,Silver,Employees,Other,0.0,1986.97
+09/29/20,2020,09,153094,Female,48.0,Married,Connecticut,Gold,workers,Card,1.0,2559.26
+10/01/20,2020,10,153096,Male,30.0,Single,Minnesota,Basic,workers,PayPal,0.0,1578.74
+10/01/20,2020,10,153097,Female,66.0,Single,Utah,Missing,workers,Card,1.0,726.0
+10/02/20,2020,10,153099,Male,32.0,Single,Pennsylvania,Basic,Employees,PayPal,1.0,2403.94
+10/02/20,2020,10,153100,Female,30.0,Married,New Mexico,Silver,self-employed,Card,1.0,2709.67
+10/03/20,2020,10,153102,Female,47.0,Married,Alaska,Basic,workers,Other,1.0,2970.0
+10/04/20,2020,10,153103,Female,35.0,Single,Georgia,Platinum,workers,Card,0.0,423.77
+10/04/20,2020,10,153104,Male,37.0,Single,Rhode Island,Platinum,Employees,PayPal,1.0,1044.41
+10/05/20,2020,10,153105,Male,27.0,Single,Connecticut,Silver,workers,PayPal,1.0,985.3
+10/05/20,2020,10,153106,Female,30.0,Married,Virginia,Missing,workers,Card,1.0,1345.41
+10/05/20,2020,10,153108,Female,75.0,Single,Tennessee,Platinum,Employees,Card,0.0,2870.69
+10/05/20,2020,10,153109,Female,27.0,Married,Minnesota,Basic,Employees,Card,1.0,2538.15
+10/06/20,2020,10,153110,Female,76.0,Single,Delaware,Basic,workers,Card,0.0,703.3
+10/06/20,2020,10,153111,Female,68.0,Married,Utah,Basic,Employees,PayPal,1.0,208.26
+10/06/20,2020,10,153113,Male,68.0,Single,Tennessee,Basic,Employees,Other,1.0,1095.55
+10/07/20,2020,10,153114,Male,72.0,Single,Nevada,Platinum,workers,Other,1.0,2563.19
+10/07/20,2020,10,153115,Male,74.0,Married,Alabama,Basic,Employees,Card,0.0,731.47
+10/07/20,2020,10,153116,Male,66.0,Married,Georgia,Silver,Employees,PayPal,0.0,208.14
+10/07/20,2020,10,153117,Male,52.0,Married,New York,Basic,self-employed,Card,1.0,1060.51
+10/07/20,2020,10,153118,Male,16.0,Married,New Hampshire,Platinum,Unemployment,Card,0.0,1938.48
+10/08/20,2020,10,153119,Male,26.0,Single,North Carolina,Basic,workers,PayPal,0.0,1955.97
+10/08/20,2020,10,153120,Male,65.0,Married,Missouri,Silver,Employees,Other,0.0,1296.92
+10/09/20,2020,10,153121,Male,32.0,Single,Missouri,Missing,workers,PayPal,1.0,599.19
+10/09/20,2020,10,153122,Male,39.0,Single,Indiana,Basic,Employees,PayPal,0.0,150.19
+10/09/20,2020,10,153123,Male,33.0,Married,Arkansas,Platinum,self-employed,PayPal,1.0,84.21
+10/10/20,2020,10,153125,Female,63.0,Married,Delaware,Basic,self-employed,PayPal,1.0,1083.72
+10/11/20,2020,10,153126,Male,70.0,Married,Idaho,Gold,workers,Card,1.0,1224.93
+10/11/20,2020,10,153127,Male,25.0,Single,Wyoming,Basic,Employees,Other,1.0,2051.04
+10/11/20,2020,10,153128,Male,47.0,Married,West Virginia,Silver,workers,Card,1.0,196.97
+10/12/20,2020,10,153129,Male,43.0,Single,Pennsylvania,Basic,workers,Card,1.0,870.88
+10/12/20,2020,10,153130,Female,59.0,Married,Iowa,Silver,Employees,PayPal,0.0,2548.51
+10/12/20,2020,10,153131,Female,43.0,Single,North Carolina,Silver,self-employed,PayPal,0.0,177.74
+10/13/20,2020,10,153132,Female,71.0,Married,Georgia,Basic,self-employed,Card,1.0,164.79
+10/14/20,2020,10,153133,Female,27.0,Single,Florida,Platinum,Employees,Other,1.0,451.58
+10/14/20,2020,10,153134,Female,71.0,Married,Montana,Basic,Employees,Other,1.0,729.87
+10/14/20,2020,10,153135,Male,30.0,Married,South Dakota,Basic,self-employed,Other,1.0,780.98
+10/15/20,2020,10,153136,Male,72.0,Married,Rhode Island,Basic,Employees,Other,0.0,1208.48
+10/15/20,2020,10,153137,Male,21.0,Single,Florida,Missing,self-employed,Card,1.0,1938.48
+10/17/20,2020,10,153139,Female,47.0,Married,Maine,Basic,workers,PayPal,1.0,482.57
+10/17/20,2020,10,153140,Male,44.0,Married,Wisconsin,Silver,self-employed,Other,1.0,620.36
+10/17/20,2020,10,153141,Female,42.0,Single,Washington,Platinum,self-employed,PayPal,1.0,1281.68
+10/18/20,2020,10,153143,Male,56.0,Married,Illinois,Gold,self-employed,Other,1.0,495.88
+10/18/20,2020,10,153144,Male,72.0,Single,South Dakota,Silver,Employees,Card,1.0,2716.94
+10/19/20,2020,10,153145,Female,75.0,Married,Virginia,Silver,workers,Other,1.0,31.41
+10/19/20,2020,10,153146,Female,56.0,Married,Massachusetts,Silver,self-employed,Card,0.0,316.1
+10/19/20,2020,10,153147,Female,16.0,Single,Kansas,Basic,self-employed,Card,0.0,1479.99
+10/19/20,2020,10,153148,Male,34.0,Married,Hawaii,Basic,workers,PayPal,1.0,153.55
+10/20/20,2020,10,153150,Male,67.0,Married,Virginia,Basic,Employees,Card,0.0,2038.12
+10/20/20,2020,10,153152,Male,49.0,Married,Massachusetts,Basic,self-employed,Other,0.0,382.8
+10/21/20,2020,10,153153,Male,19.0,Single,Vermont,Basic,self-employed,PayPal,1.0,1967.6
+10/21/20,2020,10,153154,Female,26.0,Married,Wisconsin,Platinum,self-employed,PayPal,1.0,2520.52
+10/22/20,2020,10,153155,Male,75.0,Married,Oklahoma,Missing,Employees,PayPal,1.0,383.86
+10/22/20,2020,10,153157,Male,26.0,Single,South Dakota,Platinum,workers,Card,0.0,1220.65
+10/23/20,2020,10,153158,Female,68.0,Single,Illinois,Basic,Employees,Other,1.0,2485.02
+10/23/20,2020,10,153159,Female,66.0,Single,Maryland,Silver,Employees,Other,1.0,542.29
+10/23/20,2020,10,153160,Male,53.0,Single,Oregon,Basic,workers,Card,1.0,1858.83
+10/24/20,2020,10,153162,Female,41.0,Married,Kentucky,Basic,self-employed,Card,0.0,932.17
+10/24/20,2020,10,153163,Female,63.0,Single,Illinois,Basic,Unemployment,PayPal,1.0,748.66
+10/24/20,2020,10,153164,Female,53.0,Single,Massachusetts,Basic,Unemployment,PayPal,0.0,2007.91
+10/24/20,2020,10,153165,Female,63.0,Single,North Carolina,Basic,self-employed,Other,1.0,1778.43
+10/24/20,2020,10,153166,Female,49.0,Single,New Hampshire,Platinum,workers,PayPal,0.0,2832.99
+10/24/20,2020,10,153167,Male,54.0,Married,Maine,Basic,workers,PayPal,0.0,2543.82
+10/24/20,2020,10,153168,Female,30.0,Married,Nebraska,Basic,self-employed,Card,0.0,2087.13
+10/25/20,2020,10,153169,Male,73.0,Single,Arkansas,Platinum,workers,PayPal,1.0,2756.36
+10/25/20,2020,10,153170,Male,57.0,Single,Ohio,Basic,workers,Other,1.0,1128.68
+10/25/20,2020,10,153171,Female,19.0,Single,Iowa,Missing,workers,Other,1.0,2440.45
+10/26/20,2020,10,153172,Female,43.0,Single,Delaware,Basic,Employees,Card,0.0,435.6
+10/26/20,2020,10,153174,Male,75.0,Single,Pennsylvania,Silver,Employees,PayPal,0.0,2922.89
+10/26/20,2020,10,153175,Female,19.0,Married,Michigan,Basic,Employees,Other,1.0,538.1
+10/27/20,2020,10,153176,Female,34.0,Single,North Dakota,Platinum,workers,Other,1.0,361.86
+10/27/20,2020,10,153177,Male,44.0,Single,Texas,Silver,workers,Card,1.0,242.61
+10/27/20,2020,10,153178,Female,47.0,Single,Delaware,Basic,self-employed,PayPal,0.0,613.13
+10/27/20,2020,10,153180,Male,42.0,Married,Delaware,Missing,self-employed,Card,1.0,190.93
+10/28/20,2020,10,153181,Female,66.0,Married,Hawaii,Basic,Unemployment,PayPal,1.0,783.81
+10/30/20,2020,10,153182,Female,22.0,Married,Florida,Gold,Employees,Other,1.0,1682.07
+10/30/20,2020,10,153183,Female,46.0,Married,Oklahoma,Basic,Employees,PayPal,1.0,2714.1
+10/30/20,2020,10,153184,Male,54.0,Married,Pennsylvania,Basic,Employees,PayPal,1.0,1545.32
+10/31/20,2020,10,153185,Female,50.0,Married,North Dakota,Basic,workers,Card,1.0,541.23
+10/31/20,2020,10,153186,Male,55.0,Single,New Hampshire,Basic,Employees,PayPal,1.0,1015.84
+11/04/20,2020,11,153190,Female,55.0,Single,Kansas,Basic,Employees,PayPal,0.0,299.81
+11/04/20,2020,11,153192,Female,60.0,Married,California,Basic,Unemployment,Other,0.0,2785.78
+11/06/20,2020,11,153195,Female,17.0,Married,Nevada,Platinum,Employees,Card,1.0,583.9
+11/07/20,2020,11,153197,Male,30.0,Single,Georgia,Basic,self-employed,Card,1.0,434.06
+11/07/20,2020,11,153198,Female,67.0,Single,California,Basic,workers,Card,1.0,2681.44
+11/08/20,2020,11,153199,Female,38.0,Married,Hawaii,Silver,Unemployment,Card,0.0,1350.37
+11/08/20,2020,11,153200,Male,15.0,Single,Ohio,Platinum,workers,PayPal,1.0,1801.22
+11/08/20,2020,11,153201,Female,60.0,Single,Alaska,Platinum,self-employed,Other,1.0,489.16
+11/08/20,2020,11,153202,Male,41.0,Single,Oregon,Platinum,self-employed,PayPal,1.0,523.59
+11/08/20,2020,11,153203,Male,36.0,Single,Massachusetts,Platinum,workers,PayPal,1.0,1820.75
+11/08/20,2020,11,153204,Female,35.0,Married,Vermont,Basic,Employees,Card,1.0,698.05
+11/09/20,2020,11,153205,Female,31.0,Married,North Dakota,Basic,Unemployment,PayPal,0.0,2779.17
+11/09/20,2020,11,153206,Female,20.0,Married,Nebraska,Silver,Employees,PayPal,0.0,1425.69
+11/10/20,2020,11,153207,Male,65.0,Married,Georgia,Platinum,Employees,Card,1.0,2457.43
+11/10/20,2020,11,153208,Female,43.0,Married,Iowa,Basic,Employees,Card,1.0,1267.55
+11/10/20,2020,11,153209,Male,67.0,Married,Arkansas,Gold,Unemployment,Other,1.0,735.56
+11/10/20,2020,11,153211,Female,47.0,Married,Virginia,Platinum,self-employed,Card,1.0,456.3
+11/11/20,2020,11,153212,Female,54.0,Single,New Jersey,Platinum,Employees,PayPal,1.0,2033.16
+11/11/20,2020,11,153214,Female,57.0,Single,South Carolina,Silver,Employees,PayPal,1.0,99.12
+11/12/20,2020,11,153215,Female,25.0,Married,Pennsylvania,Silver,Employees,Other,1.0,1208.41
+11/13/20,2020,11,153217,Male,19.0,Single,Nevada,Basic,Employees,Card,1.0,2888.8
+11/14/20,2020,11,153218,Male,67.0,Married,Hawaii,Missing,Unemployment,PayPal,0.0,869.06
+11/14/20,2020,11,153219,Female,68.0,Single,South Dakota,Gold,Employees,Other,1.0,2925.27
+11/15/20,2020,11,153220,Female,51.0,Married,Tennessee,Silver,Employees,PayPal,0.0,1305.12
+11/15/20,2020,11,153221,Male,53.0,Married,West Virginia,Basic,Employees,PayPal,0.0,2736.47
+11/16/20,2020,11,153223,Female,18.0,Single,Maryland,Platinum,Employees,Other,1.0,76.69
+11/16/20,2020,11,153224,Male,42.0,Married,Tennessee,Basic,self-employed,Other,1.0,2093.72
+11/17/20,2020,11,153225,Female,48.0,Married,Missouri,Gold,Employees,PayPal,1.0,145.99
+11/18/20,2020,11,153226,Female,20.0,Married,Nebraska,Missing,Employees,PayPal,1.0,1324.12
+11/20/20,2020,11,153227,Female,26.0,Married,Delaware,Platinum,Unemployment,Card,0.0,713.62
+11/20/20,2020,11,153228,Female,63.0,Single,Indiana,Basic,Employees,Other,1.0,2008.03
+11/21/20,2020,11,153230,Female,47.0,Single,Mississippi,Silver,Employees,Other,0.0,1613.49
+11/21/20,2020,11,153231,Male,32.0,Married,New Hampshire,Silver,Employees,Card,0.0,826.72
+11/21/20,2020,11,153232,Male,27.0,Single,Montana,Missing,Employees,PayPal,1.0,1012.94
+11/22/20,2020,11,153234,Female,26.0,Married,New Hampshire,Basic,workers,Other,0.0,2417.1
+11/22/20,2020,11,153235,Female,20.0,Single,Tennessee,Platinum,workers,Other,0.0,774.8
+11/22/20,2020,11,153236,Male,45.0,Single,Kansas,Platinum,Employees,Card,1.0,1407.18
+11/22/20,2020,11,153237,Male,52.0,Married,Illinois,Silver,self-employed,Card,0.0,1148.69
+11/23/20,2020,11,153238,Female,25.0,Married,Delaware,Silver,workers,PayPal,1.0,1280.63
+11/24/20,2020,11,153239,Male,15.0,Married,Kentucky,Platinum,Employees,Card,1.0,1173.06
+11/24/20,2020,11,153240,Female,22.0,Single,Missouri,Platinum,workers,Card,0.0,2498.24
+11/25/20,2020,11,153241,Female,17.0,Married,Georgia,Basic,Employees,PayPal,0.0,1086.53
+11/25/20,2020,11,153242,Male,16.0,Married,New Mexico,Basic,workers,PayPal,1.0,139.78
+11/25/20,2020,11,153243,Male,20.0,Single,Connecticut,Gold,self-employed,PayPal,1.0,1079.45
+11/25/20,2020,11,153244,Male,39.0,Single,Florida,Basic,Unemployment,PayPal,0.0,861.01
+11/26/20,2020,11,153246,Male,31.0,Single,Oregon,Basic,self-employed,Other,1.0,1759.25
+11/26/20,2020,11,153247,Male,17.0,Married,Missouri,Basic,self-employed,Other,0.0,1764.83
+11/27/20,2020,11,153248,Male,24.0,Single,Texas,Gold,self-employed,Other,0.0,895.26
+11/27/20,2020,11,153249,Female,77.0,Single,Washington,Platinum,Employees,PayPal,0.0,439.56
+11/27/20,2020,11,153250,Male,25.0,Single,Hawaii,Silver,Employees,Card,0.0,473.88
+11/27/20,2020,11,153251,Female,58.0,Married,Arkansas,Gold,workers,Card,1.0,2602.81
+11/27/20,2020,11,153252,Male,47.0,Married,Iowa,Missing,Employees,PayPal,1.0,1166.14
+11/28/20,2020,11,153253,Male,62.0,Married,Tennessee,Platinum,self-employed,PayPal,0.0,926.8
+11/28/20,2020,11,153254,Female,59.0,Married,Montana,Platinum,Employees,PayPal,1.0,1385.15
+11/28/20,2020,11,153255,Female,30.0,Single,Arkansas,Basic,self-employed,PayPal,1.0,329.11
+11/29/20,2020,11,153257,Male,22.0,Single,Arkansas,Silver,self-employed,Other,1.0,445.39
+11/29/20,2020,11,153258,Male,27.0,Married,Texas,Basic,Employees,Other,1.0,1778.9
+11/29/20,2020,11,153259,Male,56.0,Married,Illinois,Basic,self-employed,PayPal,1.0,2559.54
+11/30/20,2020,11,153260,Male,53.0,Single,Colorado,Gold,workers,Other,1.0,1367.36
+11/30/20,2020,11,153261,Male,76.0,Married,Idaho,Basic,Unemployment,Card,1.0,1845.62
+11/30/20,2020,11,153262,Male,46.0,Single,Kansas,Missing,Employees,Card,1.0,584.71
+12/01/20,2020,12,153263,Male,61.0,Married,Arizona,Basic,workers,PayPal,0.0,2412.48
+12/01/20,2020,12,153264,Female,72.0,Single,Delaware,Silver,Employees,Other,1.0,2710.98
+12/02/20,2020,12,153265,Male,74.0,Married,Indiana,Basic,self-employed,PayPal,0.0,2548.97
+12/02/20,2020,12,153266,Male,44.0,Married,Virginia,Basic,self-employed,Other,1.0,792.2
+12/03/20,2020,12,153268,Female,39.0,Married,Virginia,Silver,workers,PayPal,1.0,1275.22
+12/04/20,2020,12,153269,Female,64.0,Single,Arizona,Basic,Employees,Card,1.0,2563.32
+12/04/20,2020,12,153270,Female,56.0,Single,South Carolina,Platinum,self-employed,PayPal,0.0,114.48
+12/06/20,2020,12,153271,Female,61.0,Single,North Carolina,Basic,Employees,Other,0.0,220.16
+12/06/20,2020,12,153272,Female,65.0,Single,Georgia,Basic,workers,PayPal,1.0,20.25
+12/06/20,2020,12,153273,Female,69.0,Single,Indiana,Basic,workers,PayPal,0.0,1603.13
+12/07/20,2020,12,153274,Female,33.0,Married,Kansas,Basic,Unemployment,Other,0.0,1639.64
+12/07/20,2020,12,153275,Male,18.0,Married,Minnesota,Basic,Employees,Other,1.0,2444.11
+12/07/20,2020,12,153276,Male,48.0,Single,Iowa,Platinum,Unemployment,PayPal,1.0,1993.95
+12/07/20,2020,12,153277,Female,35.0,Married,Wisconsin,Basic,workers,Other,0.0,99.16
+12/07/20,2020,12,153278,Male,55.0,Married,Louisiana,Basic,Employees,PayPal,1.0,2546.7
+12/08/20,2020,12,153279,Male,65.0,Single,Arizona,Basic,Employees,PayPal,1.0,685.75
+12/08/20,2020,12,153280,Male,26.0,Married,Illinois,Basic,workers,PayPal,1.0,810.33
+12/08/20,2020,12,153281,Female,33.0,Single,Rhode Island,Gold,self-employed,Other,0.0,981.15
+12/08/20,2020,12,153282,Male,28.0,Single,Utah,Basic,Employees,Card,1.0,1642.31
+12/08/20,2020,12,153283,Female,68.0,Single,New York,Basic,self-employed,PayPal,1.0,617.11
+12/08/20,2020,12,153284,Male,38.0,Married,Colorado,Missing,workers,Other,0.0,292.11
+12/08/20,2020,12,153285,Female,78.0,Married,New Jersey,Platinum,Employees,Card,0.0,1123.54
+12/10/20,2020,12,153286,Female,78.0,Married,Massachusetts,Gold,Employees,PayPal,1.0,567.74
+12/10/20,2020,12,153289,Female,31.0,Single,North Carolina,Basic,workers,PayPal,0.0,1190.37
+12/10/20,2020,12,153290,Male,33.0,Married,California,Basic,Employees,Other,0.0,2621.91
+12/10/20,2020,12,153291,Male,39.0,Married,Arizona,Basic,Employees,PayPal,0.0,2442.77
+12/11/20,2020,12,153292,Female,49.0,Married,Connecticut,Platinum,Employees,Other,0.0,816.72
+12/11/20,2020,12,153293,Female,65.0,Single,Iowa,Basic,Employees,PayPal,1.0,2445.02
+12/11/20,2020,12,153294,Male,31.0,Married,Massachusetts,Gold,Employees,PayPal,1.0,1097.81
+12/11/20,2020,12,153295,Male,18.0,Married,North Dakota,Silver,self-employed,Other,1.0,1623.73
+12/12/20,2020,12,153297,Male,16.0,Married,Maryland,Gold,self-employed,Card,1.0,1810.74
+12/15/20,2020,12,153298,Female,35.0,Married,Hawaii,Basic,workers,Other,1.0,1851.58
+12/15/20,2020,12,153299,Male,40.0,Single,Maryland,Basic,workers,Other,1.0,862.93
+12/15/20,2020,12,153300,Female,22.0,Single,Wisconsin,Platinum,workers,Other,1.0,2752.98
+12/15/20,2020,12,153301,Male,76.0,Married,Ohio,Missing,Employees,Card,1.0,713.87
+12/16/20,2020,12,153302,Male,24.0,Single,Minnesota,Gold,workers,Other,0.0,2440.49
+12/17/20,2020,12,153303,Female,61.0,Single,Wyoming,Silver,Unemployment,PayPal,1.0,1999.03
+12/18/20,2020,12,153304,Male,34.0,Single,Pennsylvania,Basic,Unemployment,Card,1.0,1041.62
+12/18/20,2020,12,153305,Male,71.0,Single,Kansas,Silver,workers,PayPal,1.0,1736.68
+12/19/20,2020,12,153306,Female,54.0,Married,Pennsylvania,Gold,workers,Card,1.0,1464.56
+12/19/20,2020,12,153308,Female,70.0,Single,Connecticut,Gold,Unemployment,Other,0.0,386.66
+12/19/20,2020,12,153309,Female,17.0,Single,Massachusetts,Basic,Employees,Card,0.0,1289.19
+12/20/20,2020,12,153310,Male,77.0,Married,Alaska,Gold,workers,Other,1.0,856.67
+12/20/20,2020,12,153313,Male,52.0,Single,Montana,Gold,Unemployment,PayPal,1.0,2579.67
+12/20/20,2020,12,153314,Male,72.0,Married,Louisiana,Basic,self-employed,PayPal,1.0,1552.2
+12/21/20,2020,12,153315,Male,19.0,Married,Wisconsin,Basic,workers,Card,1.0,1573.94
+12/21/20,2020,12,153316,Female,24.0,Married,Maine,Basic,Employees,PayPal,1.0,417.25
+12/21/20,2020,12,153317,Male,63.0,Single,Massachusetts,Silver,Employees,Other,1.0,2622.91
+12/22/20,2020,12,153319,Female,70.0,Single,Utah,Gold,Employees,Card,0.0,2407.4
+12/22/20,2020,12,153320,Female,51.0,Married,South Dakota,Basic,workers,Card,1.0,2771.84
+12/22/20,2020,12,153321,Male,78.0,Single,Illinois,Missing,Employees,Card,1.0,1664.96
+12/23/20,2020,12,153322,Male,55.0,Single,Texas,Missing,Employees,Other,1.0,813.32
+12/23/20,2020,12,153323,Male,54.0,Married,New York,Basic,self-employed,PayPal,0.0,1313.94
+12/24/20,2020,12,153324,Male,48.0,Married,Nebraska,Basic,workers,Other,0.0,2984.37
+12/24/20,2020,12,153325,Female,51.0,Married,Montana,Gold,workers,Other,1.0,145.65
+12/25/20,2020,12,153327,Male,73.0,Married,Delaware,Gold,workers,Card,1.0,1954.17
+12/25/20,2020,12,153328,Female,15.0,Single,Hawaii,Silver,self-employed,PayPal,0.0,2085.21
+12/25/20,2020,12,153329,Female,64.0,Married,Oklahoma,Basic,self-employed,Card,1.0,612.08
+12/26/20,2020,12,153330,Female,65.0,Married,Maine,Basic,workers,PayPal,1.0,773.1
+12/26/20,2020,12,153331,Male,39.0,Single,Oklahoma,Basic,workers,Card,1.0,2757.0
+12/27/20,2020,12,153332,Male,67.0,Single,Oklahoma,Platinum,workers,Other,1.0,899.21
+12/27/20,2020,12,153333,Female,31.0,Married,New York,Silver,Employees,Other,1.0,191.21
+12/27/20,2020,12,153334,Female,60.0,Married,South Carolina,Platinum,workers,PayPal,1.0,2802.74
+12/28/20,2020,12,153335,Female,27.0,Single,Montana,Silver,Employees,PayPal,0.0,1767.95
+12/28/20,2020,12,153338,Female,56.0,Single,Connecticut,Platinum,Employees,PayPal,1.0,305.32
+12/29/20,2020,12,153339,Male,22.0,Married,South Dakota,Platinum,workers,PayPal,0.0,1849.77
+12/30/20,2020,12,153340,Female,72.0,Married,Iowa,Silver,Unemployment,PayPal,1.0,784.12
+12/30/20,2020,12,153341,Female,22.0,Single,Utah,Basic,workers,PayPal,1.0,1664.15
+12/30/20,2020,12,153342,Male,72.0,Married,Minnesota,Silver,Employees,PayPal,0.0,892.56
+12/31/20,2020,12,153343,Female,71.0,Married,Massachusetts,Basic,workers,Card,1.0,2040.65
+12/31/20,2020,12,153344,Female,54.0,Single,Hawaii,Platinum,self-employed,Card,1.0,2962.07

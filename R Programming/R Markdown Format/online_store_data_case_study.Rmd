@@ -1,0 +1,256 @@
+---
+title: "Online Store Data Case Study"
+author: "Hayden Lynch"
+date: "2023-02-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fpp2)
+library(forecast)
+```
+
+# Data Cleaning Process
+
+### Step 1: Install/Import Libraries
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(readr)
+library(scales)
+```
+
+### Step 2: Import Unclean Data
+```{r}
+df = read_csv("online_store_customer_data_copy.csv")
+df
+```
+
+### Step 3: Remove "NA" rows
+```{r echo=FALSE, results='asis'}
+library(knitr)
+new_df = na.omit(df)
+kable(df[1:10,], caption="A knitr kable")
+```
+* Using knitr kable's allow you to make nice tables in RMarkdown.
+
+### Step 4: Remove all 2021 Rows
+#### The "Transaction_date" needs to be in 'date format'.
+```{r}
+new_df = mutate(new_df, Transaction_date = as.Date(Transaction_date, "%m/%d/%Y"))
+class(new_df$Transaction_date)
+new_df
+```
+#### Now, rows including 2021 can be removed.
+```{r}
+new_df = new_df %>% 
+  filter(Transaction_date < "2021-01-01")
+new_df
+```
+* The tibble now has 1743 rows of data that can be analyzed.
+
+### Step 5: Rename values in Referal column
+```{r}
+new_df$Referal[new_df$Referal == 1] = 'Reffered'
+new_df$Referal[new_df$Referal == 0] = 'Not Referred'
+new_df
+```
+
+### Step 6: Data Cleaning Process: Save cleaned data file
+```{r}
+save(new_df, file = "cleaned_data.csv")
+write.csv(new_df, file = "cleaned_data.csv")
+```
+
+# Data Analysis
+
+## Data Overview
+```{r echo=TRUE, results='asis'}
+df <- read_csv("cleaned_data.csv")
+kable(df[1:10,], caption="Table Layout")
+```
+```{r}
+colnames(df)
+str(df)
+glimpse(df)
+```
+
+## Data Analysis Process
+
+### Question 1: Does the date influence spending amount (Year/Month)?
+```{r echo=TRUE, results='asis'}
+yearly_differences_amount_spent = df %>% 
+  mutate(Year = format(Transaction_date, "%Y")) %>% 
+  group_by(Year) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent))
+kable(yearly_differences_amount_spent[1:2,])
+```
+* Per Year
+```{r echo=TRUE, results='asis'}
+monthly_differences_amount_spent = df %>% 
+  mutate(Month = format(Transaction_date, "%m")) %>% 
+  group_by(Month) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent))
+kable(monthly_differences_amount_spent[1:12,])
+```
+* Per Month
+```{r echo=TRUE, results='asis'}
+date_differences_amount_spent = df %>% 
+  mutate(Month = format(Transaction_date, "%m"), Year = format(Transaction_date, "%Y")) %>% 
+  group_by(Month,Year) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent))
+kable(date_differences_amount_spent[1:12,])
+```
+* Per both year and month
+
+### Question 2: Do certain states spend more than others?
+```{r echo=TRUE, results='asis'}
+# Total amount spent per state
+state_differences_amount_spent = df %>% 
+  group_by(State_names) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent),
+            Avg_Amount_Spent = mean(Amount_spent))
+# Top performing states to the top of dataset
+state_differences_amount_spent = state_differences_amount_spent[rev(order(state_differences_amount_spent$Total_Amount_Spent)),]
+# Rounding to the second decimal
+state_differences_amount_spent$Total_Amount_Spent = round(state_differences_amount_spent$Total_Amount_Spent,2)
+state_differences_amount_spent$Avg_Amount_Spent = round(state_differences_amount_spent$Avg_Amount_Spent,2)
+# View new dataset
+kable(state_differences_amount_spent[1:5,])
+```
+
+### Question 3: Does marital status dictate membership segments?
+```{r echo=TRUE, results='asis'}
+# Total and average amount spent per marital status per membership
+marital_status_dictate_membership = df %>% 
+  group_by(Marital_status,Segment) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent),Avg_Amount_Spent = mean(Amount_spent))
+marital_status_dictate_membership = marital_status_dictate_membership[order(marital_status_dictate_membership$Segment),]
+kable(marital_status_dictate_membership[1:10,])
+```
+
+### Question 4: What is the percentage breakdown between employee status?
+```{r echo=TRUE, results='asis'}
+employee_status_percent = df %>% 
+  group_by(Employees_status) %>% 
+  count(Employees_status)
+# Turning total count to percent of people (using scales package)
+employee_status_percent$Percent = percent(employee_status_percent$n/1743)
+#employee_status_percent$Percent = percent(employee_status_percent$Percent)
+# Changing the name of column
+names(employee_status_percent)[names(employee_status_percent) == 'n'] = "Count"
+kable(employee_status_percent[1:4,])
+```
+
+### Question 5: What age group spends more than others, how does the payment method influence age group spending?
+```{r echo=TRUE, results='asis'}
+# Making Age_Group Column and new dataframe for the question
+age_group_df = df %>% 
+  mutate(
+    Age_Group = dplyr::case_when(
+      Age < 25 ~ "15-24",
+      Age >= 25 & Age < 40 ~ "25-39",
+      Age >= 40 & Age < 55 ~ "40-54",
+      Age >= 55 ~ "55+"
+      )
+    )
+age_group_differences_amount_spent = age_group_df %>% 
+  group_by(Age_Group) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+# Get count of dataset
+example = age_group_df %>% 
+  count(Age_Group)
+names(example)[names(example) == 'n'] = "Total People"
+# Combine both tables
+age_group_differences_amount_spent$Total_People = example$`Total People`
+kable(age_group_differences_amount_spent[1:4,])
+```
+
+### Question 6: Are referrals worth investing into?
+```{r echo=TRUE, results='asis'}
+referal_amount_spent = df %>% 
+  group_by(Referal) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+kable(referal_amount_spent[1:2,])
+```
+
+### Question 7: Should other payment methods be targeted and influenced?
+```{r echo=TRUE, results='asis'}
+payment_method_targeting = df %>% 
+  group_by(Payment_method) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+kable(payment_method_targeting[1:3,])
+```
+
+### Question 8: How much of a difference are the different segments making?
+```{r echo=TRUE, results='asis'}
+# Creating table with total/avg amount spent per segment
+segment_influence = df %>% 
+  group_by(Segment) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+# Adding total people column
+segment_count = df %>% 
+  count(Segment)
+segment_influence$Total_People = segment_count$n
+# Adding percent column
+segment_count$n = segment_count$n / 1743
+segment_influence$Percent = segment_count$n
+segment_influence$Percent = percent(segment_influence$Percent)
+kable(segment_influence[1:5,])
+```
+
+### Question 9: In the varying states, which age group should be targeted, what percent do they make up in the states?
+```{r echo=TRUE, results='asis'}
+# Creating base table
+state_targeting = age_group_df %>% 
+  group_by(State_names, Age_Group) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+# Adding total people using count
+state_agegroup_count = age_group_df %>% 
+  group_by(State_names,Age_Group) %>% 
+  count(Age_Group)
+state_targeting$Total_People = state_agegroup_count$n
+state_targeting = state_targeting[,c(1,2,5,3,4)]
+# Sort by largest amount spent per state per age group
+state_targeting = state_targeting %>% 
+  arrange(desc(Total_Amount_Spent))
+kable(state_targeting[1:10,])
+```
+
+### Question 10: Should we influence a gender for a specific segment?
+```{r echo=TRUE, results='asis'}
+# Creating table for total/avg amount spent
+gender_segment_influence = df %>% 
+  group_by(Gender,Segment) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+# Re-ordered the values based on segment
+gender_segment_influence = gender_segment_influence[order(gender_segment_influence$Segment),]
+# Created total people from different table using count
+gender_segment_count = df %>% 
+  group_by(Gender,Segment) %>% 
+  count(Segment)
+gender_segment_count = gender_segment_count[order(gender_segment_count$Segment),]
+# After re-ordering the count, I merged both of them together
+gender_segment_influence$Total_People = gender_segment_count$n
+gender_segment_influence = gender_segment_influence[,c(1,2,5,3,4)]
+kable(gender_segment_influence[1:10,])
+```
+
+### Question 11: What age group is worth referring to the online environment?
+```{r echo=TRUE, results='asis'}
+# Creating table for age_groups referred total/avg spending
+age_group_online_experience = age_group_df %>% 
+  group_by(Age_Group,Referal) %>% 
+  summarise(Total_Amount_Spent = sum(Amount_spent), Avg_Amount_Spent = mean(Amount_spent))
+# Separate table for total people
+age_group_online_count = age_group_df %>% 
+  group_by(Age_Group,Referal) %>% 
+  count(Referal)
+# Add column from count to main table
+age_group_online_experience$Total_People = age_group_online_count$n
+# Re-ordered table 
+age_group_online_experience = age_group_online_experience[,c(1,2,5,3,4)]
+kable(age_group_online_experience[1:8,])
+```

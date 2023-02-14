@@ -1,0 +1,5 @@
+Age_Group,Total_People_in_Age_Group,Percent_of_Total_People,AVG_Transaction_per_Age_Group,Total_Amount_Spent_per_Age_Group
+55+,644,0.369,1400.0,901502.0
+40-54,453,0.26,1463.0,662596.0
+15-24,250,0.143,1490.0,372377.0
+25-39,396,0.227,1386.0,548819.0
