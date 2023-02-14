@@ -1,0 +1,275 @@
+Report: Answers to business questions asked previous to the analysis.,,,,
+Question 1:,Do certain states spend more than others?,,,
+,,,,
+State_names,Total Amount per State,Target States based on Total Amount ,,
+,$0.00,Below Avg,,
+Alabama,"$28,078.68",Below Avg,,
+Alaska,"$49,325.32",Below Avg,,
+Arizona,"$70,769.26",Above Avg,,
+Arkansas,"$50,346.34",Below Avg,,
+California,"$48,921.35",Below Avg,,
+Colorado,"$57,886.39",Below Avg,,
+Connecticut,"$40,812.51",Below Avg,,
+Delaware,"$49,150.26",Below Avg,,
+Florida,"$59,211.91",Above Avg,,
+Georgia,"$60,999.23",Above Avg,,
+Hawaii,"$48,876.29",Below Avg,,
+Idaho,"$46,491.87",Below Avg,,
+Illinois,"$66,729.45",Above Avg,,
+Indiana,"$46,165.96",Below Avg,,
+Iowa,"$43,839.96",Below Avg,,
+Kansas,"$35,540.83",Below Avg,,
+Kentucky,"$56,135.03",Below Avg,,
+Louisiana,"$42,911.44",Below Avg,,
+Maine,"$52,181.55",Below Avg,,
+Maryland,"$41,968.74",Below Avg,,
+Massachusetts,"$67,080.16",Above Avg,,
+Michigan,"$53,863.86",Below Avg,,
+Minnesota,"$58,710.48",Above Avg,,
+Mississippi,"$44,766.56",Below Avg,,
+Missouri,"$63,834.37",Above Avg,,
+Montana,"$60,683.43",Above Avg,,
+Nebraska,"$48,270.22",Below Avg,,
+Nevada,"$45,754.55",Below Avg,,
+New Hampshire,"$54,357.94",Below Avg,,
+New Jersey,"$61,035.85",Above Avg,,
+New Mexico,"$56,977.57",Below Avg,,
+New York,"$53,738.25",Below Avg,,
+North Carolina,"$43,833.28",Below Avg,,
+North Dakota,"$45,685.54",Below Avg,,
+Ohio,"$43,624.88",Below Avg,,
+Oklahoma,"$47,026.49",Below Avg,,
+Oregon,"$42,801.94",Below Avg,,
+Pennsylvania,"$49,703.38",Below Avg,,
+Rhode Island,"$53,081.57",Below Avg,,
+South Carolina,"$35,170.82",Below Avg,,
+South Dakota,"$57,595.42",Below Avg,,
+Tennessee,"$36,962.14",Below Avg,,
+Texas,"$41,687.96",Below Avg,,
+Utah,"$34,506.55",Below Avg,,
+Vermont,"$59,948.35",Above Avg,,
+Virginia,"$38,918.87",Below Avg,,
+Washington,"$43,734.47",Below Avg,,
+West Virginia,"$60,960.95",Above Avg,,
+Wisconsin,"$41,740.70",Below Avg,,
+Wyoming,"$42,895.12",Below Avg,,
+,,,,
+Question 2:,Does the date influence spending amount?,,,
+,,,,
+Transaction_year,Total Amount spent per year,,,
+2019,"$1,247,649.75",,,
+2020,"$1,237,644.29",,,
+Grand Total,"$2,485,294.04",,,
+,,,,
+Transaction_month,Total Amount spent per month,,,
+April,"$201,662.54",,,
+August,"$213,644.63",,,
+December,"$211,266.04",,,
+February,"$210,744.89",,,
+January,"$262,925.11",,,
+July,"$199,257.65",,,
+June,"$207,129.83",,,
+March,"$199,478.66",,,
+May,"$211,077.43",,,
+November,"$160,991.51",,,
+October,"$215,111.38",,,
+September,"$192,004.37",,,
+,,,,
+Question 3: ,Does marital status dictate membership segments?,,,
+,,,,
+COUNTA of Marital_status,Marital_status,,,
+Segment,Married,Single,,
+Basic,473,327,,
+Gold,98,74,,
+Missing,77,64,,
+Platinum,169,135,,
+Silver,188,138,,
+Grand Total,1005,738,,
+,,,,
+Question 4:,What is the percentage breakdown between employee status?,,,
+,,,,
+Employees_status,Percentage from total transactions,,,
+Employees,38.78%,,,
+Self-employed,19.45%,,,
+Unemployment,10.15%,,,
+Workers,31.61%,,,
+,,,,
+Question 5: ,"What age group spends more than others, how does the payment method influence the ages spending?",,,
+,,,,
+Total Amount Spent per Age Group,Payment_method,,,
+Age_group,Card,Other,PayPal,
+(15-24),"$101,324.73","$105,331.55","$165,720.25",
+(25-39),"$179,263.92","$108,298.00","$261,257.24",
+(40-54),"$199,631.67","$147,564.61","$315,399.76",
+(55+),"$245,447.81","$258,793.60","$397,260.90",
+Grand Total,"$725,668.13","$619,987.76","$1,139,638.15",
+,,,,
+Question 6:,Are Referrals worth investing into?,,,
+,,,,
+Total Amount Spent ,,,,
+"$2,485,294.04",,,,
+,,,,
+,,,,
+,,,,
+Question 7: ,Should other payment methods be targeted and influenced?,,,
+,,,,
+Payment_method,Number of people ,Average Amount spent per transaction,Total Amount spent per Payment Method,
+Card,509,"$1,425.67","$725,668.13",
+Other,420,"$1,476.16","$619,987.76",
+PayPal,814,"$1,400.05","$1,139,638.15",
+Grand Total,1743,"$1,425.87","$2,485,294.04",
+,,,,
+Question 8:,How much of a difference are the different segments making,,,
+,,,,
+Segment,Number of people,Average Amount spent per transaction,Total Amount spent ,
+Basic,800,"$1,423.47","$1,138,779.36",
+Gold,172,"$1,384.96","$238,212.41",
+Missing,141,"$1,432.65","$202,004.02",
+Platinum,304,"$1,435.50","$436,391.26",
+Silver,326,"$1,441.43","$469,906.99",
+,,,,
+Question 9: ,"In the varying states, which age group should be targeted, what percentage do they make up in the state?",,,
+,,,,
+Number of People per Age Group,Age_group,,,
+State_names,(15-24),(25-39),(40-54),(55+)
+Alabama,5,3,6,8
+Alaska,5,6,10,13
+Arizona,7,9,8,19
+Arkansas,4,15,12,10
+California,4,11,6,19
+Colorado,4,11,9,12
+Connecticut,3,7,8,13
+Delaware,1,9,13,17
+Florida,7,17,8,9
+Georgia,9,8,10,23
+Hawaii,5,7,10,14
+Idaho,4,6,6,15
+Illinois,7,12,16,13
+Indiana,3,9,9,10
+Iowa,3,3,10,15
+Kansas,5,3,8,12
+Kentucky,6,11,10,10
+Louisiana,4,5,7,15
+Maine,6,8,11,15
+Maryland,7,8,6,8
+Massachusetts,6,9,9,21
+Michigan,4,5,11,15
+Minnesota,9,10,9,13
+Mississippi,7,5,7,13
+Missouri,6,4,15,13
+Montana,3,9,9,14
+Nebraska,7,7,10,9
+Nevada,7,9,5,11
+New Hampshire,3,7,8,16
+New Jersey,4,10,11,13
+New Mexico,3,10,9,15
+New York,5,9,9,12
+North Carolina,2,6,7,13
+North Dakota,5,6,8,10
+Ohio,3,5,11,13
+Oklahoma,4,9,13,8
+Oregon,3,9,6,17
+Pennsylvania,4,11,12,8
+Rhode Island,5,10,12,8
+South Carolina,3,5,8,12
+South Dakota,6,7,9,13
+Tennessee,4,2,7,13
+Texas,5,8,7,12
+Utah,5,6,5,11
+Vermont,8,8,12,12
+Virginia,5,8,8,8
+Washington,4,7,9,13
+West Virginia,4,11,12,17
+Wisconsin,10,8,4,11
+Wyoming,7,8,8,10
+,,,,
+Percentage of each Age Group,Age_group,,,
+State_names,(15-24),(25-39),(40-54),(55+)
+Alabama,22.73%,13.64%,27.27%,36.36%
+Alaska,14.71%,17.65%,29.41%,38.24%
+Arizona,16.28%,20.93%,18.60%,44.19%
+Arkansas,9.76%,36.59%,29.27%,24.39%
+California,10.00%,27.50%,15.00%,47.50%
+Colorado,11.11%,30.56%,25.00%,33.33%
+Connecticut,9.68%,22.58%,25.81%,41.94%
+Delaware,2.50%,22.50%,32.50%,42.50%
+Florida,17.07%,41.46%,19.51%,21.95%
+Georgia,18.00%,16.00%,20.00%,46.00%
+Hawaii,13.89%,19.44%,27.78%,38.89%
+Idaho,12.90%,19.35%,19.35%,48.39%
+Illinois,14.58%,25.00%,33.33%,27.08%
+Indiana,9.68%,29.03%,29.03%,32.26%
+Iowa,9.68%,9.68%,32.26%,48.39%
+Kansas,17.86%,10.71%,28.57%,42.86%
+Kentucky,16.22%,29.73%,27.03%,27.03%
+Louisiana,12.90%,16.13%,22.58%,48.39%
+Maine,15.00%,20.00%,27.50%,37.50%
+Maryland,24.14%,27.59%,20.69%,27.59%
+Massachusetts,13.33%,20.00%,20.00%,46.67%
+Michigan,11.43%,14.29%,31.43%,42.86%
+Minnesota,21.95%,24.39%,21.95%,31.71%
+Mississippi,21.88%,15.63%,21.88%,40.63%
+Missouri,15.79%,10.53%,39.47%,34.21%
+Montana,8.57%,25.71%,25.71%,40.00%
+Nebraska,21.21%,21.21%,30.30%,27.27%
+Nevada,21.88%,28.13%,15.63%,34.38%
+New Hampshire,8.82%,20.59%,23.53%,47.06%
+New Jersey,10.53%,26.32%,28.95%,34.21%
+New Mexico,8.11%,27.03%,24.32%,40.54%
+New York,14.29%,25.71%,25.71%,34.29%
+North Carolina,7.14%,21.43%,25.00%,46.43%
+North Dakota,17.24%,20.69%,27.59%,34.48%
+Ohio,9.38%,15.63%,34.38%,40.63%
+Oklahoma,11.76%,26.47%,38.24%,23.53%
+Oregon,8.57%,25.71%,17.14%,48.57%
+Pennsylvania,11.43%,31.43%,34.29%,22.86%
+Rhode Island,14.29%,28.57%,34.29%,22.86%
+South Carolina,10.71%,17.86%,28.57%,42.86%
+South Dakota,17.14%,20.00%,25.71%,37.14%
+Tennessee,15.38%,7.69%,26.92%,50.00%
+Texas,15.63%,25.00%,21.88%,37.50%
+Utah,18.52%,22.22%,18.52%,40.74%
+Vermont,20.00%,20.00%,30.00%,30.00%
+Virginia,17.24%,27.59%,27.59%,27.59%
+Washington,12.12%,21.21%,27.27%,39.39%
+West Virginia,9.09%,25.00%,27.27%,38.64%
+Wisconsin,30.30%,24.24%,12.12%,33.33%
+Wyoming,21.21%,24.24%,24.24%,30.30%
+,,,,
+Question 10: ,Should we influence a gender for a specific segment?,,,
+,,,,
+COUNTA of Gender,Gender,,,
+Segment,Female,Male,,
+Basic,427,373,,
+Gold,94,78,,
+Missing,74,67,,
+Platinum,169,135,,
+Silver,171,155,,
+Grand Total,935,808,,
+,,,,
+Question 11:,What age group is worth referring to the online environment?,,,
+,,,,
+SUM of Amount_spent,Referral,,,
+Age_group,No Referral,Referred,,
+(15-24),"$130,305.69","$242,070.84",,
+(25-39),"$218,461.90","$330,357.26",,
+(40-54),"$219,728.26","$442,867.78",,
+(55+),"$303,267.96","$598,234.35",,
+Grand Total,"$871,763.81","$1,613,530.23",,
+,,,,
+Question 12:,Which Months are most Profitable,,,
+,,,,
+Transaction_month,Average per Transaction,Total Amount Spent per Month,,
+April,"$1,471.99","$201,662.54",,
+August,"$1,318.79","$213,644.63",,
+December,"$1,437.18","$211,266.04",,
+February,"$1,538.28","$210,744.89",,
+January,"$1,574.40","$262,925.11",,
+July,"$1,475.98","$199,257.65",,
+June,"$1,428.48","$207,129.83",,
+March,"$1,488.65","$199,478.66",,
+May,"$1,397.86","$211,077.43",,
+November,"$1,248.00","$160,991.51",,
+October,"$1,319.70","$215,111.38",,
+September,"$1,411.80","$192,004.37",,
+Grand Total,"$1,425.87","$2,485,294.04",,

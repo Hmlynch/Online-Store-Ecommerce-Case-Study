@@ -1,0 +1,9 @@
+Data Cleaning Steps:,
+Method/Column,Description
+"Filtering out blanks/Transaction_Date, Gender, Age, Marital_status, Employees_status, Payment_method, Referal, Amount_spent",Removed several rows containing no content that could damage the results of the data analysis.  Just under 500 rows were deleted.
+Title Casing/Employees_status,Making every text in column title casing to keep consistency using the extensions add on tool.
+Format Date/Transaction_date,Made all the dates relevant to the month insead of the exact day/month/year
+Format Date/Transaction_date,Removed all 2021 data since data only included half a year which would show bias to beginning months in analysis.
+"Adding Rows/Transaction_year, Transaction_month",Added two rows including the year and month for further analysis dependent on those values.
+Adding Row/Age_group,"For further analysis about a question about the ages, it would be simplar to just add them into age groups to do the analysis."
+Removing Fromatting/ Referral Column,"Instead of having 0/1 being the values, I changed those values to be Not Referral/Referred to be more precise in langauge."
