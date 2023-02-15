@@ -20,3 +20,7 @@
 - You can download each csv file individually.
 - Download the Excel file to see the entirety of the process. 
 - View from the GitHub format.
+
+### Software Used:
+[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Google_Sheets-05f54d?style=for-the-badge&logo=google&logoColor=white"/>]()
