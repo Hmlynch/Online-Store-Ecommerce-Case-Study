@@ -22,3 +22,8 @@
 Programming Langauge: 
 
 [<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
+
+Packages:
+
+[<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
