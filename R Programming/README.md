@@ -23,7 +23,7 @@
 ### Software Used:
 Programming Langauge: 
 
-[<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/RStuido-11b5d6?style=for-the-badge&logo=R&logoColor=white"/>]()
 
 Packages:
 
