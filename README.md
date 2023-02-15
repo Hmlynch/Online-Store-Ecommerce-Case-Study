@@ -25,7 +25,7 @@ Once a key hypothesis was determined, then comes the data analysis process. This
 - <a href="">Bigquery/SQL</a>
 - <a href="">Python</a>
 - <a href="">R Programming/RStudio</a>
-- <a href="">Tableau</a>
+- <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/Tableau">Tableau</a>
 
 ## Credit
 
