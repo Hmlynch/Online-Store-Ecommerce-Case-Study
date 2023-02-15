@@ -19,5 +19,6 @@
 - Download the the Case_Study.ipynb code to view more indepth.
 
 ### Software Used:
-[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/Google_Sheets-05f54d?style=for-the-badge&logo=google&logoColor=white"/>]()
+Programming Langauge: 
+
+[<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
