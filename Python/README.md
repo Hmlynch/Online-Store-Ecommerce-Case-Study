@@ -13,8 +13,7 @@
 - The installations are described in the Case_Study.ipynb report shown in the main folder.
 
 ##### How to view these documents?
-- View the Case_Study.ipynb report.
-- Download the Excel file to see the entirety of the process. 
+- View the Case_Study.ipynb report. 
 - View from the GitHub format.
 - Download the the Case_Study.ipynb code to view more indepth.
 
