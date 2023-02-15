@@ -23,7 +23,7 @@ Once a key hypothesis was determined, then comes the data analysis process. This
 
 - <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/Google%20Sheets">Google Sheets</a>
 - <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/SQL">Bigquery/SQL</a>
-- <a href="">Python</a>
+- <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/Python">Python</a>
 - <a href="">R Programming/RStudio</a>
 - <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/Tableau">Tableau</a>
 
