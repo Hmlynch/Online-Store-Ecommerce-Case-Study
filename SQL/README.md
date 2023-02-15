@@ -33,4 +33,4 @@
 - <a href="https://console.cloud.google.com/bigquery?sq=431673950953:f0b4ecdec6c2430e9bd9da6a7834f42e">Question 12</a>
 
 ### Software Used:
-[<img src="https://img.shields.io/badge/BigQuery-25631c?style=for-the-badge&logo=google&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Bigquery-020b6e?style=for-the-badge&logo=google&logoColor=white"/>]()
