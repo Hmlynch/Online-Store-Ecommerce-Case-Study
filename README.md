@@ -22,7 +22,7 @@ The goal of this case study was to manipulate data about online consumer behavio
 Once a key hypothesis was determined, then comes the data analysis process. This process is defined by 6 main methods: Ask, Prepare, Process, Analyze, Share, Act. Knowing the process allowed me to follow the steps of cleaning the data, mining for the answers, and creating visual graphs/charts to provide the patterns that were discovered in the data. This process was repeated through 5 different methods: Google Sheets, Bigquery/SQL, Python, RStudio, and Tableau for the visuals. Each method of analyzing the data was distinct but all came to the same conclusion in cleaning the data and finding what the questions were asking. The specifics about each method regarding installations, code work, and more are provided in the README.md files below (the README.md files are inside the individual method folders as well):
 
 - <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/Google%20Sheets">Google Sheets</a>
-- <a href="">Bigquery/SQL</a>
+- <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/SQL">Bigquery/SQL</a>
 - <a href="">Python</a>
 - <a href="">R Programming/RStudio</a>
 - <a href="https://github.com/Hmlynch/Online-Store-Ecommerce-Case-Study/tree/main/Tableau">Tableau</a>
