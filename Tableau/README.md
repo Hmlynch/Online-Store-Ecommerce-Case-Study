@@ -2,17 +2,16 @@
 
 ### Purpose of Each Folder: 
 
-##### Case Study:
-- Provides a csv file that contains each of the business task questions and the data that came from the questions. Each question has its own data table with the results that best answer the question. 
+##### Main Folder:
+- Online Store Data Case Study.pdf: This file contians a pdf of all of the visualizations that were created for each individual question regarding the original business task questions. All were created in Tableau and presented in a pdf format.
 
 ### Installations:
 
 ##### How to view these documents?
-- You can download each csv file individually.
-- Download the Excel file to see the entirety of the process. 
-- View from the GitHub format.
+- View the pdf document.
+- Download pdf document.
+- Visit <a href="https://public.tableau.com/app/profile/hayden.lynch">My Profile</a> to see specifics about each visual.
 
 ### Software Used:
-[<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/Google_Sheets-05f54d?style=for-the-badge&logo=google&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white"/>]()
 
