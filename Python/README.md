@@ -2,24 +2,21 @@
 
 ### Purpose of Each Folder: 
 
-##### Case Study:
-- Provides a csv file that contains each of the business task questions and the data that came from the questions. Each question has its own data table with the results that best answer the question. 
-
-##### Cleaned Data: 
-- This folder contains two files: One being the cleaned data that was used to analyze the question, the second being the documentation of what all had been changed in the cleaned format compared to the original. 
-
-##### Excel Document:
-- This folder contains the entire project including the original data, cleaned data, cleaned data documentation, and the results from the case study. 
-
 ##### Uncleaned Data:
-- Provides the original source and the untouched dataset that was used as the basis behind this case study. 
+- Provides a csv file that contains the original source of data that was used for the analysis of this case study.
+
+##### Main Folder: 
+- Case_Study.ipynb: This file is the results of the case study. Invloving what is needed to install/import into Python, the code that resulted in the cleaning of the data, and the results of each question in a data table format. 
+- The other three csv files are all checkpoints used to save progress in the data cleaning process. The cleaned_data csv file is the final result of the data cleaning process. 
 
 ### Installations:
+- The installations are described in the Case_Study.ipynb report shown in the main folder.
 
 ##### How to view these documents?
-- You can download each csv file individually.
+- View the Case_Study.ipynb report.
 - Download the Excel file to see the entirety of the process. 
 - View from the GitHub format.
+- Download the the Case_Study.ipynb code to view more indepth.
 
 ### Software Used:
 [<img src="https://img.shields.io/badge/Excel-25631c?style=for-the-badge&logo=microsoft&logoColor=white"/>]()
