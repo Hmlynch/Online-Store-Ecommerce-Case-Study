@@ -2,21 +2,23 @@
 
 ### Purpose of Each Folder: 
 
-##### Uncleaned Data:
-- Provides a csv file that contains the original source of data that was used for the analysis of this case study.
+##### R Markdown Format:
+- This folder inludes 6 different files. The main files that can be used to observe the case study is: online_store_data_case_study.pdf, Question_Analysis.R. The first file is a pdf report of the data cleaning process and the results of the data analysis process. The other file contains raw R code hasn't been ran to present the results of the case study.
 
-##### Main Folder: 
-- Case_Study.ipynb: This file is the results of the case study. Invloving what is needed to install/import into Python, the code that resulted in the cleaning of the data, and the results of each question in a data table format. 
-- The other three csv files are all checkpoints used to save progress in the data cleaning process. The cleaned_data csv file is the final result of the data cleaning process. 
+##### Cleaned Data: 
+- This folder contains a csv file of the finsihed cleaned data after cleaning the data in RStudio.
+
+##### Uncleaned Data:
+- This folder contains a csv file of the original source of data provided for the case study.
 
 ### Installations:
-- The installations are described in the Case_Study.ipynb report shown in the main folder.
+- The installations are described in online_store_data_case_study.pdf and Question_Analysis.R files shown in the R Markdown Format folder.
 
 ##### How to view these documents?
-- View the Case_Study.ipynb report.
-- Download the Excel file to see the entirety of the process. 
+- View the online_store_data_case_study.pdf report.
+- Download and run the Question_Analysis.R file.
+- Download the csv file to see the entirety of the process. 
 - View from the GitHub format.
-- Download the the Case_Study.ipynb code to view more indepth.
 
 ### Software Used:
 Programming Langauge: 
